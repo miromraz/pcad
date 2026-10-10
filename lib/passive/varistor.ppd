@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="10.0" t="" n="EN 60617: 04-01-04" fG="4cc50768-8125-56d2-b84f-98588721d7c7" lG="728a2415-c7d2-5eef-b588-cb318fa53392">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,80,0,-80,"/>
+<rect op-fd="1" op-fc="16777215" left="-16" top="-40" right="16" bottom="40"/>
+<text x="44" y="31" f="40,0,0,0,Liberation Sans,000000" al="9">U</text>
+<polyline pts="28,40,28,20,-28,-40,"/>
+<outlet x="0" y="-80"/>
+<outlet x="0" y="80"/>
+</layer>
+</layers>
+</document>

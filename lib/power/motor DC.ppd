@@ -1,0 +1,18 @@
+<document type="ProfiCAD ppd" version="10.0" t="" fG="4c50c127-f197-5e9d-acdc-2366b5d7a78e" lG="8ec2fe97-569f-53ce-ade1-27e3ed2fcd9c">
+<layers current="0">
+<layer name="0" v="1">
+<ellipse left="-60" top="-60" right="60" bottom="60"/>
+<polyline pts="20,72,20,58,"/>
+<polyline pts="0,72,0,120,"/>
+<text x="-10" y="0" f="120,0,0,0,Liberation Sans,000000" al="9">M</text>
+<polyline pts="0,-120,0,-72,"/>
+<polyline pts="-20,72,20,72,"/>
+<polyline pts="20,-72,20,-58,"/>
+<polyline pts="-20,-58,-20,-72,"/>
+<polyline pts="-20,-72,20,-72,"/>
+<polyline pts="-20,58,-20,72,"/>
+<outlet x="0" y="-120"/>
+<outlet x="0" y="120"/>
+</layer>
+</layers>
+</document>

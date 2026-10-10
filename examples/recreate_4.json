@@ -1,0 +1,123 @@
+{
+ "title": {
+  "title": "Resistor measurement (DC)",
+  "author": "pcad.py",
+  "name": "recreate_4"
+ },
+ "parts": [
+  {
+   "sym": "sources/generator adjustable DC",
+   "ref": "G",
+   "x": 14.8,
+   "y": 20.2,
+   "hide_ref": true
+  },
+  {
+   "sym": "meters/ammeter",
+   "ref": "A",
+   "x": 26.8,
+   "y": 6.2,
+   "hide_ref": true
+  },
+  {
+   "sym": "meters/voltmeter",
+   "ref": "V",
+   "x": 36.8,
+   "y": 20.3,
+   "rot": 90,
+   "hide_ref": true
+  },
+  {
+   "sym": "passive/resistor",
+   "ref": "Rz",
+   "x": 64.8,
+   "y": 20.2,
+   "hide_ref": true
+  }
+ ],
+ "wires": [
+  [
+   "G.4",
+   [
+    14.8,
+    6.2
+   ],
+   "A.2"
+  ],
+  [
+   "A.1",
+   [
+    36.8,
+    6.2
+   ],
+   [
+    64.8,
+    6.2
+   ],
+   "Rz.2"
+  ],
+  [
+   "Rz.1",
+   [
+    64.8,
+    32.2
+   ],
+   [
+    14.8,
+    32.2
+   ],
+   "G.2"
+  ],
+  [
+   [
+    36.8,
+    6.2
+   ],
+   "V.1"
+  ],
+  [
+   "V.2",
+   [
+    36.8,
+    32.2
+   ]
+  ]
+ ],
+ "texts": [
+  {
+   "x": 3.2,
+   "y": 18.3,
+   "text": "G",
+   "color": "008000",
+   "size": 85
+  },
+  {
+   "x": 19.1,
+   "y": 4.3,
+   "text": "A",
+   "color": "008000",
+   "size": 85
+  },
+  {
+   "x": 29.2,
+   "y": 18.3,
+   "text": "V",
+   "color": "008000",
+   "size": 85
+  },
+  {
+   "x": 59.7,
+   "y": 18.3,
+   "text": "Rz",
+   "color": "008000",
+   "size": 85
+  },
+  {
+   "x": 58.1,
+   "y": 22.3,
+   "text": "1K14",
+   "color": "FF00FF",
+   "size": 85
+  }
+ ]
+}

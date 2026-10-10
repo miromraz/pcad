@@ -1,0 +1,9 @@
+<document type="ProfiCAD picd" version="10.0">
+<picd mark="1" outlets_hor="0" outlets_ver="7" name="">
+<out_n>1A,1B,1Y,2A,2B,2Y,GND,3Y,3A,3B,4Y,4A,4B,VCC</out_n>
+<out_n_inv/>
+<desc>Quad NAND 7400</desc>
+<out_d>1,2,3,4,5,6,7,8,9,10,11,12,13,14</out_d>
+<pos_hor/>
+</picd>
+</document>

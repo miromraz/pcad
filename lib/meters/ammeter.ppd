@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="10.0" t="" fG="d55174fe-535f-5559-9ec9-23bc533e660b" lG="a0c3a9c9-1b37-5aaa-8637-f564f54cc7c5">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-80,0,80,0,"/>
+<ellipse op-fd="1" op-fc="16777215" left="-40" top="-40" right="40" bottom="40"/>
+<text x="-1" y="-14" f="96,0,0,0,Liberation Sans,000000" al="9">A</text>
+<outlet x="80" y="0"/>
+<outlet x="-80" y="0"/>
+</layer>
+</layers>
+</document>

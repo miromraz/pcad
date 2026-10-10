@@ -1,0 +1,36 @@
+Symbol library — attribution and licensing
+==========================================
+
+Most symbols in this directory were derived from the QElectroTech elements
+collection, © The QElectroTech team, https://qelectrotech.org, licensed under
+the Creative Commons Attribution 3.0 License (CC-BY 3.0). They were converted
+to the ProfiCAD .ppd format and modified (rescaled, re-coordinated, outlets
+snapped to a 2 mm grid) by tools/qet2ppd.py.
+
+CC-BY 3.0: http://creativecommons.org/licenses/by/3.0/
+
+The following clause from the QElectroTech ELEMENTS.LICENSE applies verbatim:
+
+    Permission is not granted to use this software or any of the associated
+    files as sample data for the purposes of building machine learning models.
+
+Our own drawings
+----------------
+The following symbols are original work, © 2026 miromraz, and are released
+under CC-BY 3.0 as well (so the whole lib/ tree is uniformly CC-BY 3.0):
+
+  lib/misc/junction dot.ppd
+  lib/misc/terminal.ppd
+  lib/misc/antenna.ppd
+  lib/meters/oscilloscope.ppd
+  lib/sources/AC voltage source.ppd
+  lib/sources/DC voltage source.ppd
+  lib/sources/generator adjustable AC.ppd
+  lib/sources/generator adjustable DC.ppd
+  lib/ic/555.picd
+  lib/ic/741 op-amp.picd
+  lib/ic/LM358 dual op-amp.picd
+  lib/ic/7400 quad NAND.picd
+  lib/ic/7805 regulator.picd
+
+The .picd ICs were authored from public pinouts.

@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="10.0" t="" n="EN 60617: 06-16-01" fG="ac2cea86-1d87-58d7-970d-ffdddf2c53a4" lG="989bc319-36d6-5e18-b416-b9917dc8ee80">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-60" top="-60" right="60" bottom="60"/>
+<text x="0" y="-24" f="130,0,0,0,Arial,000000" al="9">G</text>
+<polyline pts="-66,66,66,-66,"/>
+<polyline pts="66,-66,46,-60,"/>
+<polyline pts="66,-66,60,-46,"/>
+<polybezier pts="-20,22,-10,2,0,22,0,22,"/>
+<polybezier pts="0,22,0,22,10,42,20,22,"/>
+<outlet x="-60" y="0"/>
+<outlet x="0" y="60"/>
+<outlet x="60" y="0"/>
+<outlet x="0" y="-60"/>
+</layer>
+</layers>
+</document>

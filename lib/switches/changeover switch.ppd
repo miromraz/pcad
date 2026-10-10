@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="10.0" t="" fG="d6d70d3f-58e5-5b8f-b2ea-603f9b46dda3" lG="01e75dd9-d155-53c6-95f8-f5ccc91f47fd">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-80,0,-160,"/>
+<polyline pts="0,0,0,80,"/>
+<polyline pts="0,0,-32,-92,"/>
+<polyline pts="-80,-160,-80,-80,"/>
+<polyline pts="-80,-80,-20,-80,"/>
+<outlet x="0" y="-160"/>
+<outlet x="-80" y="-160"/>
+<outlet x="0" y="80"/>
+</layer>
+</layers>
+</document>

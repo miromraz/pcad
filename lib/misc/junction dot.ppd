@@ -1,0 +1,8 @@
+<document type="ProfiCAD ppd" version="10.0" t="" fG="40b6c3ea-101c-5416-8d63-cc543ba7113e" lG="499acf72-93f3-5800-aa7e-8aaf962e663a">
+<layers current="0">
+<layer name="0" v="1">
+<ellipse left="-6" top="-6" right="6" bottom="6" op-fd="1" op-fc="0"/>
+<outlet x="0" y="0"/>
+</layer>
+</layers>
+</document>

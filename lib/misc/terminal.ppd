@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="10.0" t="" fG="dbe4fc03-f26c-5acb-a678-bdbf0a2bfdec" lG="1fa89958-df73-5faf-a2db-dac8eda52acd">
+<layers current="0">
+<layer name="0" v="1">
+<ellipse left="-6" top="-6" right="6" bottom="6"/>
+<polyline pts="6,0,20,0,"/>
+<outlet x="20" y="0"/>
+</layer>
+</layers>
+</document>

@@ -1,0 +1,74 @@
+{
+ "title": {
+  "title": "RC low-pass",
+  "author": "pcad.py",
+  "name": "rc"
+ },
+ "parts": [
+  {
+   "sym": "passive/resistor",
+   "ref": "R1",
+   "val": "1k",
+   "x": 30,
+   "y": 20,
+   "rot": 90
+  },
+  {
+   "sym": "passive/capacitor",
+   "ref": "C1",
+   "val": "100n",
+   "x": 56,
+   "y": 36
+  },
+  {
+   "sym": "power/ground",
+   "ref": "GND",
+   "x": 56,
+   "y": 52,
+   "hide_ref": true
+  }
+ ],
+ "wires": [
+  [
+   [
+    10,
+    20
+   ],
+   "R1.2"
+  ],
+  [
+   "R1.1",
+   [
+    56,
+    20
+   ],
+   "C1.1"
+  ],
+  [
+   [
+    56,
+    20
+   ],
+   [
+    76,
+    20
+   ]
+  ],
+  [
+   "C1.2",
+   "GND.1"
+  ]
+ ],
+ "texts": [
+  {
+   "x": 4,
+   "y": 18,
+   "text": "IN"
+  },
+  {
+   "x": 78,
+   "y": 18,
+   "text": "OUT"
+  }
+ ]
+}

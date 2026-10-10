@@ -1,0 +1,70 @@
+{
+ "title": {
+  "title": "LED driver",
+  "author": "pcad.py",
+  "name": "led"
+ },
+ "parts": [
+  {
+   "sym": "sources/battery",
+   "ref": "B1",
+   "val": "9V",
+   "x": 50,
+   "y": 80
+  },
+  {
+   "sym": "switches/switch SPST",
+   "ref": "SW1",
+   "x": 24,
+   "y": 52
+  },
+  {
+   "sym": "passive/resistor",
+   "ref": "R1",
+   "val": "330R",
+   "x": 24,
+   "y": 24
+  },
+  {
+   "sym": "semiconductors/LED",
+   "ref": "D1",
+   "val": "LED",
+   "x": 76,
+   "y": 40
+  }
+ ],
+ "wires": [
+  [
+   "B1.2",
+   [
+    24,
+    80
+   ],
+   "SW1.2"
+  ],
+  [
+   "SW1.1",
+   "R1.1"
+  ],
+  [
+   "R1.2",
+   [
+    24,
+    8
+   ],
+   [
+    76,
+    8
+   ],
+   "D1.1"
+  ],
+  [
+   "D1.2",
+   [
+    76,
+    80
+   ],
+   "B1.1"
+  ]
+ ]
+}

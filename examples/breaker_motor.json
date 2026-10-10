@@ -1,0 +1,145 @@
+{
+ "title": {
+  "title": "3-phase motor supply",
+  "author": "pcad.py",
+  "name": "breaker_motor"
+ },
+ "parts": [
+  {
+   "sym": "switches/switch SPST",
+   "ref": "Q1",
+   "x": 32,
+   "y": 40,
+   "hide_ref": true
+  },
+  {
+   "sym": "passive/fuse",
+   "ref": "F1",
+   "x": 32,
+   "y": 58,
+   "hide_ref": true
+  },
+  {
+   "sym": "switches/switch SPST",
+   "ref": "Q2",
+   "x": 40,
+   "y": 40,
+   "hide_ref": true
+  },
+  {
+   "sym": "passive/fuse",
+   "ref": "F2",
+   "x": 40,
+   "y": 58,
+   "hide_ref": true
+  },
+  {
+   "sym": "switches/switch SPST",
+   "ref": "Q3",
+   "x": 48,
+   "y": 40,
+   "hide_ref": false,
+   "val": ""
+  },
+  {
+   "sym": "passive/fuse",
+   "ref": "F3",
+   "x": 48,
+   "y": 58,
+   "hide_ref": false
+  },
+  {
+   "sym": "power/motor 3-phase",
+   "ref": "M1",
+   "val": "M 3~",
+   "x": 40,
+   "y": 80
+  }
+ ],
+ "wires": [
+  {
+   "pts": [
+    [
+     20,
+     8
+    ],
+    [
+     70,
+     8
+    ]
+   ],
+   "name": "L1"
+  },
+  {
+   "pts": [
+    [
+     20,
+     14
+    ],
+    [
+     70,
+     14
+    ]
+   ],
+   "name": "L2"
+  },
+  {
+   "pts": [
+    [
+     20,
+     20
+    ],
+    [
+     70,
+     20
+    ]
+   ],
+   "name": "L3"
+  },
+  [
+   [
+    32,
+    8
+   ],
+   "Q1.1"
+  ],
+  [
+   "Q1.2",
+   "F1.1"
+  ],
+  [
+   "F1.2",
+   "M1.2"
+  ],
+  [
+   [
+    40,
+    14
+   ],
+   "Q2.1"
+  ],
+  [
+   "Q2.2",
+   "F2.1"
+  ],
+  [
+   "F2.2",
+   "M1.4"
+  ],
+  [
+   [
+    48,
+    20
+   ],
+   "Q3.1"
+  ],
+  [
+   "Q3.2",
+   "F3.1"
+  ],
+  [
+   "F3.2",
+   "M1.1"
+  ]
+ ]
+}

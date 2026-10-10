@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="10.0" t="" fG="7e7cf1b8-9174-517b-8f47-dd81f62ee8e7" lG="bfe3e573-9e92-5867-ba01-513e08ff2019">
+<layers current="0">
+<layer name="0" v="1">
+<arc left="-14" top="-40" right="14" bottom="-20" bX="0" bY="10" eX="0" eY="-10"/>
+<arc left="-14" top="0" right="14" bottom="20" bX="0" bY="10" eX="0" eY="-10"/>
+<arc left="-14" top="20" right="14" bottom="40" bX="0" bY="10" eX="0" eY="-10"/>
+<arc left="-14" top="-20" right="14" bottom="0" bX="0" bY="10" eX="0" eY="-10"/>
+<polyline pts="0,40,0,80,"/>
+<polyline pts="0,-80,0,-40,"/>
+<outlet x="0" y="-80"/>
+<outlet x="0" y="80"/>
+</layer>
+</layers>
+</document>

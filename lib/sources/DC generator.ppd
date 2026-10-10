@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="10.0" t="" fG="263e1bf4-6fb5-5bcd-abc8-83ba722f0666" lG="4a75077e-287e-510d-8638-1563b66a9a81">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="0,-120,0,120,"/>
+<rect op-fd="1" op-fc="16777215" left="-20" top="-60" right="20" bottom="60"/>
+<ellipse op-fd="1" op-fc="16777215" left="-50" top="-50" right="50" bottom="50"/>
+<text x="-8" y="1" f="80,0,0,0,Liberation Sans,000000" al="9">G</text>
+<outlet x="0" y="-120"/>
+<outlet x="0" y="120"/>
+</layer>
+</layers>
+</document>

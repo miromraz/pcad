@@ -1,0 +1,9 @@
+<document type="ProfiCAD picd" version="10.0">
+<picd mark="0" outlets_hor="1" outlets_ver="1" name="">
+<out_n>IN,GND,OUT,</out_n>
+<out_n_inv/>
+<desc>Regulator 7805</desc>
+<out_d>1,2,3,</out_d>
+<pos_hor/>
+</picd>
+</document>

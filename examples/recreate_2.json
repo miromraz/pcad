@@ -1,0 +1,116 @@
+{
+ "title": {
+  "title": "Lamp measurement (AC)",
+  "author": "pcad.py",
+  "name": "recreate_2"
+ },
+ "parts": [
+  {
+   "sym": "sources/generator adjustable AC",
+   "ref": "G",
+   "x": 14.8,
+   "y": 18.2,
+   "hide_ref": true
+  },
+  {
+   "sym": "meters/ammeter",
+   "ref": "A",
+   "x": 48.8,
+   "y": 6.2,
+   "hide_ref": true
+  },
+  {
+   "sym": "meters/voltmeter",
+   "ref": "V",
+   "x": 36.8,
+   "y": 18.3,
+   "rot": 90,
+   "hide_ref": true
+  },
+  {
+   "sym": "passive/lamp",
+   "ref": "Z1",
+   "x": 62.8,
+   "y": 20.4,
+   "hide_ref": true
+  }
+ ],
+ "wires": [
+  [
+   "G.4",
+   [
+    14.8,
+    6.2
+   ],
+   [
+    36.8,
+    6.2
+   ],
+   "A.2"
+  ],
+  [
+   "A.1",
+   [
+    62.8,
+    6.2
+   ],
+   "Z1.1"
+  ],
+  [
+   "Z1.2",
+   [
+    62.8,
+    30.2
+   ],
+   [
+    14.8,
+    30.2
+   ],
+   "G.2"
+  ],
+  [
+   [
+    36.8,
+    6.2
+   ],
+   "V.1"
+  ],
+  [
+   "V.2",
+   [
+    36.8,
+    30.2
+   ]
+  ]
+ ],
+ "texts": [
+  {
+   "x": 3.2,
+   "y": 16.3,
+   "text": "G",
+   "color": "008000",
+   "size": 85
+  },
+  {
+   "x": 29.2,
+   "y": 16.3,
+   "text": "V",
+   "color": "008000",
+   "size": 85
+  },
+  {
+   "x": 41.1,
+   "y": 4.3,
+   "text": "A",
+   "color": "008000",
+   "size": 85
+  },
+  {
+   "x": 55.7,
+   "y": 18.3,
+   "text": "Z1",
+   "color": "008000",
+   "size": 85
+  }
+ ]
+}
