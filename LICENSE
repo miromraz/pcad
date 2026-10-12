@@ -20,6 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-The MIT license above covers the code (pcad.py, pcadrender.py, tools/, and the
-example JSON specs). The symbol library under lib/ is licensed separately; see
-lib/LICENSE and lib/NOTICE.
+The MIT license above covers the code (pcad.py, pcadrender.py, the clean-room
+generators under cleanroom/tools/, and the example JSON specs). The symbol
+library under lib/ is an independent clean-room drawing of EN 60617, also
+MIT-licensed; see lib/NOTICE for the clean-room process and lib/LICENSE.

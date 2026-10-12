@@ -1,0 +1,26 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="slide switch - 8 pole" t="" v="" n="EN 60617: 07-02-01" fG="dbc465a4-7c0a-5e59-bfe4-bce15fb57129" lG="0974321d-04c9-52ea-8e63-8527810d64e7">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-5,160,6,160," op-lw="4"/>
+<polyline pts="-5,-160,6,-160," op-lw="4"/>
+<polyline pts="-5,120,6,120," op-lw="4"/>
+<polyline pts="-5,-120,6,-120," op-lw="4"/>
+<polyline pts="-5,80,6,80," op-lw="4"/>
+<polyline pts="-5,-80,6,-80," op-lw="4"/>
+<polyline pts="-5,40,6,40," op-lw="4"/>
+<polyline pts="-5,-40,6,-40," op-lw="4"/>
+<polyline pts="-5,0,6,0," op-lw="4"/>
+<polyline pts="6,-160,6,160," op-lw="4"/>
+<rect left="2" top="-16" right="8" bottom="16" op-lw="4"/>
+<outlet x="-5" y="160"/>
+<outlet x="-5" y="-160"/>
+<outlet x="-5" y="120"/>
+<outlet x="-5" y="-120"/>
+<outlet x="-5" y="80"/>
+<outlet x="-5" y="-80"/>
+<outlet x="-5" y="40"/>
+<outlet x="-5" y="-40"/>
+<outlet x="-5" y="0"/>
+</layer></layers>
+</ppd>
+</document>

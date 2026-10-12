@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pulse-frequency modulation" t="" v="" n="EN 60617: 10-12-02" fG="a39141e2-08f6-5fd4-b1ea-de811c5b2015" lG="01fbf3dd-abae-5f9c-a359-77798aeec7a5">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-30,40,30,40," op-lw="4"/>
+<polyline pts="-27,-22,-24,-27,-20,-31,-17,-34,-14,-35,-10,-34,-7,-31,-3,-27,0,-22,3,-18,7,-13,10,-11,14,-10,17,-11,20,-13,24,-18,27,-22," op-lw="4"/>
+<polyline pts="-24,40,-24,0," op-lw="4"/>
+<polyline pts="-12,40,-12,0," op-lw="4"/>
+<polyline pts="0,40,0,0," op-lw="4"/>
+<polyline pts="9,40,9,0," op-lw="4"/>
+<polyline pts="16,40,16,0," op-lw="4"/>
+<polyline pts="24,40,24,0," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

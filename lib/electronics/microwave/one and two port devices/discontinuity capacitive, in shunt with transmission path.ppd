@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="discontinuity capacitive, in shunt with transmission path" t="" v="" n="EN 60617: 10-08-08" fG="d3123f40-39aa-5325-a8bd-102fa7741f44" lG="040b89d6-5a90-5f17-98c2-46bcf9dce25a">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-60,0,60,0," op-lw="4"/>
+<rect left="-33" top="-50" right="33" bottom="50" op-lw="4"/>
+<polyline pts="-16,-6,16,-6," op-lw="4"/>
+<polyline pts="-16,6,16,6," op-lw="4"/>
+<outlet x="-36" y="0"/>
+<outlet x="36" y="0"/>
+</layer></layers>
+</ppd>
+</document>

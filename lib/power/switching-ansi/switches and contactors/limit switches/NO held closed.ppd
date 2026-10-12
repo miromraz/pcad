@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="NO held closed" t="k" v="" n="IEC:9.2" fG="147ff49c-cfd5-5bf6-a306-db179320dc56" lG="b38289b9-af28-5fa4-afab-6ac1ad11d05d">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-46,0,-16,0," op-lw="4"/>
+<polyline pts="46,0,16,0," op-lw="4"/>
+<polyline pts="16,20,-12,-20," op-lw="4"/>
+<ellipse left="-6" top="-18" right="6" bottom="-6" op-lw="4"/>
+<outlet x="-46" y="0"/>
+<outlet x="46" y="0"/>
+</layer></layers>
+</ppd>
+</document>

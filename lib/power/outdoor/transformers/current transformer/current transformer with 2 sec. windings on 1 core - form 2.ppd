@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="current transformer with 2 sec. windings on 1 core - form 2" t="" v="" n="EN 60617: 06-13-05" fG="365de14e-b611-5f1a-a145-d1d2eb86bff9" lG="9de37ae4-4015-55f5-92b2-a55b3269cc8a">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-10" top="-10" right="10" bottom="10" op-lw="4"/>
+<polyline pts="0,-80,0,80," op-lw="4"/>
+<outlet x="0" y="-80"/>
+<outlet x="0" y="80"/>
+</layer></layers>
+</ppd>
+</document>

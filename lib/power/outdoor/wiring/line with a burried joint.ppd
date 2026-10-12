@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="line with a burried joint" t="" v="" n="EN 60617: 11-03-07" fG="5c6b28f8-bd2c-5faa-90b4-8138ba611b34" lG="7a29c8bb-ee4f-5201-83ac-65d257d6dc5a">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-25,-6,25,-6," op-lw="4"/>
+<ellipse left="-6" top="-12" right="6" bottom="0" op-lw="2" op-fd="1"/>
+<polyline pts="-22,8,-10,8," op-lw="4"/>
+<polyline pts="-6,8,6,8," op-lw="4"/>
+<polyline pts="10,8,22,8," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

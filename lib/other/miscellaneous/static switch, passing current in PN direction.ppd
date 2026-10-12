@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="static switch, passing current in PN direction" t="" v="" n="EN 60617: 07-25-03 PN" fG="bac602bb-e988-59fc-84fe-cf4496b812f1" lG="34cd53a9-0f3d-5ae5-b4e0-55984c56e7e8">
+<layers current="0"><layer name="0" v="1">
+<rect left="-19" top="-19" right="19" bottom="19" op-lw="4"/>
+<polyline pts="0,-60,0,-19," op-lw="4"/>
+<polyline pts="0,19,0,60," op-lw="4"/>
+<polygon pts="0,-12,-10,8,10,8," op-lw="4" op-fd="1"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

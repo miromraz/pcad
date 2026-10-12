@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="magnetoresistor, linear type shown" t="" v="" n="EN 60617: 05-06-06" fG="85d5ccbc-2ccd-54d5-a476-de9b46f2d64d" lG="1790d082-0ed8-5f41-9d7d-9dba7cfec4f5">
+<layers current="0"><layer name="0" v="1">
+<rect left="-15" top="-30" right="15" bottom="30" op-lw="4"/>
+<polyline pts="0,-40,0,-30," op-lw="4"/>
+<polyline pts="0,30,0,40," op-lw="4"/>
+<polyline pts="-23,40,23,-40," op-lw="4"/>
+<outlet x="0" y="-40"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="terminating set with balancing network" t="" v="" n="EN 60617: 03-02-01" fG="b4c26f80-6167-57be-be54-adf82850f32f" lG="e0b870e0-cc68-554a-a3c4-a8892288c857">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polygon pts="-26,26,26,26,0,-26," op-lw="4"/>
+<polyline pts="-40,-26,40,-26," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="contactor 3P" t="" v="" n="EN 60617: 211-07-42" fG="e4425b06-5872-55da-b504-c74c87ef8f2a" lG="e91d98e7-bca8-582d-b10d-8e6a773b2d9d">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-46,37,0,0," op-lw="4"/>
+<ellipse left="-4" top="-4" right="4" bottom="4" op-lw="2" op-fd="1"/>
+<polyline pts="0,0,38,-30," op-lw="4"/>
+<polyline pts="46,-37,37,-29," op-lw="4"/>
+<polyline pts="10,-15,10,-17,11,-19,11,-20,12,-21,14,-23,15,-23,17,-24,19,-24,21,-24,22,-23,24,-23,25,-21,26,-20,27,-19,28,-17,28,-15," op-lw="4"/>
+<polyline pts="-20,0,0,0," op-lw="4"/>
+<polyline pts="0,20,0,0," op-lw="4"/>
+<polyline pts="20,0,0,0," op-lw="4"/>
+<polyline pts="0,-20,0,0," op-lw="4"/>
+<outlet x="-20" y="0"/>
+<outlet x="0" y="20"/>
+<outlet x="20" y="0"/>
+<outlet x="0" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

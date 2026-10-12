@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="weatherproof switch" t="" v="" n="EN 60617: 211-06-02" fG="f8052a83-d0df-57ad-a9c0-4334b22bae5b" lG="833f1087-9260-5134-94e0-2253916ac878">
+<layers current="0"><layer name="0" v="1">
+<text x="0" y="0" al="9" f="54,0,0,0,Arial,000000">Sᵂᴾ</text>
+<outlet x="0" y="20"/>
+<outlet x="20" y="0"/>
+<outlet x="0" y="-20"/>
+<outlet x="-20" y="0"/>
+</layer></layers>
+</ppd>
+</document>

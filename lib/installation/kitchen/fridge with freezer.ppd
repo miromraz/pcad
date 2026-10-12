@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="fridge with freezer" t="" v="" n="EN 60617: 211-10-16" fG="d836ce32-a7b0-5bb8-a75b-9021f348cdaf" lG="24d58add-e3b2-5aab-b1c0-7d7483c47e9b">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="0,-36,0,36," op-lw="4"/>
+<polyline pts="-35,0,35,0," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

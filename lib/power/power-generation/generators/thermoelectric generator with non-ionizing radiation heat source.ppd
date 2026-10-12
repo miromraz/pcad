@@ -1,0 +1,18 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="thermoelectric generator with non-ionizing radiation heat source" t="" v="" n="EN 60617: 06-18-02" fG="44e18626-a8bb-5cf6-add1-9a5076b177ef" lG="086ad6d9-7261-5e76-9648-5d99daf2a82f">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="0" right="60" bottom="120" op-lw="4"/>
+<text x="0" y="60" al="9" f="95,0,0,0,Arial,000000">G</text>
+<rect left="-50" top="-140" right="50" bottom="-40" op-lw="4"/>
+<polyline pts="-107,-128,-52,-106," op-lw="4"/>
+<polygon pts="-52,-106,-67,-106,-63,-117," op-lw="4" op-fd="1"/>
+<polyline pts="-107,-88,-52,-66," op-lw="4"/>
+<polygon pts="-52,-66,-67,-66,-63,-77," op-lw="4" op-fd="1"/>
+<polyline pts="0,-40,0,0," op-lw="4"/>
+<outlet x="-80" y="-20"/>
+<outlet x="80" y="-20"/>
+<outlet x="0" y="-160"/>
+<outlet x="0" y="120"/>
+</layer></layers>
+</ppd>
+</document>

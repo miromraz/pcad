@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="disconnector (isolator)" t="" v="" n="EN 60617: 07-13-06" fG="f5dea15e-e281-5ffe-9aee-c5218ca665d0" lG="02e4f69a-d88b-558d-90ca-ff1de2aa6474">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,27,-18," op-lw="4"/>
+<polyline pts="0,-18,27,-18," op-lw="4"/>
+<polyline pts="27,-25,27,-11," op-lw="4"/>
+<polyline pts="16,-18,38,-18," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

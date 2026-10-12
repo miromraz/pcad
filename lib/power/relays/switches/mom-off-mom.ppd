@@ -1,0 +1,23 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="mom-off-mom" t="" v="" n="EN 60617: 07-02-01" fG="95631f73-9f41-568b-aaf0-715af9b31107" lG="5abf08e2-3703-5195-a5c6-2d9d9a74641e">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-25,28,0,23," op-lw="4"/>
+<polyline pts="25,27,0,23," op-lw="4"/>
+<ellipse left="-4" top="19" right="4" bottom="27" op-lw="2" op-fd="1"/>
+<polyline pts="0,23,0,3," op-lw="4"/>
+<polyline pts="-26,-10,-9,1," op-lw="4"/>
+<polyline pts="-16,5,-9,-9,-2,5," op-lw="4"/>
+<polyline pts="26,-10,9,1," op-lw="4"/>
+<polyline pts="2,5,9,-9,16,5," op-lw="4"/>
+<polyline pts="0,-29,0,-24," op-lw="2"/>
+<polyline pts="0,-20,0,-15," op-lw="2"/>
+<polyline pts="0,-11,0,-6," op-lw="2"/>
+<polyline pts="0,-2,0,3," op-lw="2"/>
+<polyline pts="-13,-31,13,-31," op-lw="4"/>
+<outlet x="-26" y="-10"/>
+<outlet x="26" y="-10"/>
+<outlet x="-25" y="28"/>
+<outlet x="25" y="27"/>
+</layer></layers>
+</ppd>
+</document>

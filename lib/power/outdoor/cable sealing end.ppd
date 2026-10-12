@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="cable sealing end" t="" v="" n="EN 60617: 03-04-02" fG="e988a36d-5785-5261-a475-393dd88f6639" lG="526cc12d-67e4-5341-9cc7-2434e8215af0">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-18,30,18,30,0,-30," op-lw="4"/>
+<polyline pts="0,30,0,40," op-lw="4"/>
+<polyline pts="0,-30,0,-40," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

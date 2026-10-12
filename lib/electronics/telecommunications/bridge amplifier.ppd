@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="bridge amplifier" t="" v="" n="EN 60617: 11-06-01" fG="f379808c-2237-5fc1-a381-8163b4c7e8d5" lG="3c335af2-004b-5072-a500-d02f81340030">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-60,-25,-60,25,60,0," op-lw="4"/>
+<outlet x="-40" y="-20"/>
+<outlet x="34" y="-25"/>
+<outlet x="42" y="-11"/>
+</layer></layers>
+</ppd>
+</document>

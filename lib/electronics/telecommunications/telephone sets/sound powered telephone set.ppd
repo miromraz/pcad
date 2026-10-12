@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="sound powered telephone set" t="volic" v="" n="EN 60617: 09-05-11" fG="26af9c65-a1a6-5b15-b7fe-8afa2a677de8" lG="3f8cd8d4-7ef4-52fd-a577-b19b40d4d994">
+<layers current="0"><layer name="0" v="1">
+<rect left="-98" top="-46" right="98" bottom="60" op-lw="4"/>
+<polyline pts="-68,-64,68,-64," op-lw="4"/>
+<polyline pts="-68,-64,-68,-46," op-lw="4"/>
+<polyline pts="-76,-46,-60,-46," op-lw="4"/>
+<polyline pts="68,-64,68,-46," op-lw="4"/>
+<polyline pts="60,-46,76,-46," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

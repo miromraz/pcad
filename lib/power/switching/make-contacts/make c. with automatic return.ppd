@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="make c. with automatic return" t="Re" v="" n="EN 60617: 07-06-01" fG="3d5d1049-194f-5504-9039-1fc0d6cbceaa" lG="05fc3c72-367d-5fd9-9ae1-2180a996e0a1">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,30,-18," op-lw="4"/>
+<polyline pts="8,-2,15,-16,22,-2," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

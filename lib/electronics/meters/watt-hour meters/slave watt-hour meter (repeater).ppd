@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="slave watt-hour meter (repeater)" t="" v="" n="EN 60617: 08-04-11" fG="889a37d4-3c72-520d-93cc-9ed901cfc89f" lG="adaf6dfa-a3a0-5b75-b48b-a703c950286a">
+<layers current="0"><layer name="0" v="1">
+<rect left="-100" top="-60" right="40" bottom="60" op-lw="4"/>
+<text x="-30" y="0" al="9" f="95,0,0,0,Arial,000000">Wh</text>
+<outlet x="-100" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

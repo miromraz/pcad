@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="starter-regulator with thyristors" t="" v="" n="EN 60617: 07-14-08" fG="541c6647-6153-5934-a7e7-d8015c2c0170" lG="b724a0c1-0035-5c18-bd2c-53fa1f4e2aee">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polygon pts="-12,-10,12,-10,0,8," op-lw="4"/>
+<polyline pts="-14,8,14,8," op-lw="4"/>
+<polyline pts="-28,52,28,-52," op-lw="4"/>
+<polygon pts="28,-52,27,-36,16,-42," op-lw="4" op-fd="1"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="fan" t="" v="" n="EN 60617: 211-06-02" fG="3c82eeb1-f7b2-5785-b35d-f656c13c2c13" lG="05f7e54f-9485-5bf6-b623-07edddad57b9">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-20" top="-20" right="20" bottom="20" op-lw="4"/>
+<polygon pts="14,14,29,74,93,93,74,29," op-lw="4"/>
+<polygon pts="-14,14,-74,29,-93,93,-29,74," op-lw="4"/>
+<polygon pts="-14,-14,-29,-74,-93,-93,-74,-29," op-lw="4"/>
+<polygon pts="14,-14,74,-29,93,-93,29,-74," op-lw="4"/>
+<text x="0" y="0" al="9" f="74,0,0,0,Arial,000000">F</text>
+
+</layer></layers>
+</ppd>
+</document>

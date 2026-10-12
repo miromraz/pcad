@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="push-button with indicator lamp" t="" v="" n="EN 60617: 11-14-11" fG="7843a4e1-6fac-5312-9ff0-0182c00109cd" lG="6f6ad8f8-3aaf-5f8b-945b-a5776ca0c25d">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-20" top="-20" right="20" bottom="20" op-lw="4"/>
+<ellipse left="-12" top="-12" right="12" bottom="12" op-lw="4"/>
+<polyline pts="-8,-8,8,8," op-lw="4"/>
+<polyline pts="-8,8,8,-8," op-lw="4"/>
+<outlet x="-20" y="0"/>
+<outlet x="0" y="20"/>
+<outlet x="20" y="0"/>
+<outlet x="0" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

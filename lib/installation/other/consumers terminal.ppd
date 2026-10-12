@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="consumers terminal" t="" v="" n="EN 60617: 11-12-06" fG="b54f2b8b-8629-55c0-b51d-a709a4351b52" lG="27e477b7-0677-54ab-8e62-df4805b3f8bb">
+<layers current="0"><layer name="0" v="1">
+<rect left="-20" top="-20" right="20" bottom="20" op-lw="4"/>
+<ellipse left="-6" top="-6" right="6" bottom="6" op-lw="2" op-fd="1"/>
+<outlet x="-20" y="0"/>
+<outlet x="0" y="20"/>
+<outlet x="20" y="0"/>
+<outlet x="0" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

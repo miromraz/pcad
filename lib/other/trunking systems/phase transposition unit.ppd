@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="phase transposition unit" t="" v="" n="EN 60617: 11-17-17" fG="59a724dd-08de-54bd-a7be-46b57185fcf2" lG="0fb45cdd-abfc-5639-b28f-66dc53bc172f">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-80,-10,-20,-10," op-lw="2"/>
+<polyline pts="20,-10,80,-10," op-lw="2"/>
+<polyline pts="-80,0,-20,0," op-lw="2"/>
+<polyline pts="20,0,80,0," op-lw="2"/>
+<polyline pts="-80,10,-20,10," op-lw="2"/>
+<polyline pts="20,10,80,10," op-lw="2"/>
+<polyline pts="-20,-10,20,10," op-lw="2"/>
+<polyline pts="-20,10,20,-10," op-lw="2"/>
+<polyline pts="-20,0,20,0," op-lw="2"/>
+
+</layer></layers>
+</ppd>
+</document>

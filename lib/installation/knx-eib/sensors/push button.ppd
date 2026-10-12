@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="push button" t="" v="" n="EN 60617: 10-17-04" fG="fb68327a-eb1b-5124-9c9f-caa20d89f487" lG="a058007b-1a78-5e92-bca6-99265ce66aa4">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<ellipse left="-10" top="-12" right="10" bottom="8" op-lw="4"/>
+<polyline pts="0,8,0,20," op-lw="4"/>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="gas discharge lamp" t="" v="" n="EN 60617: 211-06-04" fG="6bb0af08-b2f1-50fa-bf3f-1e33967397ea" lG="bceb90ed-64df-5238-87fd-68e6c54dc8b1">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-19" top="-19" right="19" bottom="19" op-lw="4"/>
+<polyline pts="-13,-13,13,13," op-lw="4"/>
+<polyline pts="-13,13,13,-13," op-lw="4"/>
+<polyline pts="-23,-8,-23,8," op-lw="4"/>
+<polyline pts="23,-8,23,8," op-lw="4"/>
+<outlet x="-25" y="0"/>
+<outlet x="0" y="25"/>
+<outlet x="0" y="-25"/>
+</layer></layers>
+</ppd>
+</document>

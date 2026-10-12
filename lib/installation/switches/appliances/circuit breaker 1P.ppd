@@ -1,0 +1,20 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="circuit breaker 1P" t="" v="" n="EN 60617: 211-07-37" fG="1c254422-96f8-55ea-bef0-ee36f53a031d" lG="83585b3a-99b2-5a48-b9c5-cf3904cf5005">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-37,46,0,0," op-lw="4"/>
+<ellipse left="-4" top="-4" right="4" bottom="4" op-lw="2" op-fd="1"/>
+<polyline pts="0,0,30,-38," op-lw="4"/>
+<polyline pts="37,-46,29,-37," op-lw="4"/>
+<polyline pts="23,-45,37,-31," op-lw="4"/>
+<polyline pts="23,-31,37,-45," op-lw="4"/>
+<polyline pts="-10,0,0,0," op-lw="4"/>
+<polyline pts="0,30,0,0," op-lw="4"/>
+<polyline pts="10,0,0,0," op-lw="4"/>
+<polyline pts="0,-30,0,0," op-lw="4"/>
+<outlet x="-10" y="0"/>
+<outlet x="0" y="30"/>
+<outlet x="10" y="0"/>
+<outlet x="0" y="-30"/>
+</layer></layers>
+</ppd>
+</document>

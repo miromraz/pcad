@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="balun" t="" v="" n="EN 60617: 10-05-08" fG="1cdec995-02b1-5fac-8419-d9f11e2d5a97" lG="6df4df7d-267b-58b9-a080-650e606e6c83">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-2,-12,-2,12," op-lw="4"/>
+<polyline pts="2,-12,2,12," op-lw="4"/>
+<arc left="-16" top="-10" right="-6" bottom="0" bX="-5" bY="0" eX="5" eY="0" op-lw="4"/>
+<arc left="-16" top="0" right="-6" bottom="10" bX="-5" bY="0" eX="5" eY="0" op-lw="4"/>
+<arc left="6" top="-10" right="16" bottom="0" bX="5" bY="0" eX="-5" eY="0" op-lw="4"/>
+<arc left="6" top="0" right="16" bottom="10" bX="5" bY="0" eX="-5" eY="0" op-lw="4"/>
+<polyline pts="-11,0,-16,0," op-lw="4"/>
+<polyline pts="-16,-10,-40,-10," op-lw="4"/>
+<polyline pts="16,10,40,10," op-lw="4"/>
+<polyline pts="16,-10,40,-10," op-lw="4"/>
+<outlet x="-40" y="-10"/>
+<outlet x="40" y="10"/>
+<outlet x="40" y="-10"/>
+</layer></layers>
+</ppd>
+</document>

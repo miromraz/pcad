@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="ridged waveguide" t="" v="" n="EN 60617: 10-07-04" fG="f381fff6-387c-54c4-9fd9-50d1d2f0e46e" lG="ff71f1c7-2edc-58a8-9f31-02bfd164742c">
+<layers current="0"><layer name="0" v="1">
+<rect left="-10" top="-20" right="10" bottom="20" op-lw="4"/>
+<polyline pts="0,-20,0,-10," op-lw="4"/>
+<polyline pts="0,20,0,10," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

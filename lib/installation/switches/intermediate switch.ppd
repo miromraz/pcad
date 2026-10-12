@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="intermediate switch" t="" v="" n="EN 60617: 11-14-07" fG="06f3cf50-b53b-53f0-b83f-e8e388d1fc6b" lG="465e58b0-7274-5ba7-b029-b7dfae620ced">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-15" top="-15" right="15" bottom="15" op-lw="4"/>
+<polyline pts="-46,50,46,-50," op-lw="4"/>
+<polyline pts="-46,-50,46,50," op-lw="4"/>
+<outlet x="-15" y="0"/>
+<outlet x="0" y="15"/>
+<outlet x="15" y="0"/>
+<outlet x="0" y="-15"/>
+</layer></layers>
+</ppd>
+</document>

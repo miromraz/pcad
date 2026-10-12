@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="torque transmitter" t="" v="" n="EN 60617: 08-09-03" fG="46607ccb-9046-52fc-b99d-7b8154614986" lG="22cc2a5b-2728-5250-b28c-b1ef33ed70df">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">TX</text>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+<outlet x="-26" y="-20"/>
+<outlet x="-26" y="20"/>
+<outlet x="35" y="20"/>
+<outlet x="35" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

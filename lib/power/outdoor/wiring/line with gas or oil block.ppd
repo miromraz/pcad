@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="line with gas or oil block" t="" v="" n="EN 60617: 11-03-08" fG="80697f24-d568-5e90-b3a7-0df55ea35782" lG="49301ad9-2270-5230-ba16-654c1fa09ba2">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-20,0,-6," op-lw="4"/>
+<polyline pts="0,6,0,20," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

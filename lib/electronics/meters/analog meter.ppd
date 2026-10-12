@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="analog meter" t="MP" v="" n="EN 60617: 08-02-01" fG="a91d74c4-e927-583e-a123-df58a1e6dd4d" lG="e986f761-ad4a-57a0-93a8-3b67e58f4165">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="-18,20,16,-18," op-lw="4"/>
+<polygon pts="16,-18,11,-4,2,-12," op-lw="4" op-fd="1"/>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

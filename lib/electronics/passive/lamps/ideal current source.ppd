@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="ideal current source" t="" v="" n="EN 60617: 02-16-01" fG="a53bd0c3-1f5e-5da9-90e9-a5e189d9e15d" lG="83d4b974-adc7-5dc0-8e46-85afe228ba08">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-20" top="-20" right="20" bottom="20" op-lw="4"/>
+<polyline pts="0,-20,0,20," op-lw="4"/>
+<outlet x="0" y="-20"/>
+<outlet x="0" y="20"/>
+</layer></layers>
+</ppd>
+</document>

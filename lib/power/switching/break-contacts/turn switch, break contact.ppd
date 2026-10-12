@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="turn switch, break contact" t="k" v="" n="EN 60617: 07-02-03" fG="cbf7e7a3-a2fa-5529-97f8-9d26ed3cb537" lG="238cdec6-9432-5e6f-85b3-8aa8b514e1b3">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,22,-18," op-lw="4"/>
+<polyline pts="0,-18,22,-18," op-lw="4"/>
+<polyline pts="22,-25,22,-11," op-lw="4"/>
+<polyline pts="0,0,-6,0," op-lw="2"/>
+<polyline pts="-10,0,-11,0," op-lw="2"/>
+<polyline pts="-22,-14,-21,-16,-20,-18,-19,-19,-17,-20,-15,-21,-13,-22,-11,-22,-9,-22,-7,-21,-5,-20,-3,-19,-2,-18,-1,-16,0,-14," op-lw="4"/>
+<polyline pts="-11,-8,-11,2," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="star-delta starter" t="" v="" n="EN 60617: 07-14-06" fG="2e098661-9ff6-522f-b5af-6c6f46092147" lG="672b122e-ad47-5538-bfa7-af8becaa0120">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="-20,12,-12,4,-12,-8," op-lw="4"/>
+<polyline pts="-12,4,-4,12," op-lw="4"/>
+<polygon pts="6,-8,22,-8,14,12," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

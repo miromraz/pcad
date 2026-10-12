@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="NOR 3" t="" v="" n="EN 60617: 12-06-02" fG="78a01461-2391-52ca-9e69-ca57bc6b6df3" lG="6449d37d-28d2-5d09-b472-562f041d1cd9">
+<layers current="0"><layer name="0" v="1">
+<rect left="-50" top="-68" right="50" bottom="68" op-lw="4"/>
+<polyline pts="-50,50,-80,50," op-lw="4"/>
+<polyline pts="-50,0,-80,0," op-lw="4"/>
+<polyline pts="-50,-50,-80,-50," op-lw="4"/>
+<text x="0" y="0" al="9" f="60,0,0,0,Arial,000000">1</text>
+<ellipse left="50" top="-8" right="66" bottom="8" op-lw="4"/>
+<polyline pts="66,0,90,0," op-lw="4"/>
+<outlet x="-80" y="50"/>
+<outlet x="-80" y="0"/>
+<outlet x="90" y="0"/>
+<outlet x="-80" y="-50"/>
+</layer></layers>
+</ppd>
+</document>

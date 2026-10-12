@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="watt-hour meter with maximum demand recorder" t="" v="" n="EN 60617: 08-04-14" fG="84b10e65-7905-569f-ae3a-ffdf185d5f49" lG="24ec7502-84ae-5ddb-bc77-2125cd03adbb">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-120" right="40" bottom="80" op-lw="4"/>
+<text x="0" y="-52" al="9" f="68,0,0,0,Arial,000000">Wh</text>
+<text x="0" y="12" al="9" f="68,0,0,0,Arial,000000">P max</text>
+<outlet x="-40" y="-20"/>
+<outlet x="40" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

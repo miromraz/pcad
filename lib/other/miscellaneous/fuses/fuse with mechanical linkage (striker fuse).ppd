@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="fuse with mechanical linkage (striker fuse)" t="" v="" n="EN 60617: 07-21-03" fG="c131bfa0-5fe8-5688-b968-738d16b02e42" lG="8274fb1c-abc8-589a-aa4c-8995eecba8d1">
+<layers current="0"><layer name="0" v="1">
+<rect left="-8" top="-20" right="8" bottom="20" op-lw="4"/>
+<polyline pts="0,-24,0,24," op-lw="4"/>
+<polyline pts="8,0,60,0," op-lw="4"/>
+<polyline pts="60,-8,60,8," op-lw="4"/>
+<outlet x="0" y="-24"/>
+<outlet x="0" y="24"/>
+</layer></layers>
+</ppd>
+</document>

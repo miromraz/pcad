@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="capacitor adjustable" t="C" v="" n="EN 60617: 04-02-07" fG="9782c58d-6f13-5097-8177-f5397517913d" lG="4a94556c-ffc4-5f4e-a995-547e1459b23c">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-19,-6,19,-6," op-lw="4"/>
+<polyline pts="-19,6,19,6," op-lw="4"/>
+<polyline pts="0,-6,0,-4," op-lw="4"/>
+<polyline pts="0,6,0,4," op-lw="4"/>
+<polyline pts="-18,18,18,-18," op-lw="4"/>
+<polyline pts="18,-18,10,-16," op-lw="4"/>
+<outlet x="0" y="-4"/>
+<outlet x="0" y="4"/>
+</layer></layers>
+</ppd>
+</document>

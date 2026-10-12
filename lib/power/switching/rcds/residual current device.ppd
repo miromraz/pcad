@@ -1,0 +1,106 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="residual current device" t="" v="" n="EN 60617: 07-13-10" fG="546227ce-35a5-5b8e-b0bf-51d0015faae9" lG="4e663d42-ceff-5cde-9cdf-b1ddb4e16948">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-100,-75,-95,-75," op-lw="2"/>
+<polyline pts="-91,-75,-86,-75," op-lw="2"/>
+<polyline pts="-82,-75,-77,-75," op-lw="2"/>
+<polyline pts="-73,-75,-68,-75," op-lw="2"/>
+<polyline pts="-64,-75,-59,-75," op-lw="2"/>
+<polyline pts="-55,-75,-50,-75," op-lw="2"/>
+<polyline pts="-46,-75,-41,-75," op-lw="2"/>
+<polyline pts="-37,-75,-32,-75," op-lw="2"/>
+<polyline pts="-28,-75,-23,-75," op-lw="2"/>
+<polyline pts="-19,-75,-14,-75," op-lw="2"/>
+<polyline pts="-10,-75,-5,-75," op-lw="2"/>
+<polyline pts="-1,-75,4,-75," op-lw="2"/>
+<polyline pts="8,-75,13,-75," op-lw="2"/>
+<polyline pts="17,-75,22,-75," op-lw="2"/>
+<polyline pts="26,-75,31,-75," op-lw="2"/>
+<polyline pts="35,-75,40,-75," op-lw="2"/>
+<polyline pts="44,-75,49,-75," op-lw="2"/>
+<polyline pts="53,-75,58,-75," op-lw="2"/>
+<polyline pts="62,-75,67,-75," op-lw="2"/>
+<polyline pts="71,-75,76,-75," op-lw="2"/>
+<polyline pts="80,-75,85,-75," op-lw="2"/>
+<polyline pts="89,-75,94,-75," op-lw="2"/>
+<polyline pts="98,-75,100,-75," op-lw="2"/>
+<polyline pts="100,-75,100,-70," op-lw="2"/>
+<polyline pts="100,-66,100,-61," op-lw="2"/>
+<polyline pts="100,-57,100,-52," op-lw="2"/>
+<polyline pts="100,-48,100,-43," op-lw="2"/>
+<polyline pts="100,-39,100,-34," op-lw="2"/>
+<polyline pts="100,-30,100,-25," op-lw="2"/>
+<polyline pts="100,-21,100,-16," op-lw="2"/>
+<polyline pts="100,-12,100,-7," op-lw="2"/>
+<polyline pts="100,-3,100,2," op-lw="2"/>
+<polyline pts="100,6,100,11," op-lw="2"/>
+<polyline pts="100,15,100,20," op-lw="2"/>
+<polyline pts="100,24,100,29," op-lw="2"/>
+<polyline pts="100,33,100,38," op-lw="2"/>
+<polyline pts="100,42,100,47," op-lw="2"/>
+<polyline pts="100,51,100,56," op-lw="2"/>
+<polyline pts="100,60,100,65," op-lw="2"/>
+<polyline pts="100,69,100,74," op-lw="2"/>
+<polyline pts="100,75,95,75," op-lw="2"/>
+<polyline pts="91,75,86,75," op-lw="2"/>
+<polyline pts="82,75,77,75," op-lw="2"/>
+<polyline pts="73,75,68,75," op-lw="2"/>
+<polyline pts="64,75,59,75," op-lw="2"/>
+<polyline pts="55,75,50,75," op-lw="2"/>
+<polyline pts="46,75,41,75," op-lw="2"/>
+<polyline pts="37,75,32,75," op-lw="2"/>
+<polyline pts="28,75,23,75," op-lw="2"/>
+<polyline pts="19,75,14,75," op-lw="2"/>
+<polyline pts="10,75,5,75," op-lw="2"/>
+<polyline pts="1,75,-4,75," op-lw="2"/>
+<polyline pts="-8,75,-13,75," op-lw="2"/>
+<polyline pts="-17,75,-22,75," op-lw="2"/>
+<polyline pts="-26,75,-31,75," op-lw="2"/>
+<polyline pts="-35,75,-40,75," op-lw="2"/>
+<polyline pts="-44,75,-49,75," op-lw="2"/>
+<polyline pts="-53,75,-58,75," op-lw="2"/>
+<polyline pts="-62,75,-67,75," op-lw="2"/>
+<polyline pts="-71,75,-76,75," op-lw="2"/>
+<polyline pts="-80,75,-85,75," op-lw="2"/>
+<polyline pts="-89,75,-94,75," op-lw="2"/>
+<polyline pts="-98,75,-100,75," op-lw="2"/>
+<polyline pts="-100,75,-100,70," op-lw="2"/>
+<polyline pts="-100,66,-100,61," op-lw="2"/>
+<polyline pts="-100,57,-100,52," op-lw="2"/>
+<polyline pts="-100,48,-100,43," op-lw="2"/>
+<polyline pts="-100,39,-100,34," op-lw="2"/>
+<polyline pts="-100,30,-100,25," op-lw="2"/>
+<polyline pts="-100,21,-100,16," op-lw="2"/>
+<polyline pts="-100,12,-100,7," op-lw="2"/>
+<polyline pts="-100,3,-100,-2," op-lw="2"/>
+<polyline pts="-100,-6,-100,-11," op-lw="2"/>
+<polyline pts="-100,-15,-100,-20," op-lw="2"/>
+<polyline pts="-100,-24,-100,-29," op-lw="2"/>
+<polyline pts="-100,-33,-100,-38," op-lw="2"/>
+<polyline pts="-100,-42,-100,-47," op-lw="2"/>
+<polyline pts="-100,-51,-100,-56," op-lw="2"/>
+<polyline pts="-100,-60,-100,-65," op-lw="2"/>
+<polyline pts="-100,-69,-100,-74," op-lw="2"/>
+<polyline pts="-75,-75,-75,75," op-lw="4"/>
+<polyline pts="-25,-75,-25,75," op-lw="4"/>
+<polyline pts="25,-75,25,75," op-lw="4"/>
+<polyline pts="75,-75,75,75," op-lw="4"/>
+<ellipse left="-87" top="-14" right="87" bottom="14" op-lw="2"/>
+<text x="-75" y="-57" al="9" f="36,0,0,0,Arial,000000">4</text>
+<text x="-75" y="57" al="9" f="36,0,0,0,Arial,000000">N</text>
+<text x="-25" y="-57" al="9" f="36,0,0,0,Arial,000000">2</text>
+<text x="-25" y="57" al="9" f="36,0,0,0,Arial,000000">6</text>
+<text x="25" y="-57" al="9" f="36,0,0,0,Arial,000000">1</text>
+<text x="25" y="57" al="9" f="36,0,0,0,Arial,000000">3</text>
+<text x="75" y="-57" al="9" f="36,0,0,0,Arial,000000">5</text>
+<outlet x="-75" y="-75"/>
+<outlet x="-75" y="75"/>
+<outlet x="-25" y="-75"/>
+<outlet x="-25" y="75"/>
+<outlet x="25" y="-75"/>
+<outlet x="25" y="75"/>
+<outlet x="75" y="-75"/>
+<outlet x="75" y="75"/>
+</layer></layers>
+</ppd>
+</document>

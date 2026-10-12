@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="telephone set with loudspeaker" t="volic" v="" n="EN 60617: 09-05-09" fG="f422c47b-1180-5076-9f90-000e18b97cc5" lG="e6b56d59-eb99-52bd-9a4e-e3bac543ef8b">
+<layers current="0"><layer name="0" v="1">
+<rect left="-98" top="-46" right="98" bottom="60" op-lw="4"/>
+<polyline pts="-68,-64,68,-64," op-lw="4"/>
+<polyline pts="-68,-64,-68,-46," op-lw="4"/>
+<polyline pts="-76,-46,-60,-46," op-lw="4"/>
+<polyline pts="68,-64,68,-46," op-lw="4"/>
+<polyline pts="60,-46,76,-46," op-lw="4"/>
+<rect left="56" top="-3" right="64" bottom="17" op-lw="4"/>
+<polyline pts="64,-3,80,-13,80,27,64,17," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

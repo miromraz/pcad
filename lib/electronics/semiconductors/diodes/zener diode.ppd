@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="zener diode" t="D" v="" n="EN 60617: 05-03-06" fG="86433b3c-81e8-504c-a00b-c1d3b9d1d507" lG="05b368e1-1d94-52e8-a5b7-db561e372811">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-14,-18,-14,18,14,0," op-lw="4"/>
+<polyline pts="14,-18,14,18," op-lw="4"/>
+<polyline pts="14,-18,7,-25," op-lw="4"/>
+<polyline pts="-20,0,-14,0," op-lw="4"/>
+<polyline pts="14,0,20,0," op-lw="4"/>
+<outlet x="-20" y="0"/>
+<outlet x="20" y="0"/>
+</layer></layers>
+</ppd>
+</document>

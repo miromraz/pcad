@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="thermistor nonlinear" t="R" v="" n="IEC:2.1.1" fG="8bdf4aeb-4568-53a7-ae4b-8a90dd1c7128" lG="c6dbd89a-e234-509f-99d8-6430919e47d0">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-20,10,-17,-10,-10,10,-3,-10,3,10,10,-10,17,0,20," op-lw="4"/>
+<polyline pts="0,20,0,30," op-lw="4"/>
+<polyline pts="0,-20,0,-30," op-lw="4"/>
+<polyline pts="-33,33,33,-33," op-lw="4"/>
+<text x="-20" y="21" al="9" f="38,0,0,0,Arial,000000">θ</text>
+<polyline pts="33,-33,21,-31," op-lw="4"/>
+<outlet x="0" y="30"/>
+<outlet x="0" y="-30"/>
+</layer></layers>
+</ppd>
+</document>

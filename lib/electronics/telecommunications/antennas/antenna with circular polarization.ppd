@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="antenna with circular polarization" t="" v="" n="EN 60617: 10-04-02" fG="0fffd2da-733d-5d02-a495-0efea3450d0a" lG="cbf4324f-9d15-53df-afdd-de5fe4d98560">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,28,0,-9," op-lw="4"/>
+<polyline pts="0,-9,-20,-40," op-lw="4"/>
+<polyline pts="0,-9,20,-40," op-lw="4"/>
+<arc left="-51" top="-9" right="51" bottom="35" bX="23" bY="-20" eX="23" eY="20" op-lw="4"/>
+<polygon pts="23,-6,15,2,12,-8," op-lw="4" op-fd="1"/>
+<outlet x="0" y="28"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,23 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="head end with local antenna" t="" v="" n="EN 60617: 11-05-01" fG="f32489e0-0cd9-5517-9cae-7f0afb1f04c4" lG="d82464ce-878c-52a0-b2f8-9b0697f11c75">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polygon pts="-16,-12,-16,12,8,0," op-lw="4"/>
+<polyline pts="18,-2,18,-20," op-lw="4"/>
+<polyline pts="18,-20,10,-28," op-lw="4"/>
+<polyline pts="18,-20,26,-28," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="-34" y="20"/>
+<outlet x="-20" y="34"/>
+<outlet x="0" y="40"/>
+<outlet x="20" y="34"/>
+<outlet x="34" y="20"/>
+<outlet x="40" y="0"/>
+<outlet x="34" y="-20"/>
+<outlet x="20" y="-34"/>
+<outlet x="0" y="-40"/>
+<outlet x="-20" y="-34"/>
+<outlet x="-34" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

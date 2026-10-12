@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="overhead line" t="" v="" n="EN 60617: 11-03-03" fG="29259eb9-65e7-574f-a6c8-8ab9ec026355" lG="63128388-6268-5fa7-bdf6-7c19237613d0">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-20,12,20,12," op-lw="4"/>
+<ellipse left="-18" top="-24" right="18" bottom="12" op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

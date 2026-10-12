@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="wall mounted fluorescent light fixture" t="" v="" n="EN 60617: 211-06-02" fG="c6d86043-e085-5677-97f8-54a09875dd45" lG="5ceefbd3-b2ac-5802-86cf-4c853d2e83bd">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-100,-33,100,-33," op-lw="4"/>
+<rect left="-100" top="10" right="100" bottom="30" op-lw="4"/>
+<polyline pts="0,-33,0,10," op-lw="4"/>
+<polyline pts="-100,10,-100,0," op-lw="4"/>
+<polyline pts="100,10,100,0," op-lw="4"/>
+<outlet x="-100" y="0"/>
+<outlet x="100" y="0"/>
+<outlet x="0" y="-25"/>
+</layer></layers>
+</ppd>
+</document>

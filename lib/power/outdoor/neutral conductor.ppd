@@ -1,0 +1,8 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="neutral conductor" t="" v="" n="EN 60617: 11-11-01" fG="2d8ec58e-8183-55ae-b884-1fadf9133ccd" lG="782314ec-f934-5d93-8575-6c1f254e3924">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-10" top="-10" right="10" bottom="10" op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

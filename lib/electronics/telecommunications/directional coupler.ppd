@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="directional coupler" t="" v="" n="EN 60617: 11-07-03" fG="54231739-aba0-56d3-a95e-04709b4cf6a0" lG="0e13a261-296e-5233-bd00-57584546ec22">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="-30,-14,30,-14," op-lw="4"/>
+<polygon pts="30,-14,16,-8,16,-20," op-lw="4" op-fd="1"/>
+<polyline pts="-24,14,24,14," op-lw="4"/>
+<polygon pts="24,14,10,20,10,8," op-lw="4" op-fd="1"/>
+<polyline pts="0,14,0,40," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

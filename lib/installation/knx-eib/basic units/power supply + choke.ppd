@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="power supply + choke" t="" v="" n="EN 60617: 06-14-03" fG="6f28190c-4f51-5257-9d1e-69ed252a2145" lG="d416b357-a8d7-5625-a85f-0a484e4ca87c">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-78" right="90" bottom="78" op-lw="4"/>
+<polyline pts="-40,-8,0,-8," op-lw="4"/>
+<polyline pts="-30,6,-4,6," op-lw="4"/>
+<arc left="10" top="-9" right="28" bottom="9" bX="9" bY="0" eX="-9" eY="0" op-lw="4"/>
+<arc left="28" top="-9" right="46" bottom="9" bX="9" bY="0" eX="-9" eY="0" op-lw="4"/>
+<arc left="46" top="-9" right="64" bottom="9" bX="9" bY="0" eX="-9" eY="0" op-lw="4"/>
+<outlet x="-90" y="0"/>
+<outlet x="90" y="0"/>
+</layer></layers>
+</ppd>
+</document>

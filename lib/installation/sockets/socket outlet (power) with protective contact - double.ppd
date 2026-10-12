@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="socket outlet (power) with protective contact - double" t="" v="" n="EN 60617: 11-13-04" fG="e4ea7eb2-7744-56b2-82b4-1c83573bfb6a" lG="146269d3-902d-51de-aeb8-5d09beefc6e2">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="15,0,15,3,14,6,12,8,11,11,8,12,6,14,3,15,0,15,-3,15,-6,14,-8,12,-11,11,-12,8,-14,6,-15,3,-15,0," op-lw="4"/>
+<polyline pts="-15,0,15,0," op-lw="4"/>
+<polyline pts="0,0,0,-20," op-lw="4"/>
+<polyline pts="-21,0,21,0," op-lw="4"/>
+<outlet x="0" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

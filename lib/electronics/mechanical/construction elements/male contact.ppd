@@ -1,0 +1,8 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="male contact" t="" v="" n="EN 60617: 03-03-03" fG="700df83a-a490-542a-be46-a5e3723a7910" lG="b3972518-aaec-51c3-99d1-6a191bb312f3">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-18,0,18,0," op-lw="4"/>
+<outlet x="18" y="0"/>
+</layer></layers>
+</ppd>
+</document>

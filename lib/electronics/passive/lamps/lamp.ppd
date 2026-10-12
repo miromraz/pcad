@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="lamp" t="Z" v="" n="EN 60617: 11-15-03" fG="1c3d9823-a12b-5c06-8bf7-ee1936d5b02b" lG="d44b317a-af0f-5f16-988d-286ad51cc6cf">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-25" top="-25" right="25" bottom="25" op-lw="4"/>
+<polyline pts="-18,-18,18,18," op-lw="4"/>
+<polyline pts="-18,18,18,-18," op-lw="4"/>
+<outlet x="-25" y="0"/>
+<outlet x="25" y="0"/>
+</layer></layers>
+</ppd>
+</document>

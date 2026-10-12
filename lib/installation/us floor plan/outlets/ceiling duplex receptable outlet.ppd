@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="ceiling duplex receptable outlet" t="" v="" n="EN 60617: 211-06-02" fG="15d56b90-3cab-5677-a164-ed46b3c6736a" lG="63b63bd4-3b10-59e0-bf39-b284e37c5575">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-23" top="-23" right="23" bottom="23" op-lw="4"/>
+<polyline pts="-24,0,24,0," op-lw="4"/>
+<polyline pts="-8,-10,-8,10," op-lw="4"/>
+<polyline pts="8,-10,8,10," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

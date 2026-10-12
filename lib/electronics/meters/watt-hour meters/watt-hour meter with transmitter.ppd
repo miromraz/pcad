@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="watt-hour meter with transmitter" t="" v="" n="EN 60617: 08-04-10" fG="7cb6417a-9a13-506b-8078-3caced41ddaf" lG="4c1ff896-7b3b-5023-935a-7b6729f78a9d">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-60" right="100" bottom="60" op-lw="4"/>
+<text x="30" y="0" al="9" f="95,0,0,0,Arial,000000">Wh</text>
+<outlet x="-40" y="0"/>
+<outlet x="100" y="0"/>
+</layer></layers>
+</ppd>
+</document>

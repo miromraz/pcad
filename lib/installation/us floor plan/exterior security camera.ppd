@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="exterior security camera" t="" v="" n="EN 60617: 211-06-02" fG="04c7cae9-375a-5bec-a99b-59916d915e9e" lG="2d063b3b-b794-57de-a5dd-3afd52f7f55a">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-25,0,-12,0," op-lw="4"/>
+<polyline pts="-25,-6,-25,6," op-lw="4"/>
+<rect left="-12" top="-10" right="15" bottom="10" op-lw="4"/>
+<polygon pts="15,-7,40,-4,40,4,15,7," op-lw="4"/>
+<outlet x="-25" y="0"/>
+<outlet x="0" y="12"/>
+<outlet x="0" y="-12"/>
+</layer></layers>
+</ppd>
+</document>

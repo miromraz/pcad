@@ -1,0 +1,34 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="auto-transformer, 3-phase - form 2" t="" v="" n="EN 60617: 06-11-04" fG="180203b3-bcbd-5d1f-8fb5-8d3fa4714d66" lG="1ac5fc3c-e303-512b-941e-3e4815b79467">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-110" top="-30" right="-90" bottom="-10" op-lw="4"/>
+<ellipse left="-110" top="10" right="-90" bottom="30" op-lw="4"/>
+<ellipse left="-70" top="-30" right="-50" bottom="-10" op-lw="4"/>
+<ellipse left="-70" top="10" right="-50" bottom="30" op-lw="4"/>
+<ellipse left="-30" top="-30" right="-10" bottom="-10" op-lw="4"/>
+<ellipse left="-30" top="10" right="-10" bottom="30" op-lw="4"/>
+<ellipse left="10" top="-30" right="30" bottom="-10" op-lw="4"/>
+<ellipse left="10" top="10" right="30" bottom="30" op-lw="4"/>
+<ellipse left="50" top="-30" right="70" bottom="-10" op-lw="4"/>
+<ellipse left="50" top="10" right="70" bottom="30" op-lw="4"/>
+<ellipse left="90" top="-30" right="110" bottom="-10" op-lw="4"/>
+<ellipse left="90" top="10" right="110" bottom="30" op-lw="4"/>
+<polyline pts="-100,-20,100,-20," op-lw="4"/>
+<polyline pts="-100,20,100,20," op-lw="4"/>
+<polyline pts="-100,30,-100,60," op-lw="4"/>
+<polyline pts="-20,30,-20,60," op-lw="4"/>
+<polyline pts="60,30,60,60," op-lw="4"/>
+<polyline pts="100,30,100,40," op-lw="4"/>
+<polyline pts="100,-30,100,-60," op-lw="4"/>
+<polyline pts="20,-30,20,-60," op-lw="4"/>
+<polyline pts="-60,-30,-60,-60," op-lw="4"/>
+<outlet x="-100" y="60"/>
+<outlet x="-20" y="60"/>
+<outlet x="60" y="60"/>
+<outlet x="100" y="40"/>
+<outlet x="100" y="-60"/>
+<outlet x="20" y="-60"/>
+<outlet x="-60" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

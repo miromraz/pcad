@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="reactive current ammeter" t="" v="" n="EN 60617: 08-02-02" fG="34753b8b-7ea0-5dfd-aa95-8b4ea789f88f" lG="c6aa8129-d2bb-525b-abd9-127f1059c4aa">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<text x="0" y="-16" al="9" f="38,0,0,0,Arial,000000">A</text>
+<text x="0" y="16" al="9" f="38,0,0,0,Arial,000000">I sin φ</text>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

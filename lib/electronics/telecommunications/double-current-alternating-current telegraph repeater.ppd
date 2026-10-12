@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="double-current-alternating-current telegraph repeater" t="volic" v="" n="EN 60617: 09-07-04" fG="db6661bd-4ae0-5fe7-bcb0-7c4ca994d9ac" lG="9ccaead2-9fd4-5996-98a0-1a39f4318f2e">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-75,-90,-75,90,75,0," op-lw="4"/>
+<text x="-25" y="-36" al="9" f="95,0,0,0,Arial,000000">T</text>
+<text x="-25" y="36" al="9" f="95,0,0,0,Arial,000000">f</text>
+<outlet x="-75" y="0"/>
+<outlet x="75" y="0"/>
+</layer></layers>
+</ppd>
+</document>

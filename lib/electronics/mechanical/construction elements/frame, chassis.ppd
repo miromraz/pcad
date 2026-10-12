@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="frame, chassis" t="zem" v="" n="EN 60617: 02-15-03" fG="64b4de13-210a-576f-9591-b2581e2bef9a" lG="ad3128b0-2498-5f3f-a96d-a696fde48d5a">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-13,0,-3," op-lw="4"/>
+<polyline pts="-15,-3,15,-3," op-lw="4"/>
+<polyline pts="-10,-3,-16,11," op-lw="4"/>
+<polyline pts="0,-3,-6,11," op-lw="4"/>
+<polyline pts="10,-3,4,11," op-lw="4"/>
+<outlet x="0" y="-13"/>
+</layer></layers>
+</ppd>
+</document>

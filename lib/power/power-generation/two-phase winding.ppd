@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="two-phase winding" t="" v="" n="EN 60617: 06-02-01" fG="43b8e039-0958-5155-9c46-64186683ba94" lG="b5a2eb7f-f68b-5bfa-93f4-fb94df9bb8d9">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-12,12,-12,-12," op-lw="4"/>
+<polyline pts="-12,-12,12,-12," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

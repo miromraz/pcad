@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="microphone, push-pull" t="pistala" v="" n="EN 60617: 09-09-03" fG="48253a4b-9e59-5a0c-910b-729b735c460e" lG="6e36195b-1229-5d46-b1ec-9b55964496dc">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-48" top="-24" right="0" bottom="24" op-lw="4"/>
+<ellipse left="0" top="-24" right="48" bottom="24" op-lw="4"/>
+<polyline pts="-48,-24,-48,24," op-lw="4"/>
+<polyline pts="48,-24,48,24," op-lw="4"/>
+<polyline pts="0,-24,0,-25," op-lw="4"/>
+<polyline pts="-48,0,-50,0," op-lw="4"/>
+<polyline pts="48,0,50,0," op-lw="4"/>
+<outlet x="0" y="-25"/>
+<outlet x="-50" y="0"/>
+<outlet x="50" y="0"/>
+</layer></layers>
+</ppd>
+</document>

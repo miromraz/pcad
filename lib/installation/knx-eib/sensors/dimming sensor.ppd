@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="dimming sensor" t="" v="" n="EN 60617: 10-17-04" fG="328f5278-e6ee-59a1-b655-2cedc207f84b" lG="7e9556e2-4e99-5ffd-8424-bc4586ff9b78">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<polyline pts="-24,20,24,-20," op-lw="4"/>
+<polygon pts="24,-20,17,-6,9,-16," op-lw="4" op-fd="1"/>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

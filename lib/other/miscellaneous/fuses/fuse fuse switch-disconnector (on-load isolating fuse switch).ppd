@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="fuse fuse switch-disconnector (on-load isolating fuse switch)" t="" v="" n="EN 60617: 07-21-09" fG="3e860558-5b72-541d-b1c7-8e44e9123b31" lG="c0703475-b4f1-52d8-a383-9dcc4bd40805">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,40,0,18," op-lw="4"/>
+<polyline pts="0,-40,0,-18," op-lw="4"/>
+<polyline pts="0,18,14,-18," op-lw="4"/>
+<rect left="-6" top="-12" right="6" bottom="12" op-lw="4"/>
+<polyline pts="-9,-18,9,-18," op-lw="4"/>
+<outlet x="0" y="40"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

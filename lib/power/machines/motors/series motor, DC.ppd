@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="series motor, DC" t="" v="" n="EN 60617: 06-05-02" fG="555d2dab-6f92-5f46-bce2-8f1b614e92ac" lG="e3551e06-f06b-5599-a92e-fb8861c64455">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-70" top="-70" right="70" bottom="70" op-lw="4"/>
+<polyline pts="-70,0,-80,0," op-lw="4"/>
+<polyline pts="70,0,80,0," op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">M</text>
+<outlet x="-80" y="0"/>
+<outlet x="80" y="0"/>
+</layer></layers>
+</ppd>
+</document>

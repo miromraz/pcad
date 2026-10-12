@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="antenna turnstile" t="" v="" n="EN 60617: 10-04-09" fG="0f053f66-48bd-54e7-9439-38e2f18ab081" lG="d8243715-ef6c-5a0f-b0f4-a3d322c99012">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,28,0,-9," op-lw="4"/>
+<polyline pts="0,-9,-20,-40," op-lw="4"/>
+<polyline pts="0,-9,20,-40," op-lw="4"/>
+<polyline pts="0,-9,-52,-15," op-lw="4"/>
+<polyline pts="0,-9,52,-15," op-lw="4"/>
+<outlet x="0" y="28"/>
+</layer></layers>
+</ppd>
+</document>

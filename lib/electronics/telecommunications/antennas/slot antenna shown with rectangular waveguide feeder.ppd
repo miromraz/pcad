@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="slot antenna shown with rectangular waveguide feeder" t="" v="" n="EN 60617: 10-05-10" fG="017d7156-0ecd-5fa7-9502-ead1bdaf4a61" lG="3569c746-5ade-5856-bbef-66551f37932f">
+<layers current="0"><layer name="0" v="1">
+<rect left="-50" top="-50" right="50" bottom="50" op-lw="4"/>
+<rect left="-6" top="-34" right="6" bottom="34" op-lw="4"/>
+<polyline pts="0,50,0,50," op-lw="4"/>
+<outlet x="0" y="50"/>
+</layer></layers>
+</ppd>
+</document>

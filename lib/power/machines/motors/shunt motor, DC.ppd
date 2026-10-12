@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="shunt motor, DC" t="" v="" n="EN 60617: 06-05-01" fG="a7ad4f30-5904-5591-9d58-40074e5af828" lG="944274eb-f180-516f-b12e-43050ccf08ed">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polyline pts="-33,-50,-80,-120," op-lw="4"/>
+<polyline pts="33,-50,80,-120," op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">M</text>
+<outlet x="-80" y="-120"/>
+<outlet x="80" y="-120"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="hand-generator (magneto, caller)" t="" v="" n="EN 60617: 06-04-04" fG="1ddbfb7e-870b-56db-ac09-3e818f3b4559" lG="83a5a0cd-f782-59ca-8e0f-645ae209c82a">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polyline pts="-90,0,-60,0," op-lw="4"/>
+<polyline pts="60,0,90,0," op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">G</text>
+
+</layer></layers>
+</ppd>
+</document>

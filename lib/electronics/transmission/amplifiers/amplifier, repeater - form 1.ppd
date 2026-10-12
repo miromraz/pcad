@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="amplifier, repeater - form 1" t="" v="" n="EN 60617: 10-15-01" fG="6d580569-0418-527c-86b4-5aef1a878402" lG="c1f5ff4d-8537-5090-a68b-ce3cb57493c1">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-40,-40,-40,40,40,0," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

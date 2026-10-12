@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="surface accustic wave (SAW)" t="" v="" n="EN 60617: 09-08-11" fG="7598832c-5446-529b-ad33-ea5cad9a08f2" lG="2c1d7ecd-1c46-5db4-a3b4-f414dbad37ae">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-20,-12,-20,12," op-lw="4"/>
+<polyline pts="20,-12,20,12," op-lw="4"/>
+<polyline pts="-20,-6,-6,-6," op-lw="4"/>
+<polyline pts="20,2,6,2," op-lw="4"/>
+<polyline pts="-20,8,-6,8," op-lw="4"/>
+<polyline pts="-20,0,-40,-4," op-lw="4"/>
+<polyline pts="20,0,40,4," op-lw="4"/>
+<outlet x="-40" y="-4"/>
+<outlet x="40" y="4"/>
+</layer></layers>
+</ppd>
+</document>

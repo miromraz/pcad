@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="circuit breaker, drawout type" t="CB" v="" n="IEC:9.4.7" fG="7cca5f88-f5a9-5003-ae93-c65d61802551" lG="54611aa2-91ef-536c-8309-ef6661b14287">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-100,0,-70," op-lw="4"/>
+<polyline pts="0,100,0,70," op-lw="4"/>
+<polyline pts="0,70,13,-55," op-lw="4"/>
+<polyline pts="-10,-60,-10,-62,-9,-64,-8,-66,-6,-68,-4,-69,-2,-70,0,-70,2,-70,4,-69,6,-68,8,-66,9,-64,10,-62,10,-60," op-lw="4"/>
+<polyline pts="-22,-60,0,-60," op-lw="4"/>
+<polyline pts="-8,-90,0,-98,8,-90," op-lw="4"/>
+<polyline pts="-8,90,0,98,8,90," op-lw="4"/>
+<outlet x="0" y="-100"/>
+<outlet x="0" y="100"/>
+</layer></layers>
+</ppd>
+</document>

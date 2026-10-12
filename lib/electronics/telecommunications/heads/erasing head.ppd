@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="erasing head" t="pistala" v="" n="EN 60617: 09-09-12" fG="d3da690f-1143-54ea-bf6c-01d3c0ca482e" lG="0139d958-263d-5ea1-98e7-b81d264827c9">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-51" top="-18" right="16" bottom="18" op-lw="4"/>
+<polyline pts="-51,-3,-57,-3," op-lw="4"/>
+<polyline pts="-51,3,-57,3," op-lw="4"/>
+<polyline pts="16,0,50,0," op-lw="4"/>
+<polyline pts="-10,-8,6,8," op-lw="4"/>
+<polyline pts="-10,8,6,-8," op-lw="4"/>
+<outlet x="50" y="0"/>
+</layer></layers>
+</ppd>
+</document>

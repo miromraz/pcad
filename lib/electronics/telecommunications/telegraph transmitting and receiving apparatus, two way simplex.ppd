@@ -1,0 +1,20 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="telegraph transmitting and receiving apparatus, two way simplex" t="volic" v="" n="EN 60617: 09-06-02" fG="531a23c6-d51e-5954-8f15-0ff31e3e9b5c" lG="07d6defa-0442-5a13-96ce-447353b00da6">
+<layers current="0"><layer name="0" v="1">
+<rect left="-50" top="-55" right="50" bottom="55" op-lw="4"/>
+<polyline pts="-36,39,36,39," op-lw="4"/>
+<ellipse left="-34" top="-1" right="-26" bottom="7" op-lw="2" op-fd="1"/>
+<ellipse left="-19" top="-1" right="-11" bottom="7" op-lw="2" op-fd="1"/>
+<ellipse left="-4" top="-1" right="4" bottom="7" op-lw="2" op-fd="1"/>
+<ellipse left="11" top="-1" right="19" bottom="7" op-lw="2" op-fd="1"/>
+<ellipse left="26" top="-1" right="34" bottom="7" op-lw="2" op-fd="1"/>
+<ellipse left="-34" top="13" right="-26" bottom="21" op-lw="2" op-fd="1"/>
+<ellipse left="-19" top="13" right="-11" bottom="21" op-lw="2" op-fd="1"/>
+<ellipse left="-4" top="13" right="4" bottom="21" op-lw="2" op-fd="1"/>
+<ellipse left="11" top="13" right="19" bottom="21" op-lw="2" op-fd="1"/>
+<ellipse left="26" top="13" right="34" bottom="21" op-lw="2" op-fd="1"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">T</text>
+
+</layer></layers>
+</ppd>
+</document>

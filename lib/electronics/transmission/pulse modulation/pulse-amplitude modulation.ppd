@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pulse-amplitude modulation" t="" v="" n="EN 60617: 10-12-03" fG="5bd7d830-6298-57f2-9442-16a647dfa4cc" lG="17aaeb77-a61c-5e2c-b2f8-2a6932b675ae">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-30,30,30,30," op-lw="4"/>
+<polyline pts="-21,30,-21,6," op-lw="4"/>
+<polyline pts="-8,30,-8,-30," op-lw="4"/>
+<polyline pts="8,30,8,-9," op-lw="4"/>
+<polyline pts="21,30,21,-24," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

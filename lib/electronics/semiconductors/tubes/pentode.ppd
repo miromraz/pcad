@@ -1,0 +1,40 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pentode" t="E" v="" n="EN 60617: 05-10-05" fG="0b57179a-b9bc-5022-9a21-6b2c7befa61f" lG="29ac80d1-24de-520d-84ab-27232772e8f9">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-42" top="-42" right="42" bottom="42" op-lw="4"/>
+<polyline pts="-6,23,0,13," op-lw="4"/>
+<polyline pts="6,23,0,13," op-lw="4"/>
+<polyline pts="-6,23,-20,100," op-lw="4"/>
+<polyline pts="6,23,20,100," op-lw="4"/>
+<polyline pts="-14,15,14,15," op-lw="4"/>
+<polyline pts="-22,-4,-14,-4," op-lw="2"/>
+<polyline pts="-8,-4,0,-4," op-lw="2"/>
+<polyline pts="6,-4,14,-4," op-lw="2"/>
+<polyline pts="20,-4,28,-4," op-lw="2"/>
+<polyline pts="-22,-4,-30,-20," op-lw="4"/>
+<polyline pts="-22,-16,-14,-16," op-lw="2"/>
+<polyline pts="-8,-16,0,-16," op-lw="2"/>
+<polyline pts="6,-16,14,-16," op-lw="2"/>
+<polyline pts="20,-16,28,-16," op-lw="2"/>
+<polyline pts="22,-16,30,-20," op-lw="4"/>
+<polyline pts="-22,-28,-14,-28," op-lw="2"/>
+<polyline pts="-8,-28,0,-28," op-lw="2"/>
+<polyline pts="6,-28,14,-28," op-lw="2"/>
+<polyline pts="20,-28,28,-28," op-lw="2"/>
+<polyline pts="-22,-28,-30,0," op-lw="4"/>
+<polyline pts="-16,-23,16,-23," op-lw="4"/>
+<polyline pts="0,-23,0,-100," op-lw="4"/>
+<outlet x="0" y="-100"/>
+<outlet x="-20" y="60"/>
+<outlet x="20" y="60"/>
+<outlet x="-20" y="100"/>
+<outlet x="20" y="100"/>
+<outlet x="-30" y="0"/>
+<outlet x="-30" y="-20"/>
+<outlet x="-30" y="20"/>
+<outlet x="30" y="-20"/>
+<outlet x="30" y="0"/>
+<outlet x="30" y="20"/>
+</layer></layers>
+</ppd>
+</document>

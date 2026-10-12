@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pulse regenerator" t="" v="" n="EN 60617: 10-14-08" fG="ba3d099c-1793-5664-ac72-f2c761ef0c94" lG="d5a75b7f-fb35-5ea7-87dd-e30e8c439ab4">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polyline pts="-34,30,-34,-30,-17,-30,-17,30,0,30,0,-30,17,-30,17,30,34,30,34,-30,51,-30," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="antenna socket (outlet)" t="" v="" n="EN 60617: 211-07-29" fG="484ce399-303d-5612-870d-bdbd1bc7073c" lG="a83aba81-7dc2-5b91-b1c9-ce8545c60be5">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-15,19,-15,16,-14,13,-12,11,-11,8,-8,7,-6,5,-3,4,0,4,3,4,6,5,8,7,11,8,12,11,14,13,15,16,15,19," op-lw="4"/>
+<polyline pts="-15,19,15,19," op-lw="4"/>
+<polyline pts="0,19,0,20," op-lw="4"/>
+<polyline pts="0,4,0,-12," op-lw="4"/>
+<polyline pts="0,-12,-20,-18," op-lw="4"/>
+<polyline pts="0,-12,20,-18," op-lw="4"/>
+<outlet x="0" y="20"/>
+</layer></layers>
+</ppd>
+</document>

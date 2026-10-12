@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="horn antenna (horn feed)" t="" v="" n="EN 60617: 10-05-11" fG="97004af5-2872-5770-8f6d-16836e4f5c25" lG="a8e02819-7d00-568c-b36b-c64db66ef760">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-20,-4,40,-20," op-lw="4"/>
+<polyline pts="-20,4,40,20," op-lw="4"/>
+<polyline pts="40,-20,40,20," op-lw="4"/>
+<polyline pts="-20,-4,-20,4," op-lw="4"/>
+<polyline pts="-40,0,-20,0," op-lw="4"/>
+<outlet x="-40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

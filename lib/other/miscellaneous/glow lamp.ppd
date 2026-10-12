@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="glow lamp" t="" v="" n="EN 60617: 08-10-05" fG="ab66ec3b-a7b1-534f-8143-9d9be929efb5" lG="c836644d-7ffb-57dc-a819-043e2dc8fc6b">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-30" top="-30" right="30" bottom="30" op-lw="4"/>
+<polyline pts="-12,-14,-12,14," op-lw="4"/>
+<polyline pts="12,-14,12,14," op-lw="4"/>
+<ellipse left="-5" top="-5" right="5" bottom="5" op-lw="2" op-fd="1"/>
+<polyline pts="0,-30,0,-30," op-lw="4"/>
+<polyline pts="0,30,0,30," op-lw="4"/>
+<outlet x="0" y="-30"/>
+<outlet x="0" y="30"/>
+</layer></layers>
+</ppd>
+</document>

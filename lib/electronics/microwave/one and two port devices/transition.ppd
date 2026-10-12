@@ -1,0 +1,8 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="transition" t="" v="" n="EN 60617: 10-08-14" fG="236a2c55-6fd8-538f-a4d7-e93584e4799c" lG="85682237-2bbd-5511-88e7-327c651ce817">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-40,-40,40,0,-40,40," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

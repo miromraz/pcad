@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="lightning arrester" t="k" v="" n="IEC:9.2" fG="e2392152-211f-5cc4-b8ca-0f22da30c708" lG="0b5a2e6f-d560-5f08-b155-169d6e4a57a6">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-8," op-lw="4"/>
+<polyline pts="0,8,0,60," op-lw="4"/>
+<polygon pts="0,2,-3,-8,3,-8," op-lw="4" op-fd="1"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

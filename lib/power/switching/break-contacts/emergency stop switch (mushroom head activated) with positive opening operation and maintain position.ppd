@@ -1,0 +1,26 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="emergency stop switch (mushroom head activated) with positive opening operation and maintain position" t="" v="" n="EN 60617: 07-07-06" fG="32345535-600c-528d-8896-02fa6cb94d69" lG="afe1590e-768a-552d-98a6-b85fccf30e94">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="40,-60,40,-18," op-lw="4"/>
+<polyline pts="40,60,40,18," op-lw="4"/>
+<polyline pts="40,18,62,-18," op-lw="4"/>
+<polyline pts="40,-18,62,-18," op-lw="4"/>
+<polyline pts="62,-25,62,-11," op-lw="4"/>
+<polyline pts="40,0,34,0," op-lw="2"/>
+<polyline pts="30,0,24,0," op-lw="2"/>
+<polyline pts="20,0,14,0," op-lw="2"/>
+<polyline pts="10,0,4,0," op-lw="2"/>
+<polyline pts="0,0,-6,0," op-lw="2"/>
+<polyline pts="-10,0,-16,0," op-lw="2"/>
+<polyline pts="-20,0,-26,0," op-lw="2"/>
+<polyline pts="-30,0,-36,0," op-lw="2"/>
+<polyline pts="-40,0,-43,0," op-lw="2"/>
+<polyline pts="-63,-12,-62,-16,-61,-21,-59,-24,-55,-28,-52,-30,-47,-31,-43,-32,-39,-31,-34,-30,-31,-28,-27,-24,-25,-21,-24,-16,-23,-12," op-lw="4"/>
+<polyline pts="-63,-12,-23,-12," op-lw="4"/>
+<polyline pts="-43,-12,-43,4," op-lw="4"/>
+<ellipse left="-47" top="-30" right="-39" bottom="-22" op-lw="4"/>
+<outlet x="40" y="-60"/>
+<outlet x="40" y="60"/>
+</layer></layers>
+</ppd>
+</document>

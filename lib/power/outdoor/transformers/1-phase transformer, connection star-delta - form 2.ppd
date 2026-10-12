@@ -1,0 +1,26 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="1-phase transformer, connection star-delta - form 2" t="" v="" n="EN 60617: 06-10-08" fG="2f6c6fb2-9b60-50d3-955e-f776db5fd3a1" lG="a3b57602-bbb1-5358-97fc-a04dd15e456e">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-100" top="-68" right="-60" bottom="-28" op-lw="4"/>
+<ellipse left="-100" top="28" right="-60" bottom="68" op-lw="4"/>
+<ellipse left="-20" top="-68" right="20" bottom="-28" op-lw="4"/>
+<ellipse left="-20" top="28" right="20" bottom="68" op-lw="4"/>
+<ellipse left="60" top="-68" right="100" bottom="-28" op-lw="4"/>
+<ellipse left="60" top="28" right="100" bottom="68" op-lw="4"/>
+<polyline pts="-80,-48,80,-48," op-lw="4"/>
+<polyline pts="-80,48,80,48," op-lw="4"/>
+<polyline pts="-80,68,-80,140," op-lw="4"/>
+<polyline pts="0,68,0,140," op-lw="4"/>
+<polyline pts="80,68,80,140," op-lw="4"/>
+<polyline pts="80,-68,80,-140," op-lw="4"/>
+<polyline pts="0,-68,0,-140," op-lw="4"/>
+<polyline pts="-80,-68,-80,-140," op-lw="4"/>
+<outlet x="-80" y="140"/>
+<outlet x="0" y="140"/>
+<outlet x="80" y="140"/>
+<outlet x="80" y="-140"/>
+<outlet x="0" y="-140"/>
+<outlet x="-80" y="-140"/>
+</layer></layers>
+</ppd>
+</document>

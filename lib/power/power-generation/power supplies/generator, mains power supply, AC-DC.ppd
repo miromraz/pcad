@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="generator, mains power supply, AC-DC" t="" v="" n="EN 60617: 06-16-01" fG="2fd34fd2-bce6-5121-b33b-20f5a92eabeb" lG="b39bf2ba-b168-5544-b175-d169085f81bb">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">G</text>
+<polyline pts="-18,30,18,30," op-lw="4"/>
+<polyline pts="-16,-33,-14,-36,-12,-39,-10,-40,-8,-41,-6,-40,-4,-39,-2,-36,0,-33,2,-30,4,-27,6,-26,8,-25,10,-26,12,-27,14,-30,16,-33," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="0" y="60"/>
+<outlet x="60" y="0"/>
+<outlet x="0" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

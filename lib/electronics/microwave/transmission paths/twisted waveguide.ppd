@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="twisted waveguide" t="" v="" n="EN 60617: 10-07-11" fG="3bdb28d7-61a5-5f9b-bb13-6941ce7880fd" lG="6b3674e7-1b0f-51c8-a09f-81376fa40359">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-30,0,-8,0," op-lw="4"/>
+<polyline pts="-8,-18,8,18," op-lw="4"/>
+<polyline pts="-8,18,8,-18," op-lw="4"/>
+<polyline pts="8,0,30,0," op-lw="4"/>
+<outlet x="-30" y="0"/>
+<outlet x="30" y="0"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="period limiting switch, single pole" t="" v="" n="EN 60617: 11-14-03" fG="bc2498d8-bb16-55d9-9f6e-b1f0baa94843" lG="0e7981b5-c155-524a-990d-a4f57e8c7422">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-15" top="-15" right="15" bottom="15" op-lw="4"/>
+<polyline pts="-30,32,30,-32," op-lw="4"/>
+<polyline pts="21,-32,31,-23," op-lw="4"/>
+<text x="-17" y="18" al="9" f="34,0,0,0,Arial,000000">t</text>
+<outlet x="-15" y="0"/>
+<outlet x="0" y="15"/>
+<outlet x="15" y="0"/>
+<outlet x="0" y="-15"/>
+</layer></layers>
+</ppd>
+</document>

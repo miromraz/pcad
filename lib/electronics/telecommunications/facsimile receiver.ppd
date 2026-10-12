@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="facsimile receiver" t="volic" v="" n="EN 60617: 09-06-05" fG="8b6e6fbe-1f9f-50e4-a45a-df124b5af0f4" lG="c5410518-d73f-52f0-940c-847854e21115">
+<layers current="0"><layer name="0" v="1">
+<rect left="-50" top="-55" right="50" bottom="55" op-lw="4"/>
+<polyline pts="-34,-41,-24,41," op-lw="4"/>
+<polyline pts="-20,-41,-10,41," op-lw="4"/>
+<polyline pts="-6,-41,4,41," op-lw="4"/>
+<polyline pts="8,-41,18,41," op-lw="4"/>
+<polyline pts="22,-41,32,41," op-lw="4"/>
+<polyline pts="36,-41,46,41," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

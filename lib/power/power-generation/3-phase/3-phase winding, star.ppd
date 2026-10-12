@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="3-phase winding, star" t="" v="" n="EN 60617: 06-02-07" fG="25313aff-0d97-5561-9083-731c1e480e75" lG="6ed4434e-bf19-5322-bed8-fd918b80c9f5">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,6,0,-19," op-lw="4"/>
+<polyline pts="0,6,22,19," op-lw="4"/>
+<polyline pts="0,6,-22,19," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

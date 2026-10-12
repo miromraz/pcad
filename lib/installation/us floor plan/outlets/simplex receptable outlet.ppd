@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="simplex receptable outlet" t="" v="" n="EN 60617: 211-06-02" fG="4a06cd33-24c9-5712-9208-ef6df3bdf392" lG="e097cecd-42c3-58c4-ba72-1e6fcfdb9d56">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-23" top="-23" right="23" bottom="23" op-lw="4"/>
+<polyline pts="-36,0,36,0," op-lw="4"/>
+<polyline pts="0,-10,0,10," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

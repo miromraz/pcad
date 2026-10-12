@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="female contact (socket)" t="" v="" n="EN 60617: 03-03-01" fG="cf22e5ec-f549-5a8b-861d-e2f006c05bfa" lG="ec8ce5f8-c07d-53ea-bb3a-d4a889f3104e">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-18,0,6,0," op-lw="4"/>
+<arc left="-5" top="-11" right="17" bottom="11" bX="0" bY="-11" eX="0" eY="11" op-lw="4"/>
+<outlet x="-18" y="0"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="symmetrical photoconductive transducer" t="R" v="" n="IEC:2.1.1" fG="d0fb0833-0685-5fd3-960d-dcf8cc697cf6" lG="545f5980-498c-5936-a64b-cae41b0d00fc">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-20,10,-17,-10,-10,10,-3,-10,3,10,10,-10,17,0,20," op-lw="4"/>
+<polyline pts="0,20,0,30," op-lw="4"/>
+<polyline pts="0,-20,0,-30," op-lw="4"/>
+<polyline pts="-40,-18,-14,8," op-lw="4"/>
+<polygon pts="-14,8,-28,2,-20,-6," op-lw="4" op-fd="1"/>
+<polyline pts="-30,-28,-4,-2," op-lw="4"/>
+<polygon pts="-4,-2,-18,-8,-10,-16," op-lw="4" op-fd="1"/>
+<outlet x="0" y="30"/>
+<outlet x="0" y="-30"/>
+</layer></layers>
+</ppd>
+</document>

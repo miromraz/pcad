@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="radio beacon transmitting station" t="" v="" n="EN 60617: 10-06-04" fG="b5b07093-f6e2-5859-a7ed-f6b5d0c74045" lG="23921c0a-9f0c-523c-93d0-6db8da0680e0">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-32,0,60," op-lw="4"/>
+<polyline pts="0,-32,-30,-80," op-lw="4"/>
+<polyline pts="0,-32,30,-80," op-lw="4"/>
+<polyline pts="0,60,0,80," op-lw="4"/>
+<polyline pts="0,60,30,60," op-lw="4"/>
+<polyline pts="0,60,-30,60," op-lw="4"/>
+<polyline pts="15,24,33,-2," op-lw="4"/>
+<polygon pts="33,-2,30,13,20,6," op-lw="4" op-fd="1"/>
+<outlet x="0" y="80"/>
+<outlet x="30" y="60"/>
+<outlet x="-30" y="60"/>
+</layer></layers>
+</ppd>
+</document>

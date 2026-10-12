@@ -1,0 +1,39 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="manually operated contactor 3P" t="k" v="" n="IEC:9.2" fG="60e940d2-32e2-5bb9-bd85-59965fc37a6f" lG="088ed7ea-ab5e-5bb9-afbb-4b7f3e2bd5ce">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-80,-60,-80,60," op-lw="4"/>
+<polyline pts="-80,60,-80,60," op-lw="4"/>
+<polyline pts="-80,60,-64,-60," op-lw="4"/>
+<polyline pts="0,-60,0,60," op-lw="4"/>
+<polyline pts="0,60,0,60," op-lw="4"/>
+<polyline pts="0,60,16,-60," op-lw="4"/>
+<polyline pts="80,-60,80,60," op-lw="4"/>
+<polyline pts="80,60,80,60," op-lw="4"/>
+<polyline pts="80,60,96,-60," op-lw="4"/>
+<polyline pts="-80,0,-74,0," op-lw="2"/>
+<polyline pts="-70,0,-64,0," op-lw="2"/>
+<polyline pts="-60,0,-54,0," op-lw="2"/>
+<polyline pts="-50,0,-44,0," op-lw="2"/>
+<polyline pts="-40,0,-34,0," op-lw="2"/>
+<polyline pts="-30,0,-24,0," op-lw="2"/>
+<polyline pts="-20,0,-14,0," op-lw="2"/>
+<polyline pts="-10,0,-4,0," op-lw="2"/>
+<polyline pts="0,0,6,0," op-lw="2"/>
+<polyline pts="10,0,16,0," op-lw="2"/>
+<polyline pts="20,0,26,0," op-lw="2"/>
+<polyline pts="30,0,36,0," op-lw="2"/>
+<polyline pts="40,0,46,0," op-lw="2"/>
+<polyline pts="50,0,56,0," op-lw="2"/>
+<polyline pts="60,0,66,0," op-lw="2"/>
+<polyline pts="70,0,76,0," op-lw="2"/>
+<polyline pts="-114,0,-86,0," op-lw="4"/>
+<polyline pts="-100,0,-100,14," op-lw="4"/>
+<outlet x="-80" y="-60"/>
+<outlet x="0" y="-60"/>
+<outlet x="80" y="-60"/>
+<outlet x="-80" y="60"/>
+<outlet x="0" y="60"/>
+<outlet x="80" y="60"/>
+</layer></layers>
+</ppd>
+</document>

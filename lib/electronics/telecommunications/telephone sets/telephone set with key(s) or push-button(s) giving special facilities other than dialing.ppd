@@ -1,0 +1,18 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="telephone set with key(s) or push-button(s) giving special facilities other than dialing" t="volic" v="" n="EN 60617: 09-05-06" fG="a7809cdf-ff43-5b88-891e-0638e64f0078" lG="12e7025d-ca37-5ada-956e-43083bd2812b">
+<layers current="0"><layer name="0" v="1">
+<rect left="-98" top="-46" right="98" bottom="60" op-lw="4"/>
+<polyline pts="-68,-64,68,-64," op-lw="4"/>
+<polyline pts="-68,-64,-68,-46," op-lw="4"/>
+<polyline pts="-76,-46,-60,-46," op-lw="4"/>
+<polyline pts="68,-64,68,-46," op-lw="4"/>
+<polyline pts="60,-46,76,-46," op-lw="4"/>
+<rect left="38" top="10" right="50" bottom="24" op-lw="4"/>
+<rect left="58" top="10" right="70" bottom="24" op-lw="4"/>
+<rect left="78" top="10" right="90" bottom="24" op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

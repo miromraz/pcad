@@ -1,0 +1,29 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="banana plug" t="" v="" n="EN 60617: 03-03-05" fG="16abccd4-afc7-527b-8ced-a4085ccc011d" lG="2110d300-521f-54a0-b984-d2bac00c0bc4">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-150,0,180,0," op-lw="4"/>
+<ellipse left="110" top="-45" right="190" bottom="45" op-lw="4"/>
+<polyline pts="90,0,110,0," op-lw="4"/>
+<polyline pts="120,-30,180,-30," op-lw="2"/>
+<polyline pts="120,-15,180,-15," op-lw="2"/>
+<polyline pts="120,0,180,0," op-lw="2"/>
+<polyline pts="120,15,180,15," op-lw="2"/>
+<polyline pts="120,30,180,30," op-lw="2"/>
+<outlet x="-150" y="0"/>
+<outlet x="180" y="0"/>
+<outlet x="100" y="0"/>
+<outlet x="40" y="0"/>
+<outlet x="-100" y="0"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="0"/>
+<outlet x="-140" y="0"/>
+<outlet x="-130" y="0"/>
+<outlet x="-120" y="0"/>
+<outlet x="-110" y="0"/>
+<outlet x="170" y="-10"/>
+<outlet x="170" y="10"/>
+<outlet x="100" y="-20"/>
+<outlet x="100" y="20"/>
+</layer></layers>
+</ppd>
+</document>

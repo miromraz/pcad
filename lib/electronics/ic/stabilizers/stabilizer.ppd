@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="stabilizer" t="" v="" n="EN 60617: 08-12-01" fG="314f7721-1819-56d8-9d65-bc03658b882b" lG="a19aa90e-6bb0-5b14-84ca-116a6ca59394">
+<layers current="0"><layer name="0" v="1">
+<rect left="-70" top="-70" right="70" bottom="40" op-lw="4"/>
+<polyline pts="-70,0,-100,0," op-lw="4"/>
+<polyline pts="0,40,0,70," op-lw="4"/>
+<polyline pts="70,0,100,0," op-lw="4"/>
+<text x="-42" y="0" al="9" f="36,0,0,0,Arial,000000">in</text>
+<text x="42" y="0" al="9" f="36,0,0,0,Arial,000000">out</text>
+<text x="0" y="24" al="9" f="36,0,0,0,Arial,000000">gnd</text>
+<outlet x="-100" y="0"/>
+<outlet x="0" y="70"/>
+<outlet x="100" y="0"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="straight section with tap-off by movable contact, for example sliding contact" t="" v="" n="EN 60617: 11-17-28" fG="e2213edd-a289-5b5e-bab3-308358b7e440" lG="4af25a6f-101e-5f31-8385-e2c8abd8e6dd">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-80,-10,80,-10," op-lw="4"/>
+<polyline pts="-80,10,80,10," op-lw="4"/>
+<polyline pts="40,0,40,30," op-lw="4"/>
+<ellipse left="36" top="-4" right="44" bottom="4" op-lw="2" op-fd="1"/>
+<polyline pts="16,-8,60,-8," op-lw="4"/>
+<polygon pts="60,-8,46,-2,46,-14," op-lw="4" op-fd="1"/>
+<outlet x="40" y="30"/>
+</layer></layers>
+</ppd>
+</document>

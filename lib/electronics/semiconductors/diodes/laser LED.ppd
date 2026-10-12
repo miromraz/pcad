@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="laser LED" t="" v="" n="EN 60617: 05-03-02" fG="9ba6706c-6e19-5a33-88b6-577c12fae5ab" lG="123cd513-e230-55c8-b769-a7cd629c6843">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="8,-12,32,-12,20,12," op-lw="4"/>
+<polyline pts="8,12,32,12," op-lw="4"/>
+<polyline pts="20,12,20,20," op-lw="4"/>
+<polyline pts="20,-12,20,-20," op-lw="4"/>
+<polyline pts="8,-6,-70,-6," op-lw="4"/>
+<polygon pts="-70,-6,-56,-12,-56,0," op-lw="4" op-fd="1"/>
+<polyline pts="8,6,-70,6," op-lw="4"/>
+<polygon pts="-70,6,-56,0,-56,12," op-lw="4" op-fd="1"/>
+<outlet x="20" y="20"/>
+<outlet x="20" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

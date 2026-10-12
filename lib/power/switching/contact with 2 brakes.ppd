@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="contact with 2 brakes" t="" v="" n="EN 60617: 07-02-09" fG="87436213-10ca-5f44-b6a4-21be6e116ab2" lG="b42b086e-001c-5fbf-86f5-a9b0d26e30a6">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="-40,-60,-40,-18," op-lw="4"/>
+<polyline pts="-52,-12,12,-12," op-lw="4"/>
+<polyline pts="0,18,-20,-12," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<outlet x="-40" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

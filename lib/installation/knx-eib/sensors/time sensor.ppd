@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="time sensor" t="" v="" n="EN 60617: 10-17-04" fG="7abfca1a-4a4d-565b-bfef-3aab24d6350d" lG="f165f8ba-e5a2-5908-97ed-bd8bceda8e58">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">t</text>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

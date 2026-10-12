@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="underground line" t="" v="" n="EN 60617: 11-03-01" fG="1bcfb8df-931b-5bf4-abf2-97bddfd76305" lG="8a07d28d-34fb-586d-8e1f-4b2b6e50ff64">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-25,-6,25,-6," op-lw="4"/>
+<polyline pts="-15,6,15,6," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

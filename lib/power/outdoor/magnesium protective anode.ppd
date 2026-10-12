@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="magnesium protective anode" t="" v="" n="EN 60617: 11-04-09" fG="92720bf2-5e2c-5182-876b-cd0a14546e32" lG="dfba4f96-85f2-570a-babf-173c189484c7">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-40,0,0," op-lw="4"/>
+<rect left="-40" top="0" right="40" bottom="34" op-lw="4"/>
+<text x="0" y="17" al="9" f="69,0,0,0,Arial,000000">Mg</text>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

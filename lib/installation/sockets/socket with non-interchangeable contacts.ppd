@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="socket with non-interchangeable contacts" t="" v="" n="EN 60617: 211-07-26" fG="c15f35f8-0911-593f-977c-1cd5c05144c8" lG="08934e96-bfa1-51b5-af1c-67fe4e839532">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-15,2,-15,-1,-14,-4,-12,-6,-11,-9,-8,-10,-6,-12,-3,-13,0,-13,3,-13,6,-12,8,-10,11,-9,12,-6,14,-4,15,-1,15,2," op-lw="4"/>
+<polyline pts="-15,2,15,2," op-lw="4"/>
+<polyline pts="0,2,0,21," op-lw="4"/>
+<polyline pts="-5,-6,5,-6," op-lw="4"/>
+<polyline pts="0,2,0,-13," op-lw="4"/>
+<outlet x="0" y="21"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="combined protective and neutral conductor" t="" v="" n="EN 60617: 11-11-03" fG="1da84985-b48b-5420-b2fd-fcca8c785b01" lG="07a16af1-3699-5fe4-86d4-962ac0aaf8f7">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-17,13,17,13," op-lw="4"/>
+<polyline pts="-17,-8,17,-8," op-lw="4"/>
+<polyline pts="-12,-3,-18,-18," op-lw="4"/>
+<polyline pts="0,-3,-6,-18," op-lw="4"/>
+<polyline pts="12,-3,6,-18," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pulse meter" t="" v="" n="EN 60617: 08-05-02" fG="96e7f644-124d-5b2b-94c6-dfb2fcdb2c3c" lG="06fad0f3-2146-50ed-8542-33adc62ec05d">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-20" right="60" bottom="20" op-lw="4"/>
+<outlet x="0" y="-20"/>
+<outlet x="0" y="20"/>
+</layer></layers>
+</ppd>
+</document>

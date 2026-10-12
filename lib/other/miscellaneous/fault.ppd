@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="fault" t="" v="" n="EN 60617: 02-17-01" fG="60d85a5b-3bbb-5fc6-b4b4-8db4b8bce8f8" lG="d99fc572-4bd1-515f-b611-0eb675f6c98d">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-30,0,12," op-lw="4"/>
+<polygon pts="0,30,-10,12,10,12," op-lw="4" op-fd="1"/>
+
+</layer></layers>
+</ppd>
+</document>

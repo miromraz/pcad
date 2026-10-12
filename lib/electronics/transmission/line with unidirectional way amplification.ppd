@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="line with unidirectional way amplification" t="" v="" n="EN 60617: 10-02-01" fG="b8e16125-9592-54ba-918a-9d679e274de4" lG="1101f937-23e2-582a-ae78-4f17b5ff2da3">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-20,0,20,0," op-lw="4"/>
+<polygon pts="-20,-20,-20,20,20,0," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

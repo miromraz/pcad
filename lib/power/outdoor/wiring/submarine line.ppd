@@ -1,0 +1,8 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="submarine line" t="" v="" n="EN 60617: 11-03-02" fG="3ac02f1e-2f0a-5657-af40-e0ea31e75a7b" lG="27f39e64-bfa0-5b36-b701-962e236a4c0a">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-20,0,-18,-4,-17,-7,-15,-8,-13,-7,-12,-4,-10,0,-8,4,-7,7,-5,8,-3,7,-2,4,0,0,2,-4,3,-7,5,-8,7,-7,8,-4,10,0,12,4,13,7,15,8,17,7,18,4,20,0," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

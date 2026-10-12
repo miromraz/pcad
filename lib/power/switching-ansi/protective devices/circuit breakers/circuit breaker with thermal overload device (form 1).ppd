@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="circuit breaker with thermal overload device (form 1)" t="CB" v="" n="IEC:9.4.5" fG="46e8008a-238a-5b86-b641-98cb1a3b0c50" lG="715b728e-6603-5333-bb0c-1650e124c3ce">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-100,0,-70," op-lw="4"/>
+<polyline pts="0,100,0,70," op-lw="4"/>
+<polyline pts="0,70,9,-55," op-lw="4"/>
+<polyline pts="-8,-60,-8,-62,-7,-63,-6,-65,-5,-66,-3,-67,-2,-68,0,-68,2,-68,3,-67,5,-66,6,-65,7,-63,8,-62,8,-60," op-lw="4"/>
+<polyline pts="-16,66,-16,88,-3,88," op-lw="4"/>
+<outlet x="0" y="-100"/>
+<outlet x="0" y="100"/>
+</layer></layers>
+</ppd>
+</document>

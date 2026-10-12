@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="6-phase winding, star" t="" v="" n="EN 60617: 06-02-11" fG="46ba2384-9d42-5eea-9c02-debfa95d3acb" lG="8c25b1ad-71c7-5aac-a4c2-bc9d93310f58">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,0,0,-25," op-lw="4"/>
+<polyline pts="0,0,21,-12," op-lw="4"/>
+<polyline pts="0,0,21,12," op-lw="4"/>
+<polyline pts="0,0,0,25," op-lw="4"/>
+<polyline pts="0,0,-21,13," op-lw="4"/>
+<polyline pts="0,0,-21,-13," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

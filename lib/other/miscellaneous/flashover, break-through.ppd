@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="flashover, break-through" t="" v="" n="EN 60617: 02-17-02" fG="d3445135-37db-5f4f-8642-793e00ec2239" lG="eedd2097-8e9a-5aff-b68f-a5efd88625e1">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-20,0,20,0," op-lw="4"/>
+<polyline pts="0,-30,0,14," op-lw="4"/>
+<polygon pts="0,30,-9,14,9,14," op-lw="4" op-fd="1"/>
+
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="generating substation DC to AC - in operation" t="" v="" n="EN 60617: 11-02-16" fG="75ec1f9e-8f96-54eb-a2d8-2f6381c22797" lG="9d675971-a788-517f-bfbc-795b257feb07">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-90" right="60" bottom="90" op-lw="4"/>
+<polyline pts="-60,90,60,-90," op-lw="4"/>
+<polyline pts="-46,49,-45,46,-43,44,-41,42,-39,42,-38,42,-36,44,-34,46,-32,49,-31,51,-29,54,-27,55,-25,56,-24,55,-22,54,-20,51,-18,49," op-lw="4"/>
+<polyline pts="18,-54,46,-54," op-lw="4"/>
+<polyline pts="18,-44,46,-44," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

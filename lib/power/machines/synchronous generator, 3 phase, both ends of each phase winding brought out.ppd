@@ -1,0 +1,25 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="synchronous generator, 3 phase, both ends of each phase winding brought out" t="" v="" n="EN 60617: 06-07-04" fG="c3f90975-8ed4-573c-a085-7b2a481b5b72" lG="58a106a5-37f6-5c30-ace9-2a9372956f78">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polyline pts="54,-27,80,-40," op-lw="4"/>
+<polyline pts="54,27,80,40," op-lw="4"/>
+<polyline pts="-95,0,-80,0," op-lw="4"/>
+<polyline pts="80,0,95,0," op-lw="4"/>
+<text x="0" y="-18" al="9" f="78,0,0,0,Arial,000000">GS</text>
+<text x="0" y="18" al="9" f="78,0,0,0,Arial,000000">3~</text>
+<outlet x="-40" y="44"/>
+<outlet x="-40" y="-45"/>
+<outlet x="-20" y="-57"/>
+<outlet x="0" y="-60"/>
+<outlet x="20" y="-57"/>
+<outlet x="40" y="-44"/>
+<outlet x="80" y="-40"/>
+<outlet x="80" y="40"/>
+<outlet x="-20" y="56"/>
+<outlet x="0" y="60"/>
+<outlet x="20" y="56"/>
+<outlet x="40" y="44"/>
+</layer></layers>
+</ppd>
+</document>

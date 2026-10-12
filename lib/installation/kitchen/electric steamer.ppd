@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="electric steamer" t="" v="" n="EN 60617: 211-10-10" fG="ae9f5ab9-4ea1-573d-9564-8261c7693530" lG="968c3f37-2e3e-5032-b6bd-a0e1fdd2ce6f">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<ellipse left="-21" top="-21" right="21" bottom="21" op-lw="4"/>
+<polyline pts="-14,0,-13,-1,-11,-2,-9,-3,-7,-3,-5,-3,-4,-2,-2,-1,0,0,2,1,4,2,5,3,7,3,9,3,11,2,13,1,14,0," op-lw="4"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

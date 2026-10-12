@@ -1,0 +1,21 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="dashed core" t="L" v="" n="EN 60617: 04-03-06" fG="bd2c73c7-e2c5-533a-9d44-e3b7ad25e293" lG="ddf2157f-80b5-5077-b97a-9976b49386db">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-30,4,-30,7,-29,10,-28,12,-26,14,-24,14,-22,14,-21,12,-19,10,-17,7,-16,4,-15,0,-15,0,-15,4,-15,7,-14,10,-13,12,-11,14,-9,14,-8,14,-6,12,-4,10,-2,7,-1,4,0,0,0,0,0,4,0,7,1,10,2,12,4,14,6,14,8,14,9,12,11,10,13,7,14,4,15,0,15,0,15,4,15,7,16,10,17,12,19,14,21,14,22,14,24,12,26,10,28,7,29,4,30,0,30," op-lw="4"/>
+<polyline pts="0,-40,0,-30," op-lw="4"/>
+<polyline pts="0,30,0,40," op-lw="4"/>
+<polyline pts="18,-28,18,-21," op-lw="4"/>
+<polyline pts="22,-28,22,-21," op-lw="4"/>
+<polyline pts="18,-16,18,-9," op-lw="4"/>
+<polyline pts="22,-16,22,-9," op-lw="4"/>
+<polyline pts="18,-4,18,3," op-lw="4"/>
+<polyline pts="22,-4,22,3," op-lw="4"/>
+<polyline pts="18,8,18,15," op-lw="4"/>
+<polyline pts="22,8,22,15," op-lw="4"/>
+<polyline pts="18,20,18,27," op-lw="4"/>
+<polyline pts="22,20,22,27," op-lw="4"/>
+<outlet x="0" y="-40"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

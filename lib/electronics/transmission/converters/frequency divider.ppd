@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="frequency divider" t="" v="" n="EN 60617: 08-12-11" fG="4c10025a-d70e-5d61-9bf6-fe0634a5f296" lG="c96c41aa-0c9a-5ef9-8c23-3d9fbd9a72d3">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polyline pts="-60,-60,60,60," op-lw="4"/>
+<text x="-26" y="-29" al="9" f="45,0,0,0,Arial,000000">f1</text>
+<text x="26" y="29" al="9" f="45,0,0,0,Arial,000000">f2</text>
+<text x="0" y="0" al="9" f="45,0,0,0,Arial,000000">n</text>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

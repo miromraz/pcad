@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="carbon block, telephone protector block" t="k" v="" n="IEC:9.2" fG="0c1c6bc5-9433-5820-a856-89b87660e3ce" lG="5532f25e-dd0f-5bb8-a27c-93223835ee87">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-12," op-lw="4"/>
+<polyline pts="0,12,0,60," op-lw="4"/>
+<polyline pts="-10,-12,10,-12," op-lw="4"/>
+<polyline pts="-10,12,10,12," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

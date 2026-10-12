@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="phase meter" t="MP" v="" n="EN 60617: 08-02-06" fG="b2153a65-2b5d-578e-b912-c8393fbc0232" lG="3f70987a-72d5-5565-bdb8-f711eb4d0578">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">φ</text>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

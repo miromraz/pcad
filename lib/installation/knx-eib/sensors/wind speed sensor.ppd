@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="wind speed sensor" t="" v="" n="EN 60617: 10-17-04" fG="ab9cc897-ebd1-5580-8bcc-6e53a5ef7372" lG="26e84930-14a6-5d26-bde2-5fb395850fd3">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">m/s</text>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

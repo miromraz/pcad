@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="ceiling mounted light" t="" v="" n="EN 60617: 211-06-02" fG="b6ed0ef6-e940-5b81-a341-45ba107a11c8" lG="2fecf44d-277c-5da6-8c5c-5addb0bea36a">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-25" top="-25" right="25" bottom="25" op-lw="4"/>
+<polyline pts="-25,0,25,0," op-lw="4"/>
+<polyline pts="0,-25,0,25," op-lw="4"/>
+<outlet x="-25" y="0"/>
+<outlet x="25" y="0"/>
+<outlet x="0" y="25"/>
+<outlet x="0" y="-25"/>
+</layer></layers>
+</ppd>
+</document>

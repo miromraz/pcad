@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="shutter switch" t="" v="" n="EN 60617: 10-17-04" fG="2353ca08-e704-55cd-a6bb-2c3ba82b773d" lG="92221032-d84c-56ff-8f73-1c322addc440">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<polyline pts="-10,18,-10,-18," op-lw="4"/>
+<polygon pts="-10,-18,-4,-4,-16,-4," op-lw="4" op-fd="1"/>
+<polyline pts="10,-18,10,18," op-lw="4"/>
+<polygon pts="10,18,4,4,16,4," op-lw="4" op-fd="1"/>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

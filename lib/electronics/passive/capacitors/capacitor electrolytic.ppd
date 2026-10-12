@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="capacitor electrolytic" t="C" v="" n="EN 60617: 04-02-05" fG="22c84001-5012-5e90-816f-ddbaf901329c" lG="d1de003d-656e-525b-b2e4-6fa2e01c2605">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-16,-4,16,-4," op-lw="4"/>
+<polyline pts="-16,4,-14,6,-12,7,-10,8,-8,9,-7,10,-5,11,-3,11,-1,11,1,11,3,11,5,10,6,9,8,8,10,7,12,6,14,4," op-lw="4"/>
+<text x="9" y="-11" al="9" f="34,0,0,0,Arial,000000">+</text>
+<polyline pts="0,-4,0,-4," op-lw="4"/>
+<polyline pts="0,4,0,11," op-lw="4"/>
+<outlet x="0" y="-4"/>
+<outlet x="0" y="4"/>
+</layer></layers>
+</ppd>
+</document>

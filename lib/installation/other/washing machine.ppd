@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="washing machine" t="" v="" n="EN 60617: 211-10-09" fG="39d8b2af-3d76-5fcf-a517-7fedad4323e9" lG="d99f2d12-1abf-541f-a443-e359d62cb22b">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<ellipse left="-22" top="-22" right="22" bottom="22" op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

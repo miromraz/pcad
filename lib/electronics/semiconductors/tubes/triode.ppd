@@ -1,0 +1,26 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="triode" t="E" v="" n="EN 60617: 05-10-03" fG="1f884672-dcc4-5d7a-9665-c73a9722b045" lG="7716de33-6dc2-5dda-95a6-a6e516b2f50e">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-42" top="-42" right="42" bottom="42" op-lw="4"/>
+<polyline pts="-6,23,0,13," op-lw="4"/>
+<polyline pts="6,23,0,13," op-lw="4"/>
+<polyline pts="-6,23,-20,100," op-lw="4"/>
+<polyline pts="6,23,20,100," op-lw="4"/>
+<polyline pts="-14,15,14,15," op-lw="4"/>
+<polyline pts="-22,-4,-14,-4," op-lw="2"/>
+<polyline pts="-8,-4,0,-4," op-lw="2"/>
+<polyline pts="6,-4,14,-4," op-lw="2"/>
+<polyline pts="20,-4,28,-4," op-lw="2"/>
+<polyline pts="-22,-4,-30,0," op-lw="4"/>
+<polyline pts="-16,-23,16,-23," op-lw="4"/>
+<polyline pts="0,-23,0,-100," op-lw="4"/>
+<outlet x="0" y="-100"/>
+<outlet x="-20" y="60"/>
+<outlet x="20" y="60"/>
+<outlet x="-20" y="100"/>
+<outlet x="20" y="100"/>
+<outlet x="-30" y="0"/>
+<outlet x="30" y="0"/>
+</layer></layers>
+</ppd>
+</document>

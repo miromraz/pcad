@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="relay coil of a slow-operating and slow-releasing relay" t="" v="" n="EN 60617: 07-15-09" fG="91771861-7d64-5fb2-9cc1-44bbfb1087c7" lG="ac32ca6e-e337-5cba-9f6a-a98315db5c73">
+<layers current="0"><layer name="0" v="1">
+<rect left="-65" top="-20" right="65" bottom="20" op-lw="4"/>
+<rect left="-65" top="-20" right="-58" bottom="20" op-lw="4" op-fd="1"/>
+<rect left="58" top="-20" right="65" bottom="20" op-lw="4" op-fd="1"/>
+<outlet x="0" y="20"/>
+<outlet x="0" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

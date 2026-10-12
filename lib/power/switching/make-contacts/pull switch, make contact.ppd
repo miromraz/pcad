@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pull switch, make contact" t="k" v="" n="EN 60617: 07-02-02" fG="d894a091-1f14-5ca6-bf7b-501a4cd404c0" lG="045579cc-382f-55ab-9ce1-f6f378623a53">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,22,-18," op-lw="4"/>
+<polyline pts="0,0,-6,0," op-lw="2"/>
+<polyline pts="-10,0,-15,0," op-lw="2"/>
+<ellipse left="-23" top="-24" right="-7" bottom="-8" op-lw="4"/>
+<polyline pts="-15,-8,-15,2," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

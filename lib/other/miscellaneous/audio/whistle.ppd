@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="whistle" t="pistala" v="" n="EN 60617: 08-07-06" fG="1084d91a-9fc0-5c47-988b-b1edf89f3bb4" lG="c9df24cd-9abb-5d18-9983-ade5a3a93697">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,-40,-39,-49,-36,-57,-31,-65,-25,-71,-17,-76,-9,-79,0,-80,9,-79,17,-76,25,-71,31,-65,36,-57,39,-49,40,-40," op-lw="4"/>
+<polyline pts="-40,-40,-40,55," op-lw="4"/>
+<polyline pts="40,-40,40,55," op-lw="4"/>
+<polyline pts="-40,55,40,55," op-lw="4"/>
+<polyline pts="-40,55,-20,60," op-lw="4"/>
+<polyline pts="40,55,20,61," op-lw="4"/>
+<outlet x="-20" y="60"/>
+<outlet x="20" y="61"/>
+</layer></layers>
+</ppd>
+</document>

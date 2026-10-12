@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="turn switch, make contact" t="k" v="" n="EN 60617: 07-02-02" fG="1b136f82-1027-54e1-9844-4c6c054f4e2d" lG="93405ebe-fdab-5d85-a3af-35f868d05e2e">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,22,-18," op-lw="4"/>
+<polyline pts="0,0,-6,0," op-lw="2"/>
+<polyline pts="-10,0,-15,0," op-lw="2"/>
+<polyline pts="-26,-14,-25,-16,-24,-18,-23,-19,-21,-20,-19,-21,-17,-22,-15,-22,-13,-22,-11,-21,-9,-20,-7,-19,-6,-18,-5,-16,-4,-14," op-lw="4"/>
+<polyline pts="-15,-8,-15,2," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="3-phase winding, star, with neutral brought out" t="" v="" n="EN 60617: 06-02-08" fG="12ab5509-364f-5ada-b9fc-c51f44eca4b8" lG="e2f4c503-1252-5c4a-9b79-d5b0212bd1d6">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,6,0,-19," op-lw="4"/>
+<polyline pts="0,6,22,19," op-lw="4"/>
+<polyline pts="0,6,-22,19," op-lw="4"/>
+<outlet x="0" y="0"/>
+</layer></layers>
+</ppd>
+</document>

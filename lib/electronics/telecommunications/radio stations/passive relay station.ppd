@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="passive relay station" t="" v="" n="EN 60617: 10-06-08" fG="a3b7c7ff-8742-58cb-a91a-dbba04bdbdd7" lG="cd51a1d9-e508-5ff6-bf56-e26b294c5c65">
+<layers current="0"><layer name="0" v="1">
+<arc left="-80" top="-64" right="-48" bottom="64" bX="16" bY="-64" eX="16" eY="64" op-lw="4"/>
+<arc left="48" top="-64" right="80" bottom="64" bX="-16" bY="-64" eX="-16" eY="64" op-lw="4"/>
+<polyline pts="-64,0,64,0," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

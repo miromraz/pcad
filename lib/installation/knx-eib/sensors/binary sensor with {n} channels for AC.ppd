@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="binary sensor with {n} channels for AC" t="" v="" n="EN 60617: 10-17-04" fG="67b6289a-1365-5675-a814-166f123dd59a" lG="30e74111-47fc-58f7-a60b-42e57b959ccb">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<polyline pts="-20,0,-18,-3,-15,-5,-12,-6,-10,-7,-8,-6,-5,-5,-2,-3,0,0,2,3,5,5,8,6,10,7,12,6,15,5,18,3,20,0," op-lw="4"/>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+<outlet x="90" y="50"/>
+<outlet x="90" y="-50"/>
+</layer></layers>
+</ppd>
+</document>

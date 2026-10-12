@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="track mounted light fixture" t="" v="" n="EN 60617: 211-06-02" fG="4eec59f5-7787-5c9f-92bc-238acd1443ae" lG="8ae21307-dd86-51c7-bbdb-dc5709bce5cc">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-100,0,100,0," op-lw="4"/>
+<polyline pts="-60,-10,-60,10," op-lw="4"/>
+<polyline pts="-20,-10,-20,10," op-lw="4"/>
+<polyline pts="20,-10,20,10," op-lw="4"/>
+<polyline pts="60,-10,60,10," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

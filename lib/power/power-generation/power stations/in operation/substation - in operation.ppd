@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="substation - in operation" t="" v="" n="EN 60617: 11-01-06" fG="7e6a5bbd-6c22-5e3f-9d57-0efaa43011ba" lG="2966bc8a-fa5c-5a52-bf64-08ffeb210333">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polygon pts="0,-42,42,0,0,42,-42,0," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<outlet x="-42" y="42"/>
+<outlet x="42" y="42"/>
+<outlet x="42" y="-42"/>
+<outlet x="-42" y="-42"/>
+</layer></layers>
+</ppd>
+</document>

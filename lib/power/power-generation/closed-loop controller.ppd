@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="closed-loop controller" t="" v="" n="EN 60617: 06-19-01" fG="1042be84-a9c1-53b2-bb71-8aa13a7a41ad" lG="4a3c20a6-4c2d-592d-a109-daa8d5fbaa17">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polyline pts="-60,60,60,-60," op-lw="4"/>
+<text x="0" y="0" al="9" f="45,0,0,0,Arial,000000">A</text>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="temperature sensing diode" t="" v="" n="EN 60617: 05-03-03" fG="ade67a24-fe94-5324-a8d2-32b045214111" lG="e8d16983-c156-5e2c-9d7a-c03646bfbcac">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-13,-20,-13,20,13,0," op-lw="4"/>
+<polyline pts="13,-20,13,20," op-lw="4"/>
+<polyline pts="-20,0,-13,0," op-lw="4"/>
+<polyline pts="13,0,20,0," op-lw="4"/>
+<text x="0" y="-34" al="9" f="55,0,0,0,Arial,000000">Θ</text>
+<outlet x="-20" y="0"/>
+<outlet x="20" y="0"/>
+</layer></layers>
+</ppd>
+</document>

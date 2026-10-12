@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="fuse, general symbol" t="Poj" v="" n="EN 60617: 07-21-01" fG="8492a550-0325-54c0-8cd8-66840653c7ed" lG="3ea5b30a-86c3-5d61-bbc2-ab94fd91116e">
+<layers current="0"><layer name="0" v="1">
+<rect left="-8" top="-20" right="8" bottom="20" op-lw="4"/>
+<polyline pts="0,-24,0,24," op-lw="4"/>
+<outlet x="0" y="-24"/>
+<outlet x="0" y="24"/>
+</layer></layers>
+</ppd>
+</document>

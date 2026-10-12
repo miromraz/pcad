@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="potentiometer" t="R" v="" n="EN 60617: 04-01-05" fG="0f173b7f-65f5-57ef-b013-49dab5668c6a" lG="c8ef976a-3731-5886-b939-891053e05e08">
+<layers current="0"><layer name="0" v="1">
+<rect left="-10" top="-20" right="10" bottom="20" op-lw="4"/>
+<polyline pts="0,-20,0,-25," op-lw="4"/>
+<polyline pts="0,20,0,25," op-lw="4"/>
+<polyline pts="-28,20,-10,20," op-lw="4"/>
+<polygon pts="-10,20,-24,26,-24,14," op-lw="4" op-fd="1"/>
+<outlet x="0" y="-25"/>
+<outlet x="0" y="25"/>
+<outlet x="-20" y="20"/>
+</layer></layers>
+</ppd>
+</document>

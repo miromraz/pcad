@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="hall generator with four connections" t="" v="" n="EN 60617: 05-06-05" fG="5219605c-a057-5713-a6d8-4ac97cd30718" lG="2784c6ff-3b81-523c-8c5f-b902b74b8fca">
+<layers current="0"><layer name="0" v="1">
+<rect left="-8" top="-25" right="8" bottom="25" op-lw="4"/>
+<polyline pts="-8,-25,8,25," op-lw="4"/>
+<polyline pts="-8,25,8,-25," op-lw="4"/>
+<outlet x="0" y="-25"/>
+<outlet x="0" y="25"/>
+<outlet x="-8" y="0"/>
+<outlet x="8" y="0"/>
+</layer></layers>
+</ppd>
+</document>

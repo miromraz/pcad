@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="thermal element - overload heater (IEC)" t="Re" v="" n="EN 60617: 07-21-08" fG="5a4f9cd3-bd1a-5420-8c1b-d46fa08795a4" lG="4bfd4da7-05a5-5899-b73e-1dc500f4ee62">
+<layers current="0"><layer name="0" v="1">
+<rect left="-13" top="-22" right="13" bottom="22" op-lw="4"/>
+<polyline pts="0,-30,0,-22," op-lw="4"/>
+<polyline pts="0,22,0,30," op-lw="4"/>
+<polyline pts="-8,-8,8,-8," op-lw="4"/>
+<polyline pts="8,-8,8,8," op-lw="4"/>
+<outlet x="0" y="30"/>
+<outlet x="0" y="-30"/>
+</layer></layers>
+</ppd>
+</document>

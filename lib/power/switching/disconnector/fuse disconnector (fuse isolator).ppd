@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="fuse disconnector (fuse isolator)" t="" v="" n="EN 60617: 07-13-06" fG="c61ea66c-0242-56e3-a584-028684226de7" lG="e057c721-9ff4-577f-87cc-68f19dca6f87">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,27,-18," op-lw="4"/>
+<polyline pts="0,-18,27,-18," op-lw="4"/>
+<polyline pts="27,-25,27,-11," op-lw="4"/>
+<polyline pts="16,-18,38,-18," op-lw="4"/>
+<rect left="8" top="-11" right="20" bottom="11" op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

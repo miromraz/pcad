@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="starter with auto-transformer" t="" v="" n="EN 60617: 07-14-07" fG="0063cb78-30ee-5551-aa96-e02b8fac25cb" lG="2303a938-c455-5c8a-a68e-02006dbcbaa3">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="-20,2,-20,6,-19,10,-17,13,-15,15,-13,16,-11,15,-9,13,-8,10,-7,6,-7,2,-7,2,-6,6,-5,10,-4,13,-2,15,0,16,2,15,4,13,5,10,6,6,7,2,7,2,7,6,8,10,9,13,11,15,13,16,15,15,17,13,19,10,20,6,20,2," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

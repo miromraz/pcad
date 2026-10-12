@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="loudspeaker" t="Rep" v="" n="EN 60617: 09-09-07" fG="3a866792-01c0-5a9b-ba75-650b69c88397" lG="50dae0d5-4fec-5752-8b6f-d8d7ab70caea">
+<layers current="0"><layer name="0" v="1">
+<rect left="-12" top="-22" right="12" bottom="22" op-lw="4"/>
+<polygon pts="12,-22,34,-40,34,40,12,22," op-lw="4"/>
+<polyline pts="0,-22,0,-25," op-lw="4"/>
+<polyline pts="0,22,0,25," op-lw="4"/>
+<outlet x="0" y="-25"/>
+<outlet x="0" y="25"/>
+</layer></layers>
+</ppd>
+</document>

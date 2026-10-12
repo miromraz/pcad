@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="projector" t="" v="" n="EN 60617: 11-15-07" fG="e90d9090-2797-59fc-954b-d5914ed9f445" lG="ec502663-7672-5a9b-bb04-60cbc5c35802">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-34" top="-8" right="-18" bottom="8" op-lw="2" op-fd="1"/>
+<polyline pts="-29,-12,-29,12," op-lw="4"/>
+<polyline pts="-18,0,28,-26," op-lw="4"/>
+<polyline pts="-18,0,28,26," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

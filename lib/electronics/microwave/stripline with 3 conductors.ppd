@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="stripline with 3 conductors" t="" v="" n="EN 60617: 10-07-07" fG="381857f2-f6f2-5784-8aea-d4ef8cbe109c" lG="0d0c3358-c0e8-566d-89e4-b530d6147225">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,-18,40,-18," op-lw="4"/>
+<polyline pts="-40,0,40,0," op-lw="4"/>
+<polyline pts="-40,18,40,18," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

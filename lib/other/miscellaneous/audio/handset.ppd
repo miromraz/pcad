@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="handset" t="pistala" v="" n="EN 60617: 09-09-06" fG="a577cb79-f5c3-511c-8e3f-69c93089b51d" lG="e5e89462-fb50-511c-9f8d-c9e8ae8a753a">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-15,-58,-15,58," op-lw="4"/>
+<polyline pts="2,-68,-2,-67,-5,-64,-8,-60,-9,-55,-10,-50,-9,-44,-8,-39,-5,-35,-2,-32,2,-32," op-lw="4"/>
+<polyline pts="2,-68,6,-67,9,-64,12,-60,13,-55,14,-50,13,-44,12,-39,9,-35,6,-32,2,-32," op-lw="4"/>
+<ellipse left="-20" top="24" right="24" bottom="68" op-lw="4"/>
+<polyline pts="-15,-50,-15,-50," op-lw="4"/>
+<polyline pts="-15,-30,-15,-30," op-lw="4"/>
+<polyline pts="-15,45,-25,45," op-lw="4"/>
+<outlet x="-15" y="-50"/>
+<outlet x="-15" y="-30"/>
+<outlet x="-25" y="45"/>
+</layer></layers>
+</ppd>
+</document>

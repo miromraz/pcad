@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="current transformer with 5 passages of a conductor acting as primary winding - form 1" t="" v="" n="EN 60617: 06-13-08" fG="e9a7554b-c4a1-5837-916b-7f91a51a4955" lG="c4cc173d-c17a-55ab-96b2-7fa5bd06dbf6">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-30" top="-30" right="30" bottom="30" op-lw="4"/>
+<polyline pts="-80,0,80,0," op-lw="4"/>
+<polyline pts="0,30,0,80," op-lw="4"/>
+<text x="0" y="0" al="9" f="56,0,0,0,Arial,000000">N=5</text>
+<outlet x="-80" y="0"/>
+<outlet x="80" y="0"/>
+<outlet x="0" y="80"/>
+</layer></layers>
+</ppd>
+</document>

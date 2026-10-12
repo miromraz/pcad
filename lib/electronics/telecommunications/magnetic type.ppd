@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="magnetic type" t="" v="" n="EN 60617: 09-08-01" fG="235a463b-0ee2-56f5-b3fd-61fed676d1dc" lG="80ec54e3-3fce-5c59-8622-c317ce9041ce">
+<layers current="0"><layer name="0" v="1">
+<arc left="-25" top="-23" right="-15" bottom="23" bX="0" bY="-23" eX="0" eY="23" op-lw="4"/>
+<arc left="-17" top="-23" right="-7" bottom="23" bX="0" bY="-23" eX="0" eY="23" op-lw="4"/>
+<arc left="-9" top="-23" right="1" bottom="23" bX="0" bY="-23" eX="0" eY="23" op-lw="4"/>
+<arc left="-1" top="-23" right="9" bottom="23" bX="0" bY="-23" eX="0" eY="23" op-lw="4"/>
+<arc left="7" top="-23" right="17" bottom="23" bX="0" bY="-23" eX="0" eY="23" op-lw="4"/>
+<arc left="15" top="-23" right="25" bottom="23" bX="0" bY="-23" eX="0" eY="23" op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

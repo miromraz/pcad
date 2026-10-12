@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="hybrid transformer" t="" v="" n="EN 60617: 10-18-04" fG="6086b846-d73e-59a0-a7de-5845a407c15b" lG="172700ac-35a7-5977-9850-2aea93115a06">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<arc left="-36" top="-30" right="0" bottom="30" bX="0" bY="-30" eX="0" eY="30" op-lw="4"/>
+<arc left="0" top="-30" right="36" bottom="30" bX="0" bY="30" eX="0" eY="-30" op-lw="4"/>
+<outlet x="0" y="60"/>
+<outlet x="0" y="-60"/>
+<outlet x="60" y="0"/>
+<outlet x="-60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

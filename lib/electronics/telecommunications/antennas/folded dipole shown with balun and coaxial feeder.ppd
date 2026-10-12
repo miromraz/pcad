@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="folded dipole shown with balun and coaxial feeder" t="" v="" n="EN 60617: 10-05-09" fG="83171bdb-c0f5-5cd7-a710-26492e78a384" lG="263206c2-4046-55b2-ad9e-a26bdbb4b754">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-62,-18,62,-18," op-lw="4"/>
+<polyline pts="-62,18,62,18," op-lw="4"/>
+<arc left="-80" top="-18" right="-44" bottom="18" bX="0" bY="-18" eX="0" eY="18" op-lw="4"/>
+<arc left="44" top="-18" right="80" bottom="18" bX="0" bY="18" eX="0" eY="-18" op-lw="4"/>
+<polyline pts="-10,18,-10,60," op-lw="4"/>
+<polyline pts="10,18,10,60," op-lw="4"/>
+<ellipse left="-12" top="60" right="12" bottom="84" op-lw="4"/>
+<polyline pts="0,84,-10,100," op-lw="4"/>
+<outlet x="-10" y="100"/>
+</layer></layers>
+</ppd>
+</document>

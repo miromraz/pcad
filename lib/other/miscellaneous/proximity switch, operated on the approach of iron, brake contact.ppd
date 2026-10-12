@@ -1,0 +1,20 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="proximity switch, operated on the approach of iron, brake contact" t="" v="" n="EN 60617: 07-20-04" fG="1213da52-af0c-57cd-8a2d-285929e103fb" lG="3629dff9-876b-5784-ac95-cd401aae66dc">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="20,-60,20,-18," op-lw="4"/>
+<polyline pts="20,60,20,18," op-lw="4"/>
+<polyline pts="20,18,-10,-18," op-lw="4"/>
+<polyline pts="-10,-18,20,-18," op-lw="4"/>
+<polyline pts="-10,0,-16,0," op-lw="2"/>
+<polyline pts="-20,0,-26,0," op-lw="2"/>
+<polyline pts="-30,0,-36,0," op-lw="2"/>
+<polyline pts="-40,0,-46,0," op-lw="2"/>
+<polyline pts="-50,0,-56,0," op-lw="2"/>
+<polyline pts="-60,0,-61,0," op-lw="2"/>
+<polygon pts="-69,-18,-51,0,-69,18,-87,0," op-lw="4"/>
+<text x="-85" y="24" al="9" f="31,0,0,0,Arial,000000">Fe</text>
+<outlet x="20" y="-60"/>
+<outlet x="20" y="60"/>
+</layer></layers>
+</ppd>
+</document>

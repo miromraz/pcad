@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="box, general symbol" t="" v="" n="EN 60617: 11-12-04" fG="be77d320-d2ea-5619-875e-f0c2e99cb02f" lG="8f9cfc24-6588-5a78-8014-bc4c7b097dd1">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-15" top="-15" right="15" bottom="15" op-lw="4"/>
+<outlet x="-15" y="0"/>
+<outlet x="0" y="15"/>
+<outlet x="15" y="0"/>
+<outlet x="0" y="-15"/>
+</layer></layers>
+</ppd>
+</document>

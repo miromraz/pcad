@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="resistor variable" t="R" v="" n="EN 60617: 04-01-02" fG="20a84618-e13b-5f2b-967f-bcc2d27adaa3" lG="6ec88ab0-1b8e-563a-8b2e-7507e0d32416">
+<layers current="0"><layer name="0" v="1">
+<rect left="-10" top="-20" right="10" bottom="20" op-lw="4"/>
+<polyline pts="0,-20,0,-25," op-lw="4"/>
+<polyline pts="0,20,0,25," op-lw="4"/>
+<polyline pts="-18,28,18,-28," op-lw="4"/>
+<polygon pts="18,-28,15,-13,5,-19," op-lw="4" op-fd="1"/>
+<outlet x="0" y="-25"/>
+<outlet x="0" y="25"/>
+</layer></layers>
+</ppd>
+</document>

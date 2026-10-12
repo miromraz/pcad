@@ -5,10 +5,16 @@ drawings from a small JSON spec, and renders them to PNG/SVG with a clean-room
 pure-Python renderer. **ProfiCAD itself is not required** — the symbol library
 is bundled under `lib/` and both the writer and the renderer are plain Python.
 
-The symbol library is converted from the open-source
-[QElectroTech elements collection](https://github.com/qelectrotech/qelectrotech-elements)
-(CC-BY 3.0), plus a handful of symbols and ICs drawn from scratch. See
-`lib/NOTICE` for attribution and `tools/qet2ppd.py` for the converter.
+The symbol library is an **independent clean-room drawing** of the **EN 60617**
+(= IEC 60617; Czech ČSN EN 60617) graphical symbols. A facts-only specification
+(symbol name, standard clause, ordered connection points and pin-number order,
+drawn size, inside markings — no drawing data of any kind) was written from the
+standard, and separate drawing teams rendered those facts into ProfiCAD-format
+`.ppd` files with no access to any third-party symbol library. Pin positions and
+pin-number order follow the standard, so wiring carries the standard's
+connection numbering; the geometry is this project's own. The library plus the
+`.picd` ICs and the junction dot are MIT-licensed, © 2026 miromraz — see
+`lib/NOTICE` for the clean-room process and `lib/LICENSE`.
 
 ## Requirements
 
@@ -29,7 +35,8 @@ python3 pcad.py selftest                     run internal asserts
 ```
 
 A `<symbol>` is a library-relative path without extension, e.g.
-`passive/resistor`, `meters/ammeter`, `ic/555`.
+`electronics/passive/resistors/resistor`, `electronics/meters/ammeter`,
+`ic/555`. Use `search` to find the exact path.
 
 ### Using a different library
 
@@ -45,7 +52,7 @@ PCAD_LIB=/path/to/other/library python3 pcad.py search resistor
 ```json
 {
   "parts": [
-    {"sym": "passive/resistor", "ref": "R1", "val": "330R",
+    {"sym": "electronics/passive/resistors/resistor", "ref": "R1", "val": "330R",
      "x": 30, "y": 30, "rot": 90, "mirror": "x", "hide_ref": true}
   ],
   "wires": [
@@ -73,8 +80,10 @@ Workflow: `search` → `pins` → write spec → `build` → `verify` (fix until
 
 ## Credits
 
-- Symbol library derived from the QElectroTech elements collection,
-  © The QElectroTech team, https://qelectrotech.org, CC-BY 3.0. See `lib/NOTICE`.
+- Symbol library: an independent clean-room drawing of EN 60617 / IEC 60617
+  (ČSN EN 60617), drawn from a facts-only specification by separate drawing
+  teams with no access to any third-party symbol library. MIT, © 2026 miromraz.
+  See `lib/NOTICE` for the clean-room process.
 - Code: MIT, © 2026 miromraz. See `LICENSE`.
 
 ProfiCAD is a trademark of its respective owner. This project is independent and

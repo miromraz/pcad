@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="sphere gap" t="k" v="" n="IEC:9.2" fG="2134fb90-7922-58a3-9cc6-f3cb3c563f4a" lG="180a7da0-7e7f-5c5b-a998-8b97bafd7e3b">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-14," op-lw="4"/>
+<polyline pts="0,14,0,60," op-lw="4"/>
+<ellipse left="-15" top="-22" right="15" bottom="8" op-lw="4"/>
+<ellipse left="-15" top="-8" right="15" bottom="22" op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="class II" t="zem" v="" n="EN 60617: 02-15-03" fG="d01af396-d2db-5d04-9074-e0b96525e4f4" lG="798eab8a-33a0-5fe1-9370-e8d306886ae8">
+<layers current="0"><layer name="0" v="1">
+<rect left="-28" top="-28" right="28" bottom="28" op-lw="4"/>
+<rect left="-18" top="-18" right="18" bottom="18" op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

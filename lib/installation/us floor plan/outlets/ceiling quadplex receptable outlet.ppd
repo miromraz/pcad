@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="ceiling quadplex receptable outlet" t="" v="" n="EN 60617: 211-06-02" fG="479304e5-5e18-5f34-a9d8-fc74c70b2253" lG="17762ed4-5dfd-5d75-956d-6ed3b28a6051">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-23" top="-23" right="23" bottom="23" op-lw="4"/>
+<polyline pts="-24,0,24,0," op-lw="4"/>
+<polyline pts="-17,-10,-17,10," op-lw="4"/>
+<polyline pts="-6,-10,-6,10," op-lw="4"/>
+<polyline pts="6,-10,6,10," op-lw="4"/>
+<polyline pts="17,-10,17,10," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="valve" t="" v="" n="EN 60617: 10-17-04" fG="3e3fc412-e73a-54d0-9fa0-3896e410c174" lG="74ee45d5-fdce-5169-bbbe-6301ddffbe5b">
+<layers current="0"><layer name="0" v="1">
+<rect left="-84" top="-72" right="96" bottom="72" op-lw="4"/>
+<text x="6" y="0" al="9" f="95,0,0,0,Arial,000000">M</text>
+<outlet x="-84" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="96" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="logic module" t="" v="" n="EN 60617: 10-17-04" fG="68124d4c-782f-5d71-b77b-426ba61f3dd7" lG="669123b6-80a1-578c-8f1e-3ad9d07d6624">
+<layers current="0"><layer name="0" v="1">
+<rect left="-108" top="-72" right="108" bottom="72" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">t</text>
+<outlet x="-108" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="108" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

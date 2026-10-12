@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="push button, break contact" t="k" v="" n="EN 60617: 07-07-02" fG="26351458-2c2e-5aee-853e-6071fd2b8040" lG="ce4b3b03-2dc5-50a3-9112-f57a4c08c81a">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,22,-18," op-lw="4"/>
+<polyline pts="0,-18,22,-18," op-lw="4"/>
+<polyline pts="22,-25,22,-11," op-lw="4"/>
+<polyline pts="0,0,-4,0," op-lw="2"/>
+<polyline pts="-4,-8,-4,2," op-lw="4"/>
+<polyline pts="-18,-8,10,-8," op-lw="4"/>
+<polyline pts="-18,-15,10,-15," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

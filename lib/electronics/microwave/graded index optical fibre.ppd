@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="graded index optical fibre" t="" v="" n="EN 60617: 10-23-03" fG="db299dcc-a736-5d9d-9af5-1f16b465d86f" lG="700527ee-0711-5154-8d44-6a14f62397ee">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-70,0,70,0," op-lw="4"/>
+<polyline pts="-62,-28,-62,28," op-lw="4"/>
+<polyline pts="-62,28,-40,28," op-lw="4"/>
+<polyline pts="-62,28,-59,15,-56,4,-54,-6,-51,-14,-48,-20,-46,-24,-43,-27,-40,-28," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

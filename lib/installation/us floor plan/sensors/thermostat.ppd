@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="thermostat" t="" v="" n="EN 60617: 211-06-02" fG="6613d7b8-f584-5ae1-9bea-e5c074a3325a" lG="a1b7ca3f-4599-5ebe-96e7-0a32c5b52f50">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-36" top="-25" right="36" bottom="25" op-lw="4"/>
+<text x="0" y="0" al="9" f="86,0,0,0,Arial,000000">T</text>
+
+</layer></layers>
+</ppd>
+</document>

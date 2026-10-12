@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="direction finding antenna" t="" v="" n="EN 60617: 10-04-06" fG="89244e9f-66b0-571e-8661-6b27448784e0" lG="fd29309a-3c76-59f7-829e-c6f695f49a0a">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,40,0,-4," op-lw="4"/>
+<polyline pts="0,-4,-20,-40," op-lw="4"/>
+<polyline pts="0,-4,20,-40," op-lw="4"/>
+<ellipse left="-28" top="4" right="28" bottom="36" op-lw="4"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

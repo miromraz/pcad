@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="earphone" t="Sluch" v="" n="EN 60617: 09-09-04" fG="6628d42a-0168-5e12-b3bb-bcbee1ece556" lG="5f82ef85-0fb9-501b-97fa-5b2e070508bf">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-38,-3,-36,-6,-31,-8,-22,-10,-12,-10,0,-10,12,-8,22,-6,31,-3,36,0,38," op-lw="4"/>
+<polyline pts="0,-38,3,-36,6,-31,8,-22,10,-12,10,0,10,12,8,22,6,31,3,36,0,38," op-lw="4"/>
+<polyline pts="0,-38,0,-40," op-lw="4"/>
+<polyline pts="0,38,0,40," op-lw="4"/>
+<outlet x="0" y="-40"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

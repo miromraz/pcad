@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="negative impedance both-way amplifier" t="" v="" n="EN 60617: 10-15-04" fG="05661f4d-357d-539e-97ee-3bce2872261e" lG="5dee6027-c16c-5622-8233-d0237ca21957">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-80,-40,-80,40,0,0," op-lw="4"/>
+<polygon pts="80,-40,80,40,0,0," op-lw="4"/>
+<outlet x="-80" y="0"/>
+<outlet x="80" y="0"/>
+</layer></layers>
+</ppd>
+</document>

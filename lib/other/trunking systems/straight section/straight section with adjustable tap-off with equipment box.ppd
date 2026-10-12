@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="straight section with adjustable tap-off with equipment box" t="" v="" n="EN 60617: 11-17-30" fG="23064e12-d4ff-5844-9fc5-02271075fa21" lG="16354c8b-5a57-5c9c-bf62-ea12d322c959">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-80,-75,80,-75," op-lw="4"/>
+<polyline pts="-80,-55,80,-55," op-lw="4"/>
+<polyline pts="0,-65,0,-47," op-lw="4"/>
+<ellipse left="-4" top="-69" right="4" bottom="-61" op-lw="2" op-fd="1"/>
+<rect left="-53" top="-47" right="53" bottom="75" op-lw="4"/>
+<polyline pts="0,-55,0,-35," op-lw="4"/>
+<polygon pts="0,-35,-6,-49,6,-49," op-lw="4" op-fd="1"/>
+
+</layer></layers>
+</ppd>
+</document>

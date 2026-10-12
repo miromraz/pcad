@@ -1,0 +1,27 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="operational amplifier" t="IO" v="" n="EN 60617: 06-17-01" fG="c3eea024-fd06-55bb-af6c-a4a479fca5fd" lG="69b27001-3997-5ba4-8327-4f5010ac18b1">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-88,-88,-88,88,88,0," op-lw="4"/>
+<text x="-62" y="40" al="9" f="55,0,0,0,Arial,000000">+</text>
+<text x="-62" y="-40" al="9" f="55,0,0,0,Arial,000000">−</text>
+<outlet x="-75" y="-81"/>
+<outlet x="-50" y="-69"/>
+<outlet x="-25" y="-56"/>
+<outlet x="0" y="-44"/>
+<outlet x="25" y="-31"/>
+<outlet x="50" y="-19"/>
+<outlet x="75" y="-6"/>
+<outlet x="-75" y="81"/>
+<outlet x="-50" y="69"/>
+<outlet x="-25" y="56"/>
+<outlet x="0" y="44"/>
+<outlet x="25" y="31"/>
+<outlet x="50" y="19"/>
+<outlet x="75" y="6"/>
+<outlet x="88" y="0"/>
+<outlet x="-88" y="0"/>
+<outlet x="-88" y="-40"/>
+<outlet x="-88" y="40"/>
+</layer></layers>
+</ppd>
+</document>

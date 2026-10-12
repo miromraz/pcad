@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="end feeder unit" t="" v="" n="EN 60617: 11-17-20" fG="53f383eb-1a9c-541e-9b78-ecec64398a86" lG="e8826ad4-632d-5727-8f73-9057af1cae83">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-60,-10,20,-10," op-lw="4"/>
+<polyline pts="-60,10,20,10," op-lw="4"/>
+<rect left="20" top="-20" right="44" bottom="20" op-lw="4"/>
+<polygon pts="60,0,44,-8,44,8," op-lw="4" op-fd="1"/>
+<polyline pts="44,0,60,0," op-lw="4"/>
+<outlet x="-60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

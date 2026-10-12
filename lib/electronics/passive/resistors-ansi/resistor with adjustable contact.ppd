@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="resistor with adjustable contact" t="R" v="" n="IEC:2.1.2" fG="6ec12efb-459e-541f-903b-d69b74bc6ff9" lG="059cc573-2124-546e-92f4-83cca8869833">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-20,10,-17,-10,-10,10,-3,-10,3,10,10,-10,17,0,20," op-lw="4"/>
+<polyline pts="0,20,0,30," op-lw="4"/>
+<polyline pts="0,-20,0,-30," op-lw="4"/>
+<polyline pts="-21,21,21,-21," op-lw="4"/>
+<polygon pts="21,-21,15,-7,7,-15," op-lw="4" op-fd="1"/>
+<outlet x="0" y="30"/>
+<outlet x="0" y="-30"/>
+</layer></layers>
+</ppd>
+</document>

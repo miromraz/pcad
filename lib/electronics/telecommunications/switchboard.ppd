@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="switchboard" t="telefon" v="" n="EN 60617: 10-13-01" fG="aa456b3f-18ca-562e-83fd-afa9c200f5a2" lG="0c2e6972-5470-546f-8520-5b80b607e331">
+<layers current="0"><layer name="0" v="1">
+<rect left="-75" top="-50" right="75" bottom="50" op-lw="4"/>
+<polyline pts="-75,-50,75,50," op-lw="4"/>
+<polyline pts="-75,50,75,-50," op-lw="4"/>
+<polyline pts="-75,19,-80,19," op-lw="4"/>
+<polyline pts="75,20,70,20," op-lw="4"/>
+<polyline pts="0,0,0,50," op-lw="4"/>
+<outlet x="-80" y="19"/>
+<outlet x="70" y="20"/>
+<outlet x="0" y="50"/>
+</layer></layers>
+</ppd>
+</document>

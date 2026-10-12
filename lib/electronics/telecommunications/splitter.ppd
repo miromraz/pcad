@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="splitter" t="" v="" n="EN 60617: 11-07-01" fG="b2e50602-798a-5e22-bbd9-f997ef493bf4" lG="adc48082-f976-5aa2-9402-c60bd049a2f7">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-20,0,26,-40,26,40," op-lw="4"/>
+<outlet x="-20" y="0"/>
+<outlet x="0" y="33"/>
+<outlet x="14" y="20"/>
+<outlet x="20" y="0"/>
+<outlet x="14" y="-20"/>
+<outlet x="0" y="-33"/>
+</layer></layers>
+</ppd>
+</document>

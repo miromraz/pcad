@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="DC voltage source" t="" v="" n="EN 60617: 08-12-15" fG="ec7e9a70-d234-59ae-9d07-fc9b7aa64896" lG="9bf92305-2bb0-58e5-838b-d99487dece0c">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-50" top="-50" right="50" bottom="50" op-lw="4"/>
+<polyline pts="-20,-6,20,-6," op-lw="4"/>
+<polyline pts="-20,6,-13,6," op-lw="4"/>
+<polyline pts="-8,6,-1,6," op-lw="4"/>
+<polyline pts="4,6,11,6," op-lw="4"/>
+<polyline pts="16,6,23,6," op-lw="4"/>
+<outlet x="0" y="-40"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

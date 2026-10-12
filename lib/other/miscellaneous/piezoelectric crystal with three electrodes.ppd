@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="piezoelectric crystal with three electrodes" t="F" v="" n="EN 60617: 05-02-01" fG="cc5aa7d8-0511-583b-8a8b-a2d6dbedd39a" lG="c576708d-b6b4-53ce-90ea-9d3989af74f8">
+<layers current="0"><layer name="0" v="1">
+<rect left="-12" top="-6" right="12" bottom="6" op-lw="4"/>
+<polyline pts="-32,-12,-4,-12," op-lw="4"/>
+<polyline pts="4,-12,32,-12," op-lw="4"/>
+<polyline pts="-16,12,16,12," op-lw="4"/>
+<polyline pts="-20,-12,-20,-15," op-lw="4"/>
+<polyline pts="0,12,0,15," op-lw="4"/>
+<polyline pts="20,-12,20,-15," op-lw="4"/>
+<outlet x="-20" y="-15"/>
+<outlet x="0" y="15"/>
+<outlet x="20" y="-15"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="flood light" t="" v="" n="EN 60617: 11-15-09" fG="2c3bb5dd-275e-5a66-861d-017cfe70de1d" lG="50f60a8c-c076-5d87-ad15-0eac05d3431d">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-44" top="-8" right="-28" bottom="8" op-lw="2" op-fd="1"/>
+<polyline pts="-39,-12,-39,12," op-lw="4"/>
+<polyline pts="-28,0,38,-37," op-lw="4"/>
+<polyline pts="-28,0,38,37," op-lw="4"/>
+<polyline pts="-5,-26,-2,-24,-1,-20,1,-17,2,-14,4,-11,4,-7,5,-4,5,0,5,4,4,7,4,11,2,14,1,17,-1,20,-2,24,-5,26," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

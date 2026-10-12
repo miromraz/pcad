@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="antenna with direction of radiation variable in elevation" t="" v="" n="EN 60617: 10-04-05" fG="bc7427b9-d125-515e-9e4e-c58297ec3935" lG="1eb0e4a6-98d6-54fe-9222-0d1995fb61f7">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,28,0,-16," op-lw="4"/>
+<polyline pts="0,-16,-20,-52," op-lw="4"/>
+<polyline pts="0,-16,20,-52," op-lw="4"/>
+<arc left="-20" top="-36" right="28" bottom="12" bX="0" bY="-24" eX="24" eY="0" op-lw="4"/>
+<polygon pts="28,-12,23,-22,33,-22," op-lw="4" op-fd="1"/>
+<outlet x="0" y="28"/>
+</layer></layers>
+</ppd>
+</document>

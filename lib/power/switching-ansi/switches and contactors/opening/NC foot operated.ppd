@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="NC foot operated" t="k" v="" n="IEC:9.2" fG="66694967-7e45-513e-8a05-6e77002db1f6" lG="2295731d-0a3d-5896-92d9-bb7557c89e61">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-46,0,-16,0," op-lw="4"/>
+<polyline pts="46,0,16,0," op-lw="4"/>
+<polyline pts="-16,0,16,0," op-lw="4"/>
+<polyline pts="2,-26,2,26," op-lw="4"/>
+<polyline pts="-10,-20,10,-26,10,-20," op-lw="4"/>
+<polyline pts="0,-16,0,-20," op-lw="4"/>
+<outlet x="-46" y="0"/>
+<outlet x="46" y="0"/>
+</layer></layers>
+</ppd>
+</document>

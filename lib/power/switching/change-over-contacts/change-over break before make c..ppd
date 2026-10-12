@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="change-over break before make c." t="" v="" n="EN 60617: 07-02-04" fG="5bf28e86-8932-5047-818b-11effb128ef0" lG="f8f492e4-38e0-59cf-8d38-e9839065e6b0">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="-40,-60,-40,-18," op-lw="4"/>
+<polyline pts="0,18,-40,-18," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<outlet x="-40" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

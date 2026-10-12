@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="regenerative telegraph repeater" t="volic" v="" n="EN 60617: 09-07-01" fG="70290ca4-7a57-56ab-a7a6-103396c120a7" lG="e73032ca-062a-539a-838c-8b39ce0430da">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-75,-90,-75,90,75,0," op-lw="4"/>
+<text x="-25" y="0" al="9" f="95,0,0,0,Arial,000000">T</text>
+<outlet x="-75" y="0"/>
+<outlet x="75" y="0"/>
+</layer></layers>
+</ppd>
+</document>

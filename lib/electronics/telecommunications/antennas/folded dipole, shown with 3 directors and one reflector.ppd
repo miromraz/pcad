@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="folded dipole, shown with 3 directors and one reflector" t="" v="" n="EN 60617: 10-05-07" fG="49f5b166-84bd-5929-a5bc-f317cfeb635b" lG="ca9c4969-b884-5638-a7a5-6ce59387a35f">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-90,0,90,0," op-lw="4"/>
+<polyline pts="-90,-35,-90,35," op-lw="4"/>
+<polyline pts="-54,-26,-30,-26," op-lw="4"/>
+<polyline pts="-54,26,-30,26," op-lw="4"/>
+<polyline pts="-54,-26,-54,26," op-lw="4"/>
+<polyline pts="-30,-26,-30,26," op-lw="4"/>
+<polyline pts="13,-26,13,26," op-lw="4"/>
+<polyline pts="40,-23,40,23," op-lw="4"/>
+<polyline pts="68,-20,68,20," op-lw="4"/>
+<polyline pts="20,0,20,20," op-lw="4"/>
+<polyline pts="-20,0,-20,20," op-lw="4"/>
+<outlet x="20" y="20"/>
+<outlet x="-20" y="20"/>
+</layer></layers>
+</ppd>
+</document>

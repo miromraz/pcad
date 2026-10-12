@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="straight section internally anchored" t="" v="" n="EN 60617: 11-17-10" fG="6592d535-aca6-506c-b306-173ed7bcad45" lG="3043fbf8-442c-556a-a33c-17db2a53e600">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-80,-10,80,-10," op-lw="4"/>
+<polyline pts="-80,10,80,10," op-lw="4"/>
+<polygon pts="0,-20,-10,-6,10,-6," op-lw="4"/>
+<polygon pts="0,20,-10,6,10,6," op-lw="4"/>
+<polyline pts="0,-10,0,10," op-lw="2"/>
+
+</layer></layers>
+</ppd>
+</document>

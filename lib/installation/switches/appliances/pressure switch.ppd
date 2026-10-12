@@ -1,0 +1,21 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pressure switch" t="" v="" n="EN 60617: 211-07-12" fG="bba76427-e524-5624-8965-2d5574e0810c" lG="7ed3aac2-6ebd-5797-a8f3-84065e3eb691">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-34,34,0,0," op-lw="4"/>
+<ellipse left="-4" top="-4" right="4" bottom="4" op-lw="2" op-fd="1"/>
+<polyline pts="0,0,28,-28," op-lw="4"/>
+<polyline pts="34,-34,28,-28," op-lw="4"/>
+<polyline pts="0,8,0,22," op-lw="4"/>
+<polyline pts="-9,30,-9,28,-8,27,-7,25,-6,24,-5,23,-3,22,-2,21,0,21,2,21,3,22,5,23,6,24,7,25,8,27,9,28,9,30," op-lw="4"/>
+<polyline pts="-9,30,9,30," op-lw="4"/>
+<polyline pts="-15,0,0,0," op-lw="4"/>
+<polyline pts="0,15,0,0," op-lw="4"/>
+<polyline pts="15,0,0,0," op-lw="4"/>
+<polyline pts="0,-15,0,0," op-lw="4"/>
+<outlet x="-15" y="0"/>
+<outlet x="0" y="15"/>
+<outlet x="15" y="0"/>
+<outlet x="0" y="-15"/>
+</layer></layers>
+</ppd>
+</document>

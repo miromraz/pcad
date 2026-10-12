@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="cheese box reflector with horn feed, shown with rectangular waveguide feeder" t="" v="" n="EN 60617: 10-05-12" fG="e8c69c52-ef41-568a-a339-8364ebd6c145" lG="392397ad-abe0-5cee-aa02-057d1076ed7e">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-100,0,-40,0," op-lw="4"/>
+<polyline pts="-40,-4,-16,-20," op-lw="4"/>
+<polyline pts="-40,4,-16,20," op-lw="4"/>
+<polyline pts="-16,-20,-16,20," op-lw="4"/>
+<arc left="70" top="-20" right="110" bottom="20" bX="-20" bY="-20" eX="-20" eY="20" op-lw="4"/>
+<outlet x="-100" y="0"/>
+</layer></layers>
+</ppd>
+</document>

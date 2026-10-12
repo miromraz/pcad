@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="magnetic head for n tracks - form 2" t="pistala" v="" n="EN 60617: 10-11-01" fG="cb6a35b3-0ee8-5b46-af07-9bd14cac0eba" lG="f6a212e7-909c-5f61-8b71-d7e5f77f0877">
+<layers current="0"><layer name="0" v="1">
+<arc left="-13" top="-16" right="13" bottom="16" bX="0" bY="-16" eX="0" eY="16" op-lw="4"/>
+<polyline pts="-2,-3,-2,3," op-lw="4"/>
+<polyline pts="2,-3,2,3," op-lw="4"/>
+<outlet x="15" y="0"/>
+</layer></layers>
+</ppd>
+</document>

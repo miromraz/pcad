@@ -1,0 +1,20 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="enhancement N" t="T" v="" n="60617:05-05-12" fG="2bd06b16-e751-5173-be52-9eda19144c0e" lG="0de7171e-3b75-5385-9175-b5287aa0e65d">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-50" top="-50" right="50" bottom="50" op-lw="4"/>
+<polyline pts="-22,-20,-22,20," op-lw="4"/>
+<polyline pts="-8,-20,-8,-8," op-lw="6"/>
+<polyline pts="-8,-6,-8,6," op-lw="6"/>
+<polyline pts="-8,8,-8,20," op-lw="6"/>
+<polyline pts="-8,-18,46,-21," op-lw="4"/>
+<polyline pts="-8,18,46,21," op-lw="4"/>
+<polyline pts="-8,0,50,0," op-lw="4"/>
+<polygon pts="6,0,18,-6,18,6," op-lw="4" op-fd="1"/>
+<polyline pts="-44,25,-22,18," op-lw="4"/>
+<outlet x="-44" y="25"/>
+<outlet x="46" y="21"/>
+<outlet x="50" y="0"/>
+<outlet x="46" y="-21"/>
+</layer></layers>
+</ppd>
+</document>

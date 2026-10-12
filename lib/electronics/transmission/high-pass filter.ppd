@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="high-pass filter" t="" v="" n="EN 60617: 10-16-04" fG="fbf954da-8fdc-54a2-9344-439193f98b63" lG="ee1113a8-3d33-526d-bb94-c6b2142cda81">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-75" right="60" bottom="75" op-lw="4"/>
+<polyline pts="-41,34,-20,34,-4,-34,41,-34," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

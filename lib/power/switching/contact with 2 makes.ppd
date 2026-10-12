@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="contact with 2 makes" t="" v="" n="EN 60617: 07-02-08" fG="154267bf-b7de-5391-b6e9-57667125283f" lG="6d9ef3e8-7cfb-57b3-98a2-c3126b58d46e">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="40,-60,40,-18," op-lw="4"/>
+<polyline pts="-12,-12,52,-12," op-lw="4"/>
+<polyline pts="0,18,20,-12," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<outlet x="40" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

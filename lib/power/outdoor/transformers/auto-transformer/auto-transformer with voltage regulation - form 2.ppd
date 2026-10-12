@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="auto-transformer with voltage regulation - form 2" t="" v="" n="EN 60617: 06-11-06" fG="25746a51-0606-5996-97de-527bbff17ce8" lG="d1e576d4-193f-5e03-9438-72353dfd839e">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-36,-10,-36,-3,-34,3,-32,8,-30,11,-27,12,-24,11,-22,8,-20,3,-18,-3,-18,-10,-18,-10,-18,-3,-16,3,-14,8,-12,11,-9,12,-6,11,-4,8,-2,3,0,-3,0,-10,0,-10,0,-3,2,3,4,8,6,11,9,12,12,11,14,8,16,3,18,-3,18,-10,18,-10,18,-3,20,3,22,8,24,11,27,12,30,11,32,8,34,3,36,-3,36,-10," op-lw="4"/>
+<polyline pts="-40,-10,-40,-10," op-lw="4"/>
+<polyline pts="0,-10,0,-10," op-lw="4"/>
+<polyline pts="40,-10,40,-10," op-lw="4"/>
+<polyline pts="0,-4,0,40," op-lw="4"/>
+<polygon pts="0,40,-6,26,6,26," op-lw="4" op-fd="1"/>
+<outlet x="-40" y="-10"/>
+<outlet x="0" y="-10"/>
+<outlet x="40" y="-10"/>
+</layer></layers>
+</ppd>
+</document>

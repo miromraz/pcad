@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="magnetic coupling device, magnetic isolator" t="" v="" n="EN 60617: 05-06-07" fG="093f3f8d-6f4c-546b-8cca-dbcf2c358935" lG="169e1f98-04f8-50ab-b6b2-8c8d2d729fbd">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polyline pts="-60,-40,-80,-40," op-lw="4"/>
+<polyline pts="-60,40,-80,40," op-lw="4"/>
+<polyline pts="60,40,80,40," op-lw="4"/>
+<polyline pts="60,-40,80,-40," op-lw="4"/>
+<polyline pts="-2,-21,1,-19,4,-16,6,-14,8,-10,9,-7,10,-4,10,0,10,4,9,7,8,10,6,14,4,16,1,19,-2,21," op-lw="4"/>
+<polyline pts="2,21,-1,19,-4,16,-6,14,-8,10,-9,7,-10,4,-10,0,-10,-4,-9,-7,-8,-10,-6,-14,-4,-16,-1,-19,2,-21," op-lw="4"/>
+<outlet x="-80" y="-40"/>
+<outlet x="-80" y="40"/>
+<outlet x="80" y="40"/>
+<outlet x="80" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

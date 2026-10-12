@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="counterpoise" t="" v="" n="EN 60617: 10-05-03" fG="93cda4f4-fbc3-533e-b7c1-2ef3a58161f3" lG="bb580af9-54cb-599c-87a1-8173729093f9">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,0,40,0," op-lw="4"/>
+<polyline pts="-20,0,-26,10," op-lw="4"/>
+<polyline pts="0,0,-6,10," op-lw="4"/>
+<polyline pts="20,0,14,10," op-lw="4"/>
+<polyline pts="0,0,0,-10," op-lw="4"/>
+<outlet x="0" y="-10"/>
+</layer></layers>
+</ppd>
+</document>

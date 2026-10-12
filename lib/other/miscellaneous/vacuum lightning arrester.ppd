@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="vacuum lightning arrester" t="" v="" n="EN 60617: 07-22-03" fG="370e5e36-6b61-5140-a438-98919f8305da" lG="6cfa9e3e-ffc4-5404-8138-43b07f65541d">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-28" top="-28" right="28" bottom="28" op-lw="4"/>
+<polyline pts="-14,-6,14,-6," op-lw="4"/>
+<polyline pts="-14,6,14,6," op-lw="4"/>
+<polyline pts="0,-28,0,-40," op-lw="4"/>
+<polyline pts="0,28,0,40," op-lw="4"/>
+<outlet x="0" y="-40"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

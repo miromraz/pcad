@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="bell" t="zvonek" v="" n="EN 60617: 08-07-01" fG="1a9cf128-2968-5016-aec1-243da4f0863c" lG="592b14e0-0bba-5b81-abee-1383070aea76">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,0,-39,-9,-36,-17,-31,-25,-25,-31,-17,-36,-9,-39,0,-40,9,-39,17,-36,25,-31,31,-25,36,-17,39,-9,40,0," op-lw="4"/>
+<polyline pts="-40,0,40,0," op-lw="4"/>
+<polyline pts="0,0,0,34," op-lw="4"/>
+<ellipse left="-5" top="29" right="5" bottom="39" op-lw="2" op-fd="1"/>
+<polyline pts="-20,0,-20,20," op-lw="4"/>
+<polyline pts="20,0,20,20," op-lw="4"/>
+<outlet x="-20" y="20"/>
+<outlet x="20" y="20"/>
+</layer></layers>
+</ppd>
+</document>

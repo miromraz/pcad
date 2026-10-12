@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="line amplifier" t="" v="" n="EN 60617: 10-17-04" fG="e246a177-ece8-5539-95c1-dafbb798f11e" lG="79b4248e-3bae-52ab-b286-41852775a6cc">
+<layers current="0"><layer name="0" v="1">
+<rect left="-108" top="-72" right="108" bottom="72" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">LV</text>
+<outlet x="-108" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="108" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

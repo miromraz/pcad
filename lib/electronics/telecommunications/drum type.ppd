@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="drum type" t="" v="" n="EN 60617: 09-08-07" fG="baf48b99-75ed-5238-94e2-26e22b0ca1fa" lG="2bc7bfce-1a75-58ae-b845-fe089fccf2dc">
+<layers current="0"><layer name="0" v="1">
+<rect left="-23" top="-35" right="23" bottom="35" op-lw="4"/>
+<ellipse left="-23" top="-45" right="23" bottom="-25" op-lw="4"/>
+<ellipse left="-23" top="25" right="23" bottom="45" op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

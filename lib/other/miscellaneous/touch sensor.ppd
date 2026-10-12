@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="touch sensor" t="" v="" n="EN 60617: 07-19-04" fG="2851f562-55e0-5b68-aeb7-413927be808b" lG="e4e5488d-d226-5f99-92e4-14b613f00eda">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="0,-20,20,0,0,20,-20,0," op-lw="4"/>
+<polyline pts="-8,0,8,0," op-lw="2"/>
+<outlet x="0" y="20"/>
+<outlet x="0" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

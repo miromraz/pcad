@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="end of conductor or cable not connected and specially insulated" t="" v="" n="EN 60617: 03-01-15" fG="a859ae03-d4c2-5509-ac24-dcb46ec5f9b3" lG="ca9aa939-e7cc-5c55-8999-d6e0b1027fee">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,20,30,20," op-lw="4"/>
+<polyline pts="30,-20,30,20," op-lw="4"/>
+<polyline pts="36,-16,36,16," op-lw="4"/>
+<outlet x="-40" y="20"/>
+</layer></layers>
+</ppd>
+</document>

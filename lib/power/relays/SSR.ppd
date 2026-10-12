@@ -1,0 +1,21 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="SSR" t="SSR" v="" n="EN 60617: 07-15-07" fG="4150d308-cc3e-59d7-a4e2-d41fce2feb27" lG="8a4f0463-1642-50a4-a258-969d4fc0370c">
+<layers current="0"><layer name="0" v="1">
+<rect left="-70" top="-70" right="70" bottom="70" op-lw="4"/>
+<polyline pts="0,-70,0,70," op-lw="4"/>
+<polygon pts="-50,-18,-50,22,-20,2," op-lw="4"/>
+<polyline pts="-20,-18,-20,22," op-lw="4"/>
+<polyline pts="20,24,50,-24," op-lw="4"/>
+<polyline pts="20,24,20,40," op-lw="4"/>
+<polyline pts="50,-24,50,-40," op-lw="4"/>
+<text x="56" y="-40" al="9" f="40,0,0,0,Arial,000000">1</text>
+<text x="56" y="40" al="9" f="40,0,0,0,Arial,000000">2</text>
+<text x="-56" y="-40" al="9" f="40,0,0,0,Arial,000000">3</text>
+<text x="-56" y="40" al="9" f="40,0,0,0,Arial,000000">4</text>
+<outlet x="70" y="-40"/>
+<outlet x="70" y="40"/>
+<outlet x="-70" y="-40"/>
+<outlet x="-70" y="40"/>
+</layer></layers>
+</ppd>
+</document>

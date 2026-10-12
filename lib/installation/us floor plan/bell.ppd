@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="bell" t="" v="" n="EN 60617: 211-06-02" fG="b0fd93ea-2b59-5ea2-b308-06c857628332" lG="195b92a1-73ca-538a-8ec1-125220ffadb6">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-4" top="-22" right="4" bottom="-14" op-lw="4"/>
+<arc left="-13" top="-14" right="13" bottom="12" bX="-13" bY="0" eX="13" eY="0" op-lw="4"/>
+<polyline pts="-13,-1,-13,12," op-lw="4"/>
+<polyline pts="13,-1,13,12," op-lw="4"/>
+<polyline pts="-13,12,13,12," op-lw="4"/>
+<polyline pts="0,12,0,18," op-lw="4"/>
+<ellipse left="-4" top="17" right="4" bottom="25" op-lw="4"/>
+<outlet x="-10" y="10"/>
+<outlet x="10" y="10"/>
+<outlet x="0" y="25"/>
+</layer></layers>
+</ppd>
+</document>

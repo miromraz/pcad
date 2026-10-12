@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="mode filter" t="" v="" n="EN 60617: 10-08-19" fG="56ec781a-e013-54ce-b799-a13b9f2c5e88" lG="933146e0-04d8-5eba-aa5e-1d16106610ee">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-60,0,60,0," op-lw="4"/>
+<rect left="-33" top="-60" right="33" bottom="60" op-lw="4"/>
+<polyline pts="-22,-18,22,-18," op-lw="4"/>
+<polyline pts="-22,0,22,0," op-lw="4"/>
+<polyline pts="-22,18,22,18," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,18 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pull switch with a make contact and automatic return" t="" v="" n="EN 60617: 07-07-03" fG="b1d4427c-bcdb-57cb-a30a-b1cd80b2927c" lG="9ae70498-3cee-50b6-91b8-23c701819012">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="40,-60,40,-18," op-lw="4"/>
+<polyline pts="40,60,40,18," op-lw="4"/>
+<polyline pts="40,18,62,-18," op-lw="4"/>
+<polyline pts="40,0,34,0," op-lw="2"/>
+<polyline pts="30,0,24,0," op-lw="2"/>
+<polyline pts="20,0,14,0," op-lw="2"/>
+<polyline pts="10,0,4,0," op-lw="2"/>
+<polyline pts="0,0,-6,0," op-lw="2"/>
+<ellipse left="-18" top="-24" right="-2" bottom="-8" op-lw="4"/>
+<polyline pts="-10,-8,-10,2," op-lw="4"/>
+<outlet x="40" y="-60"/>
+<outlet x="40" y="60"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="portable radio station (alternate transmitting and receiving on the same antenna)" t="" v="" n="EN 60617: 10-06-05" fG="15a42676-ae49-5fb7-a746-029897ae7511" lG="8c661f3e-392a-5cbc-8f86-0c4241937b66">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-32,0,60," op-lw="4"/>
+<polyline pts="0,-32,-50,-80," op-lw="4"/>
+<polyline pts="0,-32,50,-80," op-lw="4"/>
+<polyline pts="0,60,0,80," op-lw="4"/>
+<polyline pts="0,60,30,60," op-lw="4"/>
+<polyline pts="0,60,-30,60," op-lw="4"/>
+<polyline pts="25,24,55,-2," op-lw="4"/>
+<polygon pts="55,-2,48,12,40,3," op-lw="4" op-fd="1"/>
+<polyline pts="-55,-2,-25,24," op-lw="4"/>
+<polygon pts="-25,24,-40,19,-32,10," op-lw="4" op-fd="1"/>
+<outlet x="0" y="80"/>
+<outlet x="30" y="60"/>
+<outlet x="-30" y="60"/>
+</layer></layers>
+</ppd>
+</document>

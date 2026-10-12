@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="direct-on-line starter with contactor for reversing the rotation of a motor" t="" v="" n="EN 60617: 07-14-05" fG="03d5ea5d-2532-5fb3-907e-ba23ccd50586" lG="b7d3a5ee-7ce5-592f-b0de-a1b8598c9bc9">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="-16,-12,16,-12," op-lw="4"/>
+<polygon pts="16,-12,2,-6,2,-18," op-lw="4" op-fd="1"/>
+<polyline pts="16,12,-16,12," op-lw="4"/>
+<polygon pts="-16,12,-2,6,-2,18," op-lw="4" op-fd="1"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

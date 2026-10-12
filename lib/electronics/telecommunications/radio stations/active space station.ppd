@@ -1,0 +1,20 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="active space station" t="" v="" n="EN 60617: 10-06-10" fG="5655da76-23d3-56af-9584-e43675217f08" lG="35a4184c-8316-5a6b-9af3-309d8873321b">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-18" top="-18" right="18" bottom="18" op-lw="4"/>
+<text x="0" y="0" al="9" f="40,0,0,0,Arial,000000">~</text>
+<polyline pts="-18,0,-40,0," op-lw="4"/>
+<polyline pts="0,18,0,40," op-lw="4"/>
+<polyline pts="18,0,40,0," op-lw="4"/>
+<polyline pts="0,-18,0,-40," op-lw="4"/>
+<rect left="-16" top="-44" right="16" bottom="-80" op-lw="4"/>
+<polyline pts="0,-44,0,-80," op-lw="4"/>
+<rect left="-16" top="44" right="16" bottom="80" op-lw="4"/>
+<polyline pts="0,44,0,80," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="E-H tuner" t="" v="" n="EN 60617: 10-08-04" fG="2369d686-2c08-51a3-9a51-e15f51853fb6" lG="1d9fb277-8e20-5cca-8dba-612c2c61d54b">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-60,0,60,0," op-lw="4"/>
+<polyline pts="0,-60,0,60," op-lw="4"/>
+<text x="18" y="-38" al="9" f="70,0,0,0,Arial,000000">E</text>
+<text x="18" y="20" al="9" f="70,0,0,0,Arial,000000">H</text>
+<outlet x="-36" y="0"/>
+<outlet x="36" y="0"/>
+</layer></layers>
+</ppd>
+</document>

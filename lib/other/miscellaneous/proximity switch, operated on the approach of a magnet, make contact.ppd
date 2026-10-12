@@ -1,0 +1,18 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="proximity switch, operated on the approach of a magnet, make contact" t="" v="" n="EN 60617: 07-20-03" fG="cdf6dd07-8582-5255-b9cf-54e7d91d5050" lG="37e3c9cd-d83c-5815-81e6-95fd06ddc2c7">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="40,-60,40,-18," op-lw="4"/>
+<polyline pts="40,60,40,18," op-lw="4"/>
+<polyline pts="40,18,10,-18," op-lw="4"/>
+<polyline pts="10,0,4,0," op-lw="2"/>
+<polyline pts="0,0,-6,0," op-lw="2"/>
+<polyline pts="-10,0,-16,0," op-lw="2"/>
+<polyline pts="-20,0,-26,0," op-lw="2"/>
+<polyline pts="-30,0,-36,0," op-lw="2"/>
+<polygon pts="-47,-18,-29,0,-47,18,-65,0," op-lw="4"/>
+<rect left="-65" top="-8" right="-45" bottom="8" op-lw="4"/>
+<outlet x="40" y="-60"/>
+<outlet x="40" y="60"/>
+</layer></layers>
+</ppd>
+</document>

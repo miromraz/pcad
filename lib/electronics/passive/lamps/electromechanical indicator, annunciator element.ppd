@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="electromechanical indicator, annunciator element" t="" v="" n="EN 60617: 08-10-03" fG="3321689a-ffe5-5e69-b63c-1c459078a887" lG="cc3f8656-d109-5713-948a-05abe8dbc809">
+<layers current="0"><layer name="0" v="1">
+<rect left="-25" top="-25" right="25" bottom="25" op-lw="4"/>
+<polyline pts="-25,-25,25,25," op-lw="4"/>
+<outlet x="-25" y="0"/>
+<outlet x="0" y="25"/>
+<outlet x="25" y="0"/>
+<outlet x="0" y="-25"/>
+</layer></layers>
+</ppd>
+</document>

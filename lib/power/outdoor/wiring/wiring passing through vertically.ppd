@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="wiring passing through vertically" t="" v="" n="EN 60617: 11-12-03" fG="bf521d15-2758-51dc-b92a-0f270b8150d0" lG="a2ba4005-7806-59b6-8608-76a2a38bd195">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="0,-40,0,40," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

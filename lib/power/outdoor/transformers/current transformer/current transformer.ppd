@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="current transformer" t="" v="" n="EN 60617: 06-09-05" fG="400ec245-4d03-548c-91ad-9b4ebcfed9f1" lG="9e1b58ac-6d92-57d1-a47b-61f53ea8874b">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-80,0,80," op-lw="4"/>
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<outlet x="0" y="-80"/>
+<outlet x="0" y="80"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

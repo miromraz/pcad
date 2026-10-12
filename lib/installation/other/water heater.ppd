@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="water heater" t="" v="" n="EN 60617: 11-16-01" fG="6f6fb9c6-cca3-520f-8034-98272f2f6fdf" lG="5d076327-f80f-50de-be58-83d93c31012f">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<ellipse left="-21" top="-21" right="21" bottom="21" op-lw="4"/>
+<polyline pts="-14,0,-13,-1,-11,-2,-9,-3,-7,-3,-5,-3,-4,-2,-2,-1,0,0,2,1,4,2,5,3,7,3,9,3,11,2,13,1,14,0," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

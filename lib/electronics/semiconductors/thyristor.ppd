@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="thyristor" t="Ty" v="" n="EN 60617: 05-07-01" fG="844b36ad-36a5-5592-a84c-d24d917c4e84" lG="fca8abca-463a-544e-80cc-fec1cce12085">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="14,-14,14,14,-14,0," op-lw="4"/>
+<polyline pts="-14,-14,-14,14," op-lw="4"/>
+<polyline pts="14,0,20,0," op-lw="4"/>
+<polyline pts="-14,0,-20,0," op-lw="4"/>
+<polyline pts="-14,8,-25,-25," op-lw="4"/>
+<outlet x="20" y="0"/>
+<outlet x="-25" y="-25"/>
+<outlet x="-20" y="0"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="starter-regulator" t="" v="" n="EN 60617: 07-14-03" fG="2534e290-a6bf-55b1-8833-65e176b06602" lG="de7b6ae0-a759-5b62-afb0-b4725eb1606e">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="-18,16,18,-16," op-lw="4"/>
+<polygon pts="18,-16,12,-2,4,-11," op-lw="4" op-fd="1"/>
+<polyline pts="-28,52,28,-52," op-lw="4"/>
+<polygon pts="28,-52,27,-36,16,-42," op-lw="4" op-fd="1"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

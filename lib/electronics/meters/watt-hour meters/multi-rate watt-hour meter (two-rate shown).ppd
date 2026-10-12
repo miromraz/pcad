@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="multi-rate watt-hour meter (two-rate shown)" t="" v="" n="EN 60617: 08-04-08" fG="272468da-cd3c-5833-890c-2fdc8638cf40" lG="c7033d5a-82fc-52bc-8239-21b0b177830e">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-80" right="40" bottom="80" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">Wh</text>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

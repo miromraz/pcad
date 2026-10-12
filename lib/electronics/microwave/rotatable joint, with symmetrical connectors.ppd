@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="rotatable joint, with symmetrical connectors" t="" v="" n="EN 60617: 10-07-15" fG="b1ccb8fe-73ed-5ff1-8f01-787097ca5dfd" lG="b040730f-6fbe-56a9-883f-057fd53db449">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-22" top="-22" right="22" bottom="22" op-lw="4"/>
+<polyline pts="-14,-10,14,-10," op-lw="4"/>
+<polygon pts="14,-10,0,-4,0,-16," op-lw="4" op-fd="1"/>
+<polyline pts="-20,-33,20,-33," op-lw="4"/>
+<polyline pts="-20,33,20,33," op-lw="4"/>
+<polyline pts="0,-22,0,-33," op-lw="4"/>
+<polyline pts="0,22,0,33," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="INVERTOR" t="" v="" n="EN 60617: 12-09-01" fG="3dd950e1-b816-500d-85af-8359a17957e3" lG="3e9704d1-397f-5ea0-82ec-e85f193401ec">
+<layers current="0"><layer name="0" v="1">
+<rect left="-50" top="-70" right="50" bottom="70" op-lw="4"/>
+<polyline pts="-80,0,-50,0," op-lw="4"/>
+<ellipse left="50" top="-8" right="66" bottom="8" op-lw="4"/>
+<polyline pts="66,0,90,0," op-lw="4"/>
+<text x="0" y="0" al="9" f="70,0,0,0,Arial,000000">1</text>
+<outlet x="-80" y="0"/>
+<outlet x="90" y="0"/>
+</layer></layers>
+</ppd>
+</document>

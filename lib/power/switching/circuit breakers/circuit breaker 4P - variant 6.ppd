@@ -1,0 +1,46 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="circuit breaker 4P - variant 6" t="k" v="" n="EN 60617: 07-13-08" fG="b3b760dc-9991-59b5-a293-814087db9a8b" lG="8941d8a2-2f7f-5fad-9637-7d8659198c9c">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-60,-60,-60,-18," op-lw="4"/>
+<polyline pts="-60,60,-60,18," op-lw="4"/>
+<polyline pts="-60,18,-30,-18," op-lw="4"/>
+<polyline pts="-37,-25,-23,-11," op-lw="4"/>
+<polyline pts="-37,-11,-23,-25," op-lw="4"/>
+<polyline pts="-20,-60,-20,-18," op-lw="4"/>
+<polyline pts="-20,60,-20,18," op-lw="4"/>
+<polyline pts="-20,18,10,-18," op-lw="4"/>
+<polyline pts="3,-25,17,-11," op-lw="4"/>
+<polyline pts="3,-11,17,-25," op-lw="4"/>
+<polyline pts="20,-60,20,-18," op-lw="4"/>
+<polyline pts="20,60,20,18," op-lw="4"/>
+<polyline pts="20,18,50,-18," op-lw="4"/>
+<polyline pts="43,-25,57,-11," op-lw="4"/>
+<polyline pts="43,-11,57,-25," op-lw="4"/>
+<polyline pts="60,-60,60,-18," op-lw="4"/>
+<polyline pts="60,60,60,18," op-lw="4"/>
+<polyline pts="60,18,90,-18," op-lw="4"/>
+<polyline pts="83,-25,97,-11," op-lw="4"/>
+<polyline pts="83,-11,97,-25," op-lw="4"/>
+<polyline pts="-30,-18,-24,-18," op-lw="2"/>
+<polyline pts="-20,-18,-14,-18," op-lw="2"/>
+<polyline pts="-10,-18,-4,-18," op-lw="2"/>
+<polyline pts="0,-18,6,-18," op-lw="2"/>
+<polyline pts="10,-18,16,-18," op-lw="2"/>
+<polyline pts="20,-18,26,-18," op-lw="2"/>
+<polyline pts="30,-18,36,-18," op-lw="2"/>
+<polyline pts="40,-18,46,-18," op-lw="2"/>
+<polyline pts="50,-18,56,-18," op-lw="2"/>
+<polyline pts="60,-18,66,-18," op-lw="2"/>
+<polyline pts="70,-18,76,-18," op-lw="2"/>
+<polyline pts="80,-18,86,-18," op-lw="2"/>
+<outlet x="-60" y="-60"/>
+<outlet x="-60" y="60"/>
+<outlet x="-20" y="-60"/>
+<outlet x="-20" y="60"/>
+<outlet x="20" y="-60"/>
+<outlet x="20" y="60"/>
+<outlet x="60" y="-60"/>
+<outlet x="60" y="60"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,20 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="amplifier with return channel" t="" v="" n="EN 60617: 11-06-04" fG="f7dc5af6-129b-5b03-aba4-18d4c22eaed4" lG="0b3941ed-55d1-562e-8cd3-5629cf21156a">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-20,-30,-20,30,30,0," op-lw="4"/>
+<polygon pts="14,-9,14,9,-4,0," op-lw="4"/>
+<outlet x="-20" y="0"/>
+<outlet x="30" y="0"/>
+<outlet x="-20" y="20"/>
+<outlet x="-20" y="-20"/>
+<outlet x="-10" y="24"/>
+<outlet x="0" y="18"/>
+<outlet x="10" y="12"/>
+<outlet x="20" y="6"/>
+<outlet x="-10" y="-24"/>
+<outlet x="0" y="-18"/>
+<outlet x="10" y="-12"/>
+<outlet x="20" y="-6"/>
+</layer></layers>
+</ppd>
+</document>

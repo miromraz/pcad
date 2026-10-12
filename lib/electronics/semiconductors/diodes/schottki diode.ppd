@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="schottki diode" t="D" v="" n="EN 60617: 05-03-05" fG="dd418c41-7926-5b21-b62a-9a7f7e3ffe94" lG="c7465491-539c-5535-b12d-7ca622a239ba">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-13,-18,-13,18,13,0," op-lw="4"/>
+<polyline pts="13,-18,13,18," op-lw="4"/>
+<polyline pts="13,-18,13,18," op-lw="4"/>
+<polyline pts="13,-18,22,-18," op-lw="4"/>
+<polyline pts="22,-18,22,-11," op-lw="4"/>
+<polyline pts="13,18,4,18," op-lw="4"/>
+<polyline pts="4,18,4,11," op-lw="4"/>
+<polyline pts="-13,0,-20,0," op-lw="4"/>
+<polyline pts="13,0,20,0," op-lw="4"/>
+<outlet x="-20" y="0"/>
+<outlet x="20" y="0"/>
+</layer></layers>
+</ppd>
+</document>

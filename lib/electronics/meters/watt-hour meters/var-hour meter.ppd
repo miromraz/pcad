@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="var-hour meter" t="" v="" n="EN 60617: 08-04-15" fG="98c7be50-ae31-5ff6-8285-3ea436f0f584" lG="c0dd8ec4-fe1e-5966-bf8e-326bf638aca5">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-60" right="40" bottom="60" op-lw="4"/>
+<text x="0" y="0" al="9" f="80,0,0,0,Arial,000000">varh</text>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

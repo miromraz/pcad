@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="make c. which is late to close relative to the others" t="" v="" n="EN 60617: 07-04-02" fG="6c87eb82-e30e-55c7-8b6c-37feed800448" lG="273f6560-3b74-5f4c-b9da-b0a51423f584">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,42,-18," op-lw="4"/>
+<polyline pts="11,4,31,4," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

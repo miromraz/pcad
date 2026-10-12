@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="discontinuity in shunt with transmission path" t="" v="" n="EN 60617: 10-08-06" fG="8d8161cf-1880-5e4a-b2e0-64ff638bcbdc" lG="0f17c685-238f-5a11-9b91-6566c7916857">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-60,0,60,0," op-lw="4"/>
+<rect left="-33" top="-50" right="33" bottom="50" op-lw="4"/>
+<text x="0" y="0" al="9" f="70,0,0,0,Arial,000000">Y</text>
+<outlet x="-36" y="0"/>
+<outlet x="36" y="0"/>
+</layer></layers>
+</ppd>
+</document>

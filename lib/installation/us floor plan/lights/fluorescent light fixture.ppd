@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="fluorescent light fixture" t="" v="" n="EN 60617: 211-06-02" fG="0e0d64c6-97d2-5d5b-81d4-5dabfde752d2" lG="ef96f76b-8fd5-572d-b16c-dd190db4c41e">
+<layers current="0"><layer name="0" v="1">
+<rect left="-100" top="-25" right="100" bottom="25" op-lw="4"/>
+<ellipse left="-14" top="-14" right="14" bottom="14" op-lw="4"/>
+<polyline pts="-14,0,14,0," op-lw="4"/>
+<polyline pts="0,-14,0,14," op-lw="4"/>
+<outlet x="-100" y="0"/>
+<outlet x="100" y="0"/>
+<outlet x="0" y="25"/>
+<outlet x="0" y="-25"/>
+</layer></layers>
+</ppd>
+</document>

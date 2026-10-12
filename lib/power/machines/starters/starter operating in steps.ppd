@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="starter operating in steps" t="" v="" n="EN 60617: 07-14-02" fG="faa02fc6-5fda-5bfb-ae27-2b4cb3c1a1c7" lG="4e798833-657f-5506-8034-c3f4b6f9cba3">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="-20,12,-7,12,-7,0,6,0,6,-12,20,-12," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

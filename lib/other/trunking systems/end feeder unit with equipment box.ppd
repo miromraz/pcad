@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="end feeder unit with equipment box" t="" v="" n="EN 60617: 11-17-22" fG="18c3afff-5188-5d28-bafd-e69ddde2f0f5" lG="793665e6-4e05-5374-83d7-a50c27086dc9">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-100,-10,-20,-10," op-lw="4"/>
+<polyline pts="-100,10,-20,10," op-lw="4"/>
+<rect left="-20" top="-20" right="50" bottom="20" op-lw="4"/>
+<rect left="55" top="-20" right="100" bottom="20" op-lw="4"/>
+<outlet x="-100" y="0"/>
+</layer></layers>
+</ppd>
+</document>

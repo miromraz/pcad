@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="magnetic head for erasing" t="pistala" v="" n="EN 60617: 09-09-17" fG="40a4bf57-600b-5033-9368-795acb58a42a" lG="7138ab43-7305-599d-b1ef-fc6407272435">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-51" top="-18" right="16" bottom="18" op-lw="4"/>
+<polyline pts="-51,-3,-57,-3," op-lw="4"/>
+<polyline pts="-51,3,-57,3," op-lw="4"/>
+<polyline pts="16,0,50,0," op-lw="4"/>
+<polyline pts="-10,-8,6,8," op-lw="4"/>
+<polyline pts="-10,8,6,-8," op-lw="4"/>
+<outlet x="50" y="0"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="dimmer" t="" v="" n="EN 60617: 11-14-08" fG="de3481e7-d507-515d-9540-1a79cdbd11c5" lG="31483873-0f07-5a30-a282-04ed8edd5473">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-15" top="-15" right="15" bottom="15" op-lw="4"/>
+<polyline pts="-28,32,28,-32," op-lw="4"/>
+<polygon pts="28,-32,23,-18,14,-26," op-lw="4" op-fd="1"/>
+<outlet x="-15" y="0"/>
+<outlet x="0" y="15"/>
+<outlet x="15" y="0"/>
+<outlet x="0" y="-15"/>
+</layer></layers>
+</ppd>
+</document>

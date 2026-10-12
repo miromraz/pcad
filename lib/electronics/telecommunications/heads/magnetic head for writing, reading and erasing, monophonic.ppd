@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="magnetic head for writing, reading and erasing, monophonic" t="pistala" v="" n="EN 60617: 09-09-19" fG="b80bfeec-c0e0-5052-824e-40f90e942584" lG="23894f0f-67db-5252-b5d4-d7687bf51485">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-51" top="-18" right="16" bottom="18" op-lw="4"/>
+<polyline pts="-51,-12,-57,-12," op-lw="4"/>
+<polyline pts="-51,-6,-57,-6," op-lw="4"/>
+<polyline pts="-51,6,-57,6," op-lw="4"/>
+<polyline pts="-51,12,-57,12," op-lw="4"/>
+<polyline pts="16,0,50,0," op-lw="4"/>
+<outlet x="50" y="0"/>
+</layer></layers>
+</ppd>
+</document>

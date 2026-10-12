@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="dish washer" t="" v="" n="EN 60617: 211-10-09" fG="94a7b2a7-df61-5805-afbb-dfcc5232fc16" lG="bd26a4cf-8437-5e14-8f17-ce3c0ae372b6">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<ellipse left="-22" top="-22" right="22" bottom="22" op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

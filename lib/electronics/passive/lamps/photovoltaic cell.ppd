@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="photovoltaic cell" t="" v="" n="EN 60617: 05-06-03" fG="13d2782c-d92f-52e8-a67e-2724e58437dd" lG="6325bf92-7cf6-5064-8fa2-8742cad9259a">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-3,-40,-3,40," op-lw="4"/>
+<polyline pts="4,-20,4,20," op-lw="6"/>
+<polyline pts="-5,0,-3,0," op-lw="4"/>
+<polyline pts="4,0,5,0," op-lw="4"/>
+<polyline pts="-40,-30,-12,-2," op-lw="4"/>
+<polygon pts="-12,-2,-26,-8,-18,-16," op-lw="4" op-fd="1"/>
+<polyline pts="-32,-40,-4,-12," op-lw="4"/>
+<polygon pts="-4,-12,-18,-18,-10,-26," op-lw="4" op-fd="1"/>
+<outlet x="-5" y="0"/>
+<outlet x="5" y="0"/>
+</layer></layers>
+</ppd>
+</document>

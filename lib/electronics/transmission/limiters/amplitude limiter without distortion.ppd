@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="amplitude limiter without distortion" t="" v="" n="EN 60617: 10-16-18" fG="f55cc95b-6b21-5bbc-a982-7b1d235911f5" lG="e6bd4457-8d59-5fd9-ad13-fa3cc04771b1">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-120" right="60" bottom="120" op-lw="4"/>
+<polyline pts="-38,0,38,0," op-lw="2"/>
+<polyline pts="0,-40,0,40," op-lw="2"/>
+<polyline pts="-38,40,-19,40,12,-40,38,-40," op-lw="4"/>
+<outlet x="0" y="60"/>
+<outlet x="0" y="-60"/>
+<outlet x="60" y="0"/>
+<outlet x="-60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

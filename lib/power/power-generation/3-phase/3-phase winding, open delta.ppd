@@ -1,0 +1,8 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="3-phase winding, open delta" t="" v="" n="EN 60617: 06-02-06" fG="b2439d0b-3f22-58ef-8331-e5cc409a077b" lG="fd118884-78d1-5cd9-a489-d93332fed611">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,14,-20,-14,20,-14," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

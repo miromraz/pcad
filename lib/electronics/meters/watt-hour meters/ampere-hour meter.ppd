@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="ampere-hour meter" t="" v="" n="EN 60617: 08-04-02" fG="1a43e005-b2ad-5357-800e-bc61d8735ea7" lG="7d65ea76-a807-5674-949b-3f42ca2f1970">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-60" right="40" bottom="60" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">Ah</text>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

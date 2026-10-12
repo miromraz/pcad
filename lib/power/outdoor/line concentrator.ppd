@@ -1,0 +1,8 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="line concentrator" t="" v="" n="EN 60617: 11-04-04" fG="490a1d57-9fd5-574b-98dd-5efb586f8f8f" lG="04aa04f1-d2c4-5fd9-8669-f253df18e755">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-20,-18,-20,18,20,0," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="horn reflector antenna, shown with circular waveguide feeder" t="" v="" n="EN 60617: 10-05-14" fG="192774df-2305-5fb9-8e13-13e0e002a995" lG="00210df2-47a2-554d-bd50-b959cc922728">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-100,-6,-50,-32," op-lw="4"/>
+<polyline pts="-100,6,-50,32," op-lw="4"/>
+<polyline pts="-100,-6,-100,6," op-lw="4"/>
+<polyline pts="-50,-32,-50,32," op-lw="4"/>
+<arc left="30" top="-32" right="100" bottom="32" bX="-20" bY="-32" eX="-20" eY="32" op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

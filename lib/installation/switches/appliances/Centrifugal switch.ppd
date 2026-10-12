@@ -1,0 +1,22 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="Centrifugal switch" t="" v="" n="EN 60617: 211-07-10" fG="a36a9f68-8c32-50e3-b7a5-ee3f44aa725e" lG="e79596e5-dd39-593c-9aee-d10002d8b57d">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-35,35,0,0," op-lw="4"/>
+<ellipse left="-4" top="-4" right="4" bottom="4" op-lw="2" op-fd="1"/>
+<polyline pts="0,0,29,-29," op-lw="4"/>
+<polyline pts="35,-35,28,-28," op-lw="4"/>
+<polyline pts="0,8,0,23," op-lw="4"/>
+<ellipse left="-7" top="24" right="7" bottom="38" op-lw="4"/>
+<ellipse left="-8" top="28" right="-2" bottom="34" op-lw="2" op-fd="1"/>
+<ellipse left="2" top="28" right="8" bottom="34" op-lw="2" op-fd="1"/>
+<polyline pts="-15,0,0,0," op-lw="4"/>
+<polyline pts="0,15,0,0," op-lw="4"/>
+<polyline pts="15,0,0,0," op-lw="4"/>
+<polyline pts="0,-15,0,0," op-lw="4"/>
+<outlet x="-15" y="0"/>
+<outlet x="0" y="15"/>
+<outlet x="15" y="0"/>
+<outlet x="0" y="-15"/>
+</layer></layers>
+</ppd>
+</document>

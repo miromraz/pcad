@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="four-phase winding with neutral brought out" t="" v="" n="EN 60617: 06-02-03" fG="aa6b2fc1-eee1-5a21-af22-f83d8c57eead" lG="8de1c62d-d9f3-5d02-aa4d-fb082e657d21">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,0,20,0," op-lw="4"/>
+<polyline pts="0,0,0,20," op-lw="4"/>
+<polyline pts="0,0,-20,0," op-lw="4"/>
+<polyline pts="0,0,0,-20," op-lw="4"/>
+<outlet x="0" y="0"/>
+</layer></layers>
+</ppd>
+</document>

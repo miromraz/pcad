@@ -1,0 +1,22 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="depletion with P, two gates" t="T" v="" n="60617:05-05-17" fG="f1564658-89ee-5cd5-9d85-e99cb106ee47" lG="6a3de05c-30af-5ac6-810d-ab1a1832b803">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-50" top="-50" right="50" bottom="50" op-lw="4"/>
+<polyline pts="-22,-20,-22,20," op-lw="4"/>
+<polyline pts="-22,-20,-22,-2," op-lw="4"/>
+<polyline pts="-22,2,-22,20," op-lw="4"/>
+<polyline pts="-8,-20,-8,20," op-lw="6"/>
+<polyline pts="-8,-18,46,-21," op-lw="4"/>
+<polyline pts="-8,18,46,21," op-lw="4"/>
+<polyline pts="-8,0,50,0," op-lw="4"/>
+<polygon pts="6,0,-6,6,-6,-6," op-lw="4" op-fd="1"/>
+<polyline pts="-50,0,-22,0," op-lw="4"/>
+<polyline pts="-44,25,-22,18," op-lw="4"/>
+<outlet x="-50" y="0"/>
+<outlet x="-44" y="25"/>
+<outlet x="46" y="21"/>
+<outlet x="50" y="0"/>
+<outlet x="46" y="-21"/>
+</layer></layers>
+</ppd>
+</document>

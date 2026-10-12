@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="backward diode" t="" v="" n="EN 60617: 05-03-08" fG="002be848-f29d-5f79-b557-5fcf9b14647e" lG="73a9c339-579d-576b-ab9d-cefe79cdd5ff">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-14,-18,-14,18,14,0," op-lw="4"/>
+<polyline pts="14,-18,14,18," op-lw="4"/>
+<polyline pts="14,18,6,18," op-lw="4"/>
+<polyline pts="-20,0,-14,0," op-lw="4"/>
+<polyline pts="14,0,20,0," op-lw="4"/>
+<outlet x="-20" y="0"/>
+<outlet x="20" y="0"/>
+</layer></layers>
+</ppd>
+</document>

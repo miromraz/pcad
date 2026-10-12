@@ -1,135 +1,27 @@
 {
- "title": {
-  "title": "V-A method",
-  "author": "pcad.py",
-  "name": "vamp"
- },
+ "title": {"title": "Voltage/current measurement", "author": "pcad.py", "name": "vamp"},
  "parts": [
-  {
-   "sym": "sources/generator adjustable AC",
-   "ref": "G",
-   "x": 20,
-   "y": 36,
-   "hide_ref": true
-  },
-  {
-   "sym": "meters/ammeter",
-   "ref": "A",
-   "x": 44,
-   "y": 12,
-   "hide_ref": true
-  },
-  {
-   "sym": "meters/voltmeter",
-   "ref": "V",
-   "x": 64,
-   "y": 36,
-   "rot": 90,
-   "hide_ref": true
-  },
-  {
-   "sym": "passive/resistor",
-   "ref": "Rz",
-   "x": 92,
-   "y": 36,
-   "hide_ref": true
-  },
-  {
-   "sym": "misc/junction dot",
-   "ref": "J1",
-   "x": 64,
-   "y": 12,
-   "hide_ref": true
-  },
-  {
-   "sym": "misc/junction dot",
-   "ref": "J2",
-   "x": 64,
-   "y": 60,
-   "hide_ref": true
-  }
+  {"sym": "power/power-generation/power supplies/sine-wave generator, adjustable", "ref": "G", "x": 20, "y": 36, "hide_ref": true},
+  {"sym": "electronics/meters/ammeter", "ref": "A", "x": 44, "y": 12, "hide_ref": true},
+  {"sym": "electronics/meters/voltmeter", "ref": "V", "x": 64, "y": 36, "rot": 90, "hide_ref": true},
+  {"sym": "electronics/passive/resistors/resistor", "ref": "Rz", "x": 92, "y": 36, "hide_ref": true},
+  {"sym": "misc/junction dot", "ref": "J1", "x": 64, "y": 12, "hide_ref": true},
+  {"sym": "misc/junction dot", "ref": "J2", "x": 64, "y": 60, "hide_ref": true}
  ],
  "wires": [
-  [
-   "G.4",
-   [
-    20,
-    12
-   ],
-   "A.2"
-  ],
-  [
-   "A.1",
-   "J1.1"
-  ],
-  [
-   "J1.1",
-   [
-    92,
-    12
-   ],
-   "Rz.2"
-  ],
-  [
-   "V.1",
-   "J1.1"
-  ],
-  [
-   "Rz.1",
-   [
-    92,
-    60
-   ],
-   "J2.1"
-  ],
-  [
-   "J2.1",
-   [
-    20,
-    60
-   ],
-   "G.2"
-  ],
-  [
-   "V.2",
-   "J2.1"
-  ]
+  ["G.4", [20, 12], "A.1"],
+  ["A.2", "J1.1"],
+  ["J1.1", [92, 12], "Rz.1"],
+  ["V.2", "J1.1"],
+  ["Rz.2", [92, 60], "J2.1"],
+  ["J2.1", [20, 60], "G.2"],
+  ["V.1", "J2.1"]
  ],
  "texts": [
-  {
-   "x": 6,
-   "y": 36,
-   "text": "G",
-   "color": "008000",
-   "size": 85
-  },
-  {
-   "x": 40,
-   "y": 4,
-   "text": "A",
-   "color": "008000",
-   "size": 85
-  },
-  {
-   "x": 52,
-   "y": 36,
-   "text": "V",
-   "color": "008000",
-   "size": 85
-  },
-  {
-   "x": 98,
-   "y": 34,
-   "text": "Rz",
-   "color": "008000",
-   "size": 85
-  },
-  {
-   "x": 98,
-   "y": 42,
-   "text": "1K14",
-   "color": "FF00FF",
-   "size": 85
-  }
+  {"x": 6, "y": 36, "text": "G", "color": "008000", "size": 85},
+  {"x": 40, "y": 4, "text": "A", "color": "008000", "size": 85},
+  {"x": 52, "y": 36, "text": "V", "color": "008000", "size": 85},
+  {"x": 98, "y": 34, "text": "Rz", "color": "008000", "size": 85},
+  {"x": 98, "y": 42, "text": "1K14", "color": "FF00FF", "size": 85}
  ]
 }

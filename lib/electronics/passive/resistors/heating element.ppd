@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="heating element" t="R" v="" n="EN 60617: 04-01-12" fG="34b09473-45ba-52b7-899b-cac6f1a0503a" lG="b6522e75-b477-574e-b0a4-e5cd22d24d17">
+<layers current="0"><layer name="0" v="1">
+<rect left="-8" top="-15" right="8" bottom="15" op-lw="4"/>
+<polyline pts="0,-15,0,-25," op-lw="4"/>
+<polyline pts="0,15,0,25," op-lw="4"/>
+<outlet x="0" y="-25"/>
+<outlet x="0" y="25"/>
+</layer></layers>
+</ppd>
+</document>

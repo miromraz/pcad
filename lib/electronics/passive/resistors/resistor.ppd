@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="resistor" t="R" v="" n="EN 60617: 04-01-01" fG="f72969ea-99bc-5a1c-b11f-1c604bcc400d" lG="769a66a4-5d2f-530d-93bb-ed71a6bd9767">
+<layers current="0"><layer name="0" v="1">
+<rect left="-8" top="-15" right="8" bottom="15" op-lw="4"/>
+<polyline pts="0,-15,0,-25," op-lw="4"/>
+<polyline pts="0,15,0,25," op-lw="4"/>
+<outlet x="0" y="-25"/>
+<outlet x="0" y="25"/>
+</layer></layers>
+</ppd>
+</document>

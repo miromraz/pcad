@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="replusion motor, 1 phase" t="" v="" n="EN 60617: 06-06-02" fG="b6c2d6ad-7a54-5e6c-b2bf-69bc13e68cd5" lG="29d35dc2-0a75-527e-9512-2859d858fc9f">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-80" top="-80" right="80" bottom="80" op-lw="4"/>
+<polyline pts="-44,-67,-80,-120," op-lw="4"/>
+<polyline pts="44,-67,80,-120," op-lw="4"/>
+<text x="0" y="-24" al="9" f="95,0,0,0,Arial,000000">M</text>
+<text x="0" y="24" al="9" f="95,0,0,0,Arial,000000">1~</text>
+<outlet x="-80" y="-120"/>
+<outlet x="80" y="-120"/>
+</layer></layers>
+</ppd>
+</document>

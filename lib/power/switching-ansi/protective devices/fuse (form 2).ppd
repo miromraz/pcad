@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="fuse (form 2)" t="R" v="" n="IEC:9.1.1" fG="df9694f9-c9d6-5bc8-b26f-ab0fb4006f05" lG="161ed7c8-99da-5eaf-bc14-a0aa288f77e0">
+<layers current="0"><layer name="0" v="1">
+<rect left="-25" top="-21" right="25" bottom="21" op-lw="4"/>
+<polyline pts="0,-25,0,25," op-lw="4"/>
+<outlet x="0" y="25"/>
+<outlet x="0" y="-25"/>
+</layer></layers>
+</ppd>
+</document>

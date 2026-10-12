@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="TV outlet" t="" v="" n="EN 60617: 211-06-02" fG="f677ee22-66f5-555a-9e7a-98dad9fb945a" lG="7a094335-1812-5743-8ae2-3f76744832e4">
+<layers current="0"><layer name="0" v="1">
+<rect left="-25" top="-25" right="25" bottom="25" op-lw="4"/>
+<text x="0" y="0" al="9" f="86,0,0,0,Arial,000000">TV</text>
+<outlet x="-25" y="0"/>
+<outlet x="25" y="0"/>
+<outlet x="0" y="25"/>
+<outlet x="0" y="-25"/>
+</layer></layers>
+</ppd>
+</document>

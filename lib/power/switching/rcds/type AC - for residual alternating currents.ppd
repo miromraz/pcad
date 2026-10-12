@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="type AC - for residual alternating currents" t="" v="" n="EN 60617: 07-13-10" fG="773c9c61-2148-5fec-8c38-351a803ea4f9" lG="c010badc-a8ec-5d33-986f-75f1751c4578">
+<layers current="0"><layer name="0" v="1">
+<rect left="-44" top="-38" right="44" bottom="38" op-lw="4"/>
+<polyline pts="-29,0,-25,-5,-22,-10,-18,-13,-15,-14,-11,-13,-7,-10,-4,-5,0,0,4,5,7,10,11,13,15,14,18,13,22,10,25,5,29,0," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

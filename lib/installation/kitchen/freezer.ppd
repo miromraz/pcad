@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="freezer" t="" v="" n="EN 60617: 211-10-16" fG="5f063c78-3caa-52d2-a9e1-54a7e473a9f7" lG="55c98b0e-af39-59fe-b3e0-381d5210eb43">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="-18,0,18,0," op-lw="4"/>
+<polyline pts="-9,-15,9,15," op-lw="4"/>
+<polyline pts="9,-15,-9,15," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

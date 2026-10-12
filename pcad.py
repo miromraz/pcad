@@ -13,7 +13,7 @@ Subcommands:
   selftest                 run internal asserts
 
 A <symbol> is a library-relative path WITHOUT extension, e.g.
-  "passive/resistor"
+  "electronics/passive/resistors/resistor"  (use `search` to find the path)
   "ic/555"                                  (a .picd multi-pin IC)
 The library root is the bundled lib/, or $PCAD_LIB if set.
 
@@ -86,7 +86,10 @@ def load_ppd(sym):
     path = resolve(sym)
     if path.endswith(".picd"):
         sys.exit(f"error: {sym} is a .picd (IC) symbol; use IC pin numbers")
-    root = ET.parse(path).getroot()
+    doc = ET.parse(path).getroot()
+    # Real ProfiCAD format wraps the symbol in <document><ppd>...; the simplified
+    # bundled form puts <layers> directly on <document>. Use the <ppd> if present.
+    root = doc if doc.find("ppd") is None else doc.find("ppd")
     outlets, _ = _ppd_box(root)   # walks all layers + nested composite parts
     return root, outlets, path
 

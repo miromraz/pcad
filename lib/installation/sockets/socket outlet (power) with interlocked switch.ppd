@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="socket outlet (power) with interlocked switch" t="" v="" n="EN 60617: 11-13-07" fG="541ffb4c-ee25-5d9e-92f8-bfba2f2693b0" lG="ac7e7b39-3895-5327-a176-f2e1e9caa92f">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="15,0,15,3,14,6,12,8,11,11,8,12,6,14,3,15,0,15,-3,15,-6,14,-8,12,-11,11,-12,8,-14,6,-15,3,-15,0," op-lw="4"/>
+<polyline pts="-15,0,15,0," op-lw="4"/>
+<polyline pts="0,0,0,-20," op-lw="4"/>
+<polyline pts="15,0,20,0," op-lw="4"/>
+<polyline pts="-26,0,-15,0," op-lw="4"/>
+<ellipse left="16" top="-4" right="24" bottom="4" op-lw="2" op-fd="1"/>
+<polyline pts="20,0,2,-24," op-lw="4"/>
+<polyline pts="0,15,0,24," op-lw="4"/>
+<polyline pts="8,-10,8,8," op-lw="4"/>
+<outlet x="0" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

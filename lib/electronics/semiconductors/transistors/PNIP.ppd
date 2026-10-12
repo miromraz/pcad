@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="PNIP" t="T" v="" n="60617:05-05-07" fG="a01c3d96-ce8d-539c-97a8-02d6bd9af0b5" lG="f460bbbc-9dde-59d1-840c-570aac16c9be">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-50" top="-50" right="50" bottom="50" op-lw="4"/>
+<polyline pts="-18,-26,-18,26," op-lw="6"/>
+<polyline pts="-47,-16,-18,-16," op-lw="4"/>
+<polyline pts="-48,16,-18,16," op-lw="4"/>
+<polyline pts="-18,-12,24,-43," op-lw="4"/>
+<polyline pts="-18,12,24,43," op-lw="4"/>
+<polygon pts="24,43,11,41,18,31," op-lw="4" op-fd="1"/>
+<outlet x="-47" y="-16"/>
+<outlet x="-48" y="16"/>
+<outlet x="24" y="43"/>
+<outlet x="24" y="-43"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,20 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="thermostat 1P" t="" v="" n="EN 60617: 211-07-14" fG="efc78ce2-6beb-5a31-9b5c-67be8b47224e" lG="8cfbed9e-ed9a-554d-84fe-011e81db81ab">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-31,31,0,0," op-lw="4"/>
+<ellipse left="-4" top="-4" right="4" bottom="4" op-lw="2" op-fd="1"/>
+<polyline pts="0,0,26,-26," op-lw="4"/>
+<polyline pts="31,-31,25,-25," op-lw="4"/>
+<polyline pts="0,7,0,19," op-lw="4"/>
+<polyline pts="-9,31,-3,23,3,31,9,23," op-lw="4"/>
+<polyline pts="-15,0,0,0," op-lw="4"/>
+<polyline pts="0,15,0,0," op-lw="4"/>
+<polyline pts="15,0,0,0," op-lw="4"/>
+<polyline pts="0,-15,0,0," op-lw="4"/>
+<outlet x="-15" y="0"/>
+<outlet x="0" y="15"/>
+<outlet x="15" y="0"/>
+<outlet x="0" y="-15"/>
+</layer></layers>
+</ppd>
+</document>

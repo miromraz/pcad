@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="stylus operated, stereophonic reproducing head" t="pistala" v="" n="EN 60617: 09-09-10" fG="270c91fb-8200-5aa7-8c99-2e1e3d63cf16" lG="a693b4b3-92bd-53c8-8b1d-e7344b913b8e">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-52" top="-22" right="16" bottom="22" op-lw="4"/>
+<polyline pts="-52,-14,-58,-14," op-lw="4"/>
+<polyline pts="-52,-8,-58,-8," op-lw="4"/>
+<polyline pts="-52,8,-58,8," op-lw="4"/>
+<polyline pts="-52,14,-58,14," op-lw="4"/>
+<polyline pts="16,0,50,0," op-lw="4"/>
+<polyline pts="-70,28,-50,0," op-lw="4"/>
+<polygon pts="-50,0,-53,10,-59,5," op-lw="4" op-fd="1"/>
+<outlet x="50" y="0"/>
+</layer></layers>
+</ppd>
+</document>

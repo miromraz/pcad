@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pulse-code modulation - 3-out-of-7 code" t="" v="" n="EN 60617: 10-12-07" fG="64ee6880-6dad-5a3c-914a-8a8a672c0803" lG="449a9928-df19-56f7-af52-3e639836e1d3">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-45,35,45,35," op-lw="4"/>
+<polyline pts="-45,4,-32,4,-32,-35,-19,-35,-19,4,-6,4,-6,-35,6,-35,6,-35,19,-35,19,4,32,4,32,-35,45,-35," op-lw="4"/>
+<text x="0" y="-14" al="9" f="60,0,0,0,Arial,000000">7</text>
+<text x="0" y="14" al="9" f="60,0,0,0,Arial,000000">3</text>
+
+</layer></layers>
+</ppd>
+</document>

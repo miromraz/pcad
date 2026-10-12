@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="current transformer with 3 threaded primary conductors - form 1" t="" v="" n="EN 60617: 06-13-10" fG="d41c811a-d0d5-5c16-87e3-ccd85a6ae60f" lG="5546e404-d01c-531e-8ea8-7135c50ca9cc">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-30" top="-30" right="30" bottom="30" op-lw="4"/>
+<polyline pts="0,-40,0,40," op-lw="4"/>
+<polyline pts="30,0,80,0," op-lw="4"/>
+<text x="0" y="0" al="9" f="73,0,0,0,Arial,000000">3</text>
+<outlet x="0" y="-40"/>
+<outlet x="0" y="40"/>
+<outlet x="80" y="0"/>
+</layer></layers>
+</ppd>
+</document>

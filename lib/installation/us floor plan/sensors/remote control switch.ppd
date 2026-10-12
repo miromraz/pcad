@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="remote control switch" t="" v="" n="EN 60617: 211-06-02" fG="43ba4cc2-693b-5d2e-bf98-afb0b91db48c" lG="4224cd40-75a1-59c0-81c5-01967034b49b">
+<layers current="0"><layer name="0" v="1">
+<text x="0" y="0" al="9" f="69,0,0,0,Arial,000000">Sᴿ</text>
+<outlet x="0" y="20"/>
+<outlet x="20" y="0"/>
+<outlet x="0" y="-20"/>
+<outlet x="-20" y="0"/>
+</layer></layers>
+</ppd>
+</document>

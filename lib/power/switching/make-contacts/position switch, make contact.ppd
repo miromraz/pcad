@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="position switch, make contact" t="Re" v="" n="EN 60617: 07-08-01" fG="cc1c1025-6a4c-5398-99be-ce48c99b081a" lG="5c78617f-1810-58f9-ae47-491aac5b1703">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,22,-18," op-lw="4"/>
+<polyline pts="0,0,-5,0," op-lw="2"/>
+<ellipse left="-12" top="-24" right="2" bottom="-10" op-lw="4"/>
+<polyline pts="-5,-10,-5,2," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pulse meter manually pre-set to n" t="" v="" n="EN 60617: 08-05-03" fG="7c0c5795-5527-5b86-ae8d-13f1f5e373e9" lG="668e5f40-42b7-5f26-b2f9-7002113c56bf">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-48" right="60" bottom="48" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">n</text>
+<outlet x="0" y="-20"/>
+<outlet x="0" y="20"/>
+</layer></layers>
+</ppd>
+</document>

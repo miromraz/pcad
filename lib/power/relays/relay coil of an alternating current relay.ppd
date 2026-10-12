@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="relay coil of an alternating current relay" t="K" v="" n="EN 60617: 07-15-12" fG="6845eccc-2d06-5f66-8f95-2f87923e6ae4" lG="021c971b-e26b-55c8-bd4c-95f89ce2a165">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-20" right="60" bottom="20" op-lw="4"/>
+<polyline pts="-20,0,-18,-3,-15,-5,-12,-6,-10,-7,-8,-6,-5,-5,-2,-3,0,0,2,3,5,5,8,6,10,7,12,6,15,5,18,3,20,0," op-lw="4"/>
+<outlet x="0" y="20"/>
+<outlet x="0" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

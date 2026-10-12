@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="siren" t="sirena" v="" n="EN 60617: 08-07-05" fG="fa5a7c74-8836-57cb-b77e-4d5f3591239a" lG="e1a98fc7-445d-5c80-9eb9-95d76269e778">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-34,0,-33,-8,-31,-15,-27,-21,-21,-27,-15,-31,-8,-33,0,-34,8,-33,15,-31,21,-27,27,-21,31,-15,33,-8,34,0," op-lw="4"/>
+<polyline pts="-34,0,34,0," op-lw="4"/>
+<polyline pts="34,0,40,0," op-lw="4"/>
+<polyline pts="0,0,0,20," op-lw="4"/>
+<polyline pts="-20,0,-20,20," op-lw="4"/>
+<polyline pts="20,0,20,20," op-lw="4"/>
+<outlet x="-20" y="20"/>
+<outlet x="20" y="20"/>
+</layer></layers>
+</ppd>
+</document>

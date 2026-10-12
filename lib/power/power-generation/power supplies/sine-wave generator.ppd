@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="sine-wave generator" t="" v="" n="EN 60617: 06-16-01" fG="bfdfdccd-17f5-563a-80e0-9ee92ca9ae40" lG="e9c2cb3c-1832-54fa-a028-0d36874aaece">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">G</text>
+<polyline pts="-22,33,-19,29,-16,26,-14,24,-11,23,-8,24,-6,26,-3,29,0,33,3,37,6,40,8,42,11,43,14,42,16,40,19,37,22,33," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="0" y="60"/>
+<outlet x="60" y="0"/>
+<outlet x="0" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

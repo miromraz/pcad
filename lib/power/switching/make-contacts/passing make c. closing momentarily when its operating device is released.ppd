@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="passing make c. closing momentarily when its operating device is released" t="" v="" n="EN 60617: 07-03-02" fG="d23d0c79-c15c-566f-a0cd-0d162e784802" lG="4ad89a30-764a-535f-811f-8d037ec90641">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,36,-18," op-lw="4"/>
+<polygon pts="18,8,12,-5,24,-5," op-lw="4" op-fd="1"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

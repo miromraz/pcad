@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="contactor with aut. tripping initiated by a built-in measuring relay or release" t="" v="" n="EN 60617: 07-13-03" fG="e0bb8b43-5cb0-527c-8223-71c8368609c8" lG="b0572f44-516a-5a05-9a6c-c67f172465e0">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,25,-18," op-lw="4"/>
+<polyline pts="16,-11,16,-13,17,-15,18,-17,19,-18,21,-19,23,-20,25,-20,27,-20,29,-19,31,-18,32,-17,33,-15,34,-13,34,-11," op-lw="4"/>
+<rect left="15" top="-10" right="31" bottom="10" op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

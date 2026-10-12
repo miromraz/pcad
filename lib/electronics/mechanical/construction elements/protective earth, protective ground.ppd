@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="protective earth, protective ground" t="zem" v="" n="EN 60617: 02-15-03" fG="b6271709-52bc-5266-8e1a-cfa9780a2dba" lG="33a1d843-67cf-5461-92a4-15c19d27ddba">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-30" top="-23" right="30" bottom="37" op-lw="4"/>
+<polyline pts="0,-20,0,-8," op-lw="4"/>
+<polyline pts="-16,-8,16,-8," op-lw="4"/>
+<polyline pts="-10,0,10,0," op-lw="4"/>
+<polyline pts="-4,8,4,8," op-lw="4"/>
+<outlet x="0" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

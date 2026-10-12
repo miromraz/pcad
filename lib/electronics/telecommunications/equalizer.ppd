@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="equalizer" t="" v="" n="EN 60617: 11-09-01" fG="52848dea-4c4a-5c8d-b7b3-5b040bcbcdc4" lG="87370379-8801-59a8-8d66-b99257c95552">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-20" right="40" bottom="20" op-lw="4"/>
+<polyline pts="-26,0,26,0," op-lw="2"/>
+<polyline pts="0,-11,0,11," op-lw="2"/>
+<polyline pts="-26,11,0,0,26,-11," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="thermal relay" t="Re" v="" n="EN 60617: 07-21-08" fG="6fad8c6c-a6ab-518a-ba54-d38e583118f2" lG="dd8e3aee-2dd5-5be9-83eb-c294cdbc662d">
+<layers current="0"><layer name="0" v="1">
+<rect left="-13" top="-32" right="13" bottom="32" op-lw="4"/>
+<polyline pts="0,-40,0,-32," op-lw="4"/>
+<polyline pts="0,32,0,40," op-lw="4"/>
+<polyline pts="-8,-8,8,-8," op-lw="4"/>
+<polyline pts="8,-8,8,8," op-lw="4"/>
+<outlet x="0" y="-40"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

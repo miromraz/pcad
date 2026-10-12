@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="lightning arrester, surge diverter" t="" v="" n="EN 60617: 07-22-03" fG="029f2cd2-f2ef-5535-84ee-d4f8d12d9aa8" lG="4e4b1975-06a3-54f1-bbb5-f2435e934254">
+<layers current="0"><layer name="0" v="1">
+<rect left="-6" top="-14" right="6" bottom="14" op-lw="4"/>
+<polyline pts="-9,8,9,-8," op-lw="4"/>
+<polygon pts="9,-8,3,6,-5,-3," op-lw="4" op-fd="1"/>
+<polyline pts="0,-14,0,-40," op-lw="4"/>
+<polyline pts="0,14,0,40," op-lw="4"/>
+<outlet x="0" y="-40"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="rhombic antenna, shown terminated by a resistor" t="" v="" n="EN 60617: 10-05-02" fG="b3a134ea-5955-5cd2-8189-751a8b4a807b" lG="521c0168-7fc3-5f73-a6df-d4b18ca1bd54">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-90,0,-14,-74," op-lw="4"/>
+<polyline pts="-14,-74,58,0," op-lw="4"/>
+<polyline pts="58,0,-14,74," op-lw="4"/>
+<polyline pts="-14,74,-90,0," op-lw="4"/>
+<polyline pts="-100,20,-90,0," op-lw="4"/>
+<polyline pts="-100,-20,-90,0," op-lw="4"/>
+<rect left="54" top="-7" right="72" bottom="7" op-lw="4"/>
+<polyline pts="72,0,78,0," op-lw="4"/>
+<polyline pts="78,-7,78,7," op-lw="4"/>
+<outlet x="-100" y="20"/>
+<outlet x="-100" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="headset, shown with one earphone" t="pistala" v="" n="EN 60617: 09-09-05" fG="1533d450-493f-5bcf-ab6f-e3fab0e549f3" lG="192bc796-a88d-5d0a-88f0-95b96f101e3b">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-30,-22,-29,-29,-27,-35,-23,-41,-19,-45,-13,-49,-7,-51,0,-52,7,-51,13,-49,19,-45,23,-41,27,-35,29,-29,30,-22," op-lw="4"/>
+<polyline pts="-30,-22,-30,30," op-lw="4"/>
+<polyline pts="30,-22,30,30," op-lw="4"/>
+<polyline pts="0,4,-5,5,-9,9,-13,14,-15,21,-16,28,-15,35,-13,42,-9,47,-5,51,0,52," op-lw="4"/>
+<polyline pts="0,4,5,5,9,9,13,14,15,21,16,28,15,35,13,42,9,47,5,51,0,52," op-lw="4"/>
+<polyline pts="0,10,-10,-10," op-lw="4"/>
+<polyline pts="0,10,-10,10," op-lw="4"/>
+<outlet x="-10" y="-10"/>
+<outlet x="-10" y="10"/>
+</layer></layers>
+</ppd>
+</document>

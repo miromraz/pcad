@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="fuse fast-blow" t="" v="" n="EN 60617: 07-21-01" fG="d92c9bc1-5a77-5cd5-b4e1-e9fcabda9e97" lG="de29b457-ebd6-5f7c-84d5-3baacc2c5ee9">
+<layers current="0"><layer name="0" v="1">
+<rect left="-9" top="-35" right="9" bottom="35" op-lw="4"/>
+<polyline pts="0,-35,0,35," op-lw="4"/>
+<outlet x="0" y="-24"/>
+<outlet x="0" y="24"/>
+</layer></layers>
+</ppd>
+</document>

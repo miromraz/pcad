@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="signal lamp, flashing type" t="" v="" n="EN 60617: 08-10-02" fG="bb68c051-5a00-52ce-a69b-9f6ce7baa251" lG="59c9f364-82bc-5a05-980e-920064947e3c">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-25" top="-25" right="25" bottom="25" op-lw="4"/>
+<polyline pts="-18,-18,18,18," op-lw="4"/>
+<polyline pts="-18,18,18,-18," op-lw="4"/>
+<polyline pts="0,-25,0,-40," op-lw="4"/>
+<polygon pts="0,-40,6,-26,-6,-26," op-lw="4" op-fd="1"/>
+<polyline pts="0,25,0,40," op-lw="4"/>
+<polygon pts="0,40,-6,26,6,26," op-lw="4" op-fd="1"/>
+<outlet x="-25" y="0"/>
+<outlet x="25" y="0"/>
+</layer></layers>
+</ppd>
+</document>

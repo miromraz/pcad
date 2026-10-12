@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="6-phase winding, zigzag or interconnected star" t="" v="" n="EN 60617: 06-02-13" fG="98fe16e5-1580-5a0f-a590-d1f11d4fe8ba" lG="0ac497c0-fce6-5567-bbb8-8b6d891b5ed2">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,0,0,-8,6,-14," op-lw="4"/>
+<polyline pts="0,0,7,-4,17,-2," op-lw="4"/>
+<polyline pts="0,0,7,4,11,12," op-lw="4"/>
+<polyline pts="0,0,0,8,-6,14," op-lw="4"/>
+<polyline pts="0,0,-7,4,-17,2," op-lw="4"/>
+<polyline pts="0,0,-7,-4,-11,-12," op-lw="4"/>
+<outlet x="0" y="0"/>
+</layer></layers>
+</ppd>
+</document>

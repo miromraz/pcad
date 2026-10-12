@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="PTC (place near the thermistor)" t="" v="" n="EN 60617: 04-01-06" fG="cb74e2ef-4965-5c50-b87e-100bb01b5c76" lG="9ccb1d5c-7fbf-586f-9c68-307034b49896">
+<layers current="0"><layer name="0" v="1">
+<rect left="-9" top="-26" right="9" bottom="26" op-lw="4"/>
+<polyline pts="-11,24,11,-20," op-lw="4"/>
+<polyline pts="-11,24,-11,14," op-lw="4"/>
+<text x="0" y="-32" al="9" f="40,0,0,0,Arial,000000">θ</text>
+
+</layer></layers>
+</ppd>
+</document>

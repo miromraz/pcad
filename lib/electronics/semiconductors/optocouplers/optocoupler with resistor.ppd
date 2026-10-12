@@ -1,0 +1,22 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="optocoupler with resistor" t="opto" v="" n="EN 60617: 05-06-05" fG="393d7486-ae04-502d-9a37-0b1f2d302029" lG="0e2b401d-ea8a-5f6f-a9dd-f44ef20eb318">
+<layers current="0"><layer name="0" v="1">
+<rect left="-62" top="-36" right="62" bottom="36" op-lw="4"/>
+<polygon pts="-50,-11,-30,-11,-40,11," op-lw="4"/>
+<polyline pts="-50,11,-30,11," op-lw="4"/>
+<polyline pts="-40,-11,-40,-40," op-lw="4"/>
+<polyline pts="-40,11,-40,40," op-lw="4"/>
+<polyline pts="-26,-7,6,-7," op-lw="4"/>
+<polygon pts="6,-7,-8,-1,-8,-13," op-lw="4" op-fd="1"/>
+<polyline pts="-26,7,6,7," op-lw="4"/>
+<polygon pts="6,7,-8,13,-8,1," op-lw="4" op-fd="1"/>
+<rect left="20" top="-20" right="36" bottom="20" op-lw="4"/>
+<polyline pts="20,-16,40,-40," op-lw="4"/>
+<polyline pts="20,16,40,40," op-lw="4"/>
+<outlet x="-40" y="-40"/>
+<outlet x="-40" y="40"/>
+<outlet x="40" y="-40"/>
+<outlet x="40" y="40"/>
+</layer></layers>
+</ppd>
+</document>

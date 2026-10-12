@@ -1,0 +1,20 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pulse meter with multiple contacts" t="" v="" n="EN 60617: 08-05-05" fG="759b0ce8-2537-5951-a1fc-20b98c651199" lG="a6ed23aa-151c-5ee4-8488-e5f4fede0c8d">
+<layers current="0"><layer name="0" v="1">
+<rect left="-95" top="-60" right="175" bottom="60" op-lw="4"/>
+<text x="40" y="-38" al="9" f="41,0,0,0,Arial,000000">10</text>
+<text x="40" y="-19" al="9" f="41,0,0,0,Arial,000000">3</text>
+<text x="40" y="0" al="9" f="41,0,0,0,Arial,000000">2</text>
+<text x="40" y="19" al="9" f="41,0,0,0,Arial,000000">1</text>
+<text x="40" y="38" al="9" f="41,0,0,0,Arial,000000">0</text>
+<outlet x="-80" y="60"/>
+<outlet x="0" y="60"/>
+<outlet x="80" y="60"/>
+<outlet x="160" y="60"/>
+<outlet x="160" y="-60"/>
+<outlet x="80" y="-60"/>
+<outlet x="0" y="-60"/>
+<outlet x="-80" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

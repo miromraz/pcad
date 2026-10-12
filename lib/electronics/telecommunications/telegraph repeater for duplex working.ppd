@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="telegraph repeater for duplex working" t="volic" v="" n="EN 60617: 09-07-02" fG="fb83366c-b398-53e6-a3b9-9caf3e2d25c0" lG="28a3e7c7-4ae3-5bdc-86aa-7a7b53f7ea6b">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-75,-90,-75,90,75,0," op-lw="4"/>
+<text x="-25" y="0" al="9" f="95,0,0,0,Arial,000000">T</text>
+<outlet x="-75" y="0"/>
+<outlet x="75" y="0"/>
+</layer></layers>
+</ppd>
+</document>

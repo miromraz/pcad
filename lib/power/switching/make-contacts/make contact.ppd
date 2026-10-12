@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="make contact" t="" v="" n="EN 60617: 07-02-02" fG="2c19e60a-5531-5fac-9cad-e065f4823cd4" lG="6bcde78c-0150-5197-ba26-9d74a99ce2d7">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,30,-18," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

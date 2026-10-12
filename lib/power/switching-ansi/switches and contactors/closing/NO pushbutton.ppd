@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="NO pushbutton" t="k" v="" n="IEC:9.2" fG="24c18967-2f2c-5564-a677-8aca79ad5d65" lG="d63c4083-9040-5f5a-b3a5-d1eb213364bd">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-46,20,-16,20," op-lw="4"/>
+<polyline pts="46,20,16,20," op-lw="4"/>
+<polyline pts="16,55,-12,-15," op-lw="4"/>
+<polyline pts="-36,30,-36,20," op-lw="4"/>
+<polyline pts="36,30,36,20," op-lw="4"/>
+<polyline pts="0,20,0,-15," op-lw="4"/>
+<polyline pts="-10,-15,10,-15," op-lw="4"/>
+<outlet x="-46" y="20"/>
+<outlet x="46" y="20"/>
+<outlet x="-36" y="30"/>
+<outlet x="36" y="30"/>
+</layer></layers>
+</ppd>
+</document>

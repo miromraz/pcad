@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="lamp with switch" t="" v="" n="EN 60617: 211-06-01" fG="a2487bb3-388e-5d0e-b80b-6e80e7cc47b8" lG="7761b268-1f5e-5baa-8d90-23390c65cf74">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-30" top="-18" right="6" bottom="18" op-lw="4"/>
+<polyline pts="-25,-13,1,13," op-lw="4"/>
+<polyline pts="-25,13,1,-13," op-lw="4"/>
+<polyline pts="6,0,14,0," op-lw="4"/>
+<ellipse left="10" top="-4" right="18" bottom="4" op-lw="2" op-fd="1"/>
+<polyline pts="14,0,22,-18," op-lw="4"/>
+<outlet x="0" y="0"/>
+</layer></layers>
+</ppd>
+</document>

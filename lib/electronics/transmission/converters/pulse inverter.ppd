@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pulse inverter" t="" v="" n="EN 60617: 08-12-12" fG="1c6ec085-0b83-57e3-bab6-139b31772d14" lG="22983d5f-0b12-5ace-8a3a-e83c30eab11e">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polyline pts="-40,36,-40,-36,0,-36,0,36,40,36,40,-36," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

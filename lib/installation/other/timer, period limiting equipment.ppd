@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="timer, period limiting equipment" t="" v="" n="EN 60617: 11-14-13" fG="0c9b4541-6444-5b03-956e-9f261374361d" lG="2378cba5-240c-5e06-b8ee-2871aa33812a">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-20" right="40" bottom="20" op-lw="4"/>
+<text x="0" y="0" al="9" f="62,0,0,0,Arial,000000">t</text>
+
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,57 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="residual current device 1P" t="" v="" n="EN 60617: 07-13-10" fG="8d011811-4417-5155-9393-9343707b3ac3" lG="4ad66b19-fe97-5f64-b769-f89bff2c645b">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-44,-60,-39,-60," op-lw="2"/>
+<polyline pts="-36,-60,-30,-60," op-lw="2"/>
+<polyline pts="-26,-60,-21,-60," op-lw="2"/>
+<polyline pts="-18,-60,-12,-60," op-lw="2"/>
+<polyline pts="-8,-60,-3,-60," op-lw="2"/>
+<polyline pts="0,-60,6,-60," op-lw="2"/>
+<polyline pts="10,-60,15,-60," op-lw="2"/>
+<polyline pts="18,-60,24,-60," op-lw="2"/>
+<polyline pts="28,-60,33,-60," op-lw="2"/>
+<polyline pts="36,-60,42,-60," op-lw="2"/>
+<polyline pts="44,-60,44,-55," op-lw="2"/>
+<polyline pts="44,-51,44,-46," op-lw="2"/>
+<polyline pts="44,-42,44,-37," op-lw="2"/>
+<polyline pts="44,-33,44,-28," op-lw="2"/>
+<polyline pts="44,-24,44,-19," op-lw="2"/>
+<polyline pts="44,-15,44,-10," op-lw="2"/>
+<polyline pts="44,-6,44,-1," op-lw="2"/>
+<polyline pts="44,3,44,8," op-lw="2"/>
+<polyline pts="44,12,44,17," op-lw="2"/>
+<polyline pts="44,21,44,26," op-lw="2"/>
+<polyline pts="44,30,44,35," op-lw="2"/>
+<polyline pts="44,39,44,44," op-lw="2"/>
+<polyline pts="44,48,44,53," op-lw="2"/>
+<polyline pts="44,57,44,60," op-lw="2"/>
+<polyline pts="44,60,39,60," op-lw="2"/>
+<polyline pts="36,60,30,60," op-lw="2"/>
+<polyline pts="26,60,21,60," op-lw="2"/>
+<polyline pts="18,60,12,60," op-lw="2"/>
+<polyline pts="8,60,3,60," op-lw="2"/>
+<polyline pts="0,60,-6,60," op-lw="2"/>
+<polyline pts="-10,60,-15,60," op-lw="2"/>
+<polyline pts="-18,60,-24,60," op-lw="2"/>
+<polyline pts="-28,60,-33,60," op-lw="2"/>
+<polyline pts="-36,60,-42,60," op-lw="2"/>
+<polyline pts="-44,60,-44,55," op-lw="2"/>
+<polyline pts="-44,51,-44,46," op-lw="2"/>
+<polyline pts="-44,42,-44,37," op-lw="2"/>
+<polyline pts="-44,33,-44,28," op-lw="2"/>
+<polyline pts="-44,24,-44,19," op-lw="2"/>
+<polyline pts="-44,15,-44,10," op-lw="2"/>
+<polyline pts="-44,6,-44,1," op-lw="2"/>
+<polyline pts="-44,-3,-44,-8," op-lw="2"/>
+<polyline pts="-44,-12,-44,-17," op-lw="2"/>
+<polyline pts="-44,-21,-44,-26," op-lw="2"/>
+<polyline pts="-44,-30,-44,-35," op-lw="2"/>
+<polyline pts="-44,-39,-44,-44," op-lw="2"/>
+<polyline pts="-44,-48,-44,-53," op-lw="2"/>
+<polyline pts="-44,-57,-44,-60," op-lw="2"/>
+<polyline pts="0,-60,0,60," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

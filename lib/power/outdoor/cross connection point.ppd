@@ -1,0 +1,31 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="cross connection point" t="" v="" n="EN 60617: 11-04-03" fG="c9ccb64c-a827-55d0-bdbf-5889b7b83222" lG="d3b58d7e-2f2d-554c-9d57-8eedf46f1fcb">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="20,0,40,0," op-lw="2"/>
+<polyline pts="17,10,35,20," op-lw="2"/>
+<polyline pts="10,17,20,35," op-lw="2"/>
+<polyline pts="0,20,0,40," op-lw="2"/>
+<polyline pts="-10,17,-20,35," op-lw="2"/>
+<polyline pts="-17,10,-35,20," op-lw="2"/>
+<polyline pts="-20,0,-40,0," op-lw="2"/>
+<polyline pts="-17,-10,-35,-20," op-lw="2"/>
+<polyline pts="-10,-17,-20,-35," op-lw="2"/>
+<polyline pts="0,-20,0,-40," op-lw="2"/>
+<polyline pts="10,-17,20,-35," op-lw="2"/>
+<polyline pts="17,-10,35,-20," op-lw="2"/>
+<outlet x="-40" y="0"/>
+<outlet x="-34" y="20"/>
+<outlet x="-20" y="34"/>
+<outlet x="0" y="40"/>
+<outlet x="20" y="34"/>
+<outlet x="34" y="20"/>
+<outlet x="40" y="0"/>
+<outlet x="34" y="-20"/>
+<outlet x="20" y="-34"/>
+<outlet x="0" y="-40"/>
+<outlet x="-20" y="-34"/>
+<outlet x="-34" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="device for auto-closing, auto-close relay" t="" v="" n="EN 60617: 07-18-02" fG="1092d8a8-7f55-5019-880d-25a711fe1ba8" lG="40c8965e-3804-59bb-8ec7-e59253fa9ac0">
+<layers current="0"><layer name="0" v="1">
+<rect left="-30" top="-30" right="30" bottom="30" op-lw="4"/>
+<polyline pts="-30,30,30,-30," op-lw="4"/>
+<polyline pts="-12,0,-12,-3,-11,-5,-9,-7,-7,-9,-5,-11,-3,-12,0,-12,3,-12,5,-11,7,-9,9,-7,11,-5,12,-3,12,0," op-lw="4"/>
+<polyline pts="-30,0,-40,0," op-lw="4"/>
+<polyline pts="0,30,0,40," op-lw="4"/>
+<polyline pts="30,0,40,0," op-lw="4"/>
+<polyline pts="0,-30,0,-40," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

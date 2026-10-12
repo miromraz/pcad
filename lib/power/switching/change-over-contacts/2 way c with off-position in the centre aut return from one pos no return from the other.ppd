@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="2 way c with off-position in the centre aut return from one pos no return from the other" t="" v="" n="EN 60617: 07-06-04" fG="22f4e3fd-84e1-5fca-ae1d-2560bece9584" lG="4fa03c39-62fe-54a9-be2a-2980e8f8811a">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="-20,-60,-20,-18," op-lw="4"/>
+<polyline pts="20,-60,20,-18," op-lw="4"/>
+<ellipse left="-4" top="14" right="4" bottom="22" op-lw="2" op-fd="1"/>
+<polyline pts="0,18,0,-10," op-lw="4"/>
+<polyline pts="-20,-18,-7,-10," op-lw="4"/>
+<polyline pts="20,-18,7,-10," op-lw="4"/>
+<outlet x="-20" y="-60"/>
+<outlet x="0" y="60"/>
+<outlet x="20" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

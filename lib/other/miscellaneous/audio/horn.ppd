@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="horn" t="houk" v="" n="EN 60617: 08-07-04" fG="68739a17-cb8d-5aeb-bbfa-5210922f021a" lG="1062ce85-7b88-5ffc-908a-ca036b268586">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-20,-35,40,35,40,0,-20," op-lw="4"/>
+<polyline pts="0,-20,0,-43," op-lw="4"/>
+<polyline pts="0,40,0,43," op-lw="4"/>
+<outlet x="0" y="-43"/>
+<outlet x="0" y="43"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="NO form 2" t="k" v="" n="IEC:9.2" fG="a5062854-3af6-5954-acd1-45de8f121b67" lG="ea263efb-2a1d-51d3-a3fd-6dcfb30121a0">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-50,-20,30,40," op-lw="4"/>
+<polyline pts="-55,10,25,10," op-lw="4"/>
+<polyline pts="-15,-25,-15,45," op-lw="4"/>
+<outlet x="-50" y="-20"/>
+<outlet x="20" y="40"/>
+</layer></layers>
+</ppd>
+</document>

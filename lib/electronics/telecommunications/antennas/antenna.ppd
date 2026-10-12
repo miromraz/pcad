@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="antenna" t="ant" v="" n="EN 60617: 10-04-01" fG="fcf209fd-e458-5d70-b1fa-c9bc32e4d7ed" lG="2f9bd01e-9544-533c-bbc8-f82c548fb274">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,28,0,-9," op-lw="4"/>
+<polyline pts="0,-9,-20,-40," op-lw="4"/>
+<polyline pts="0,-9,20,-40," op-lw="4"/>
+<outlet x="0" y="28"/>
+</layer></layers>
+</ppd>
+</document>

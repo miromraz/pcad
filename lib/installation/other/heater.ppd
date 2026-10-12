@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="heater" t="" v="" n="EN 60617: 211-10-05" fG="64b8462d-b0e6-50a1-81b6-482752c94004" lG="a9f67323-e0ba-5703-b580-0b454903aa88">
+<layers current="0"><layer name="0" v="1">
+<rect left="-30" top="-30" right="30" bottom="30" op-lw="4"/>
+<polyline pts="-20,-6,-17,-8,-15,-9,-12,-10,-10,-10,-7,-10,-5,-9,-2,-8,0,-6,2,-4,5,-3,7,-2,10,-2,12,-2,15,-3,17,-4,20,-6," op-lw="4"/>
+<polyline pts="-20,6,-17,4,-15,3,-12,2,-10,2,-7,2,-5,3,-2,4,0,6,2,8,5,9,7,10,10,10,12,10,15,9,17,8,20,6," op-lw="4"/>
+<outlet x="-30" y="0"/>
+<outlet x="0" y="30"/>
+<outlet x="30" y="0"/>
+</layer></layers>
+</ppd>
+</document>

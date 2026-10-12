@@ -1,0 +1,24 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="optocoupler with triac" t="opto" v="" n="EN 60617: 05-08-01" fG="3c115e51-57c2-5030-a091-973d15361c6c" lG="921c75a2-d941-5513-950a-2d84519cc5b2">
+<layers current="0"><layer name="0" v="1">
+<rect left="-62" top="-36" right="62" bottom="36" op-lw="4"/>
+<polygon pts="-50,-11,-30,-11,-40,11," op-lw="4"/>
+<polyline pts="-50,11,-30,11," op-lw="4"/>
+<polyline pts="-40,-11,-40,-40," op-lw="4"/>
+<polyline pts="-40,11,-40,40," op-lw="4"/>
+<polyline pts="-26,-7,6,-7," op-lw="4"/>
+<polygon pts="6,-7,-8,-1,-8,-13," op-lw="4" op-fd="1"/>
+<polyline pts="-26,7,6,7," op-lw="4"/>
+<polygon pts="6,7,-8,13,-8,1," op-lw="4" op-fd="1"/>
+<polyline pts="28,-28,28,28," op-lw="4"/>
+<polygon pts="14,-24,14,-6,28,-15," op-lw="4"/>
+<polygon pts="42,24,42,6,28,15," op-lw="4"/>
+<polyline pts="20,-16,40,-40," op-lw="4"/>
+<polyline pts="20,16,40,40," op-lw="4"/>
+<outlet x="-40" y="-40"/>
+<outlet x="-40" y="40"/>
+<outlet x="40" y="-40"/>
+<outlet x="40" y="40"/>
+</layer></layers>
+</ppd>
+</document>

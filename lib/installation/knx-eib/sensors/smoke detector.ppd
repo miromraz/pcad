@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="smoke detector" t="" v="" n="EN 60617: 10-17-04" fG="122a6529-8c02-50a7-abf2-f27dbd89f55e" lG="40443ad1-13fe-5ae3-977c-ea50fcb7ce70">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">CO₂</text>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+<outlet x="90" y="50"/>
+<outlet x="90" y="-50"/>
+</layer></layers>
+</ppd>
+</document>

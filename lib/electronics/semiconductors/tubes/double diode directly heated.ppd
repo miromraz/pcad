@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="double diode directly heated" t="" v="" n="EN 60617: 05-10-02" fG="429df814-70b8-5b5d-a968-a477950cd11e" lG="9d2e09bd-15d8-5711-984b-9c0e86e47d77">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-45" top="-45" right="45" bottom="45" op-lw="4"/>
+<polyline pts="-26,-18,-6,-18," op-lw="4"/>
+<polyline pts="6,-18,26,-18," op-lw="4"/>
+<polyline pts="-16,-18,-50,-50," op-lw="4"/>
+<polyline pts="16,-18,50,-50," op-lw="4"/>
+<polyline pts="-10,20,0,8," op-lw="4"/>
+<polyline pts="10,20,0,8," op-lw="4"/>
+<polyline pts="-10,20,-20,60," op-lw="4"/>
+<polyline pts="10,20,20,60," op-lw="4"/>
+<outlet x="-50" y="-50"/>
+<outlet x="-20" y="60"/>
+<outlet x="20" y="60"/>
+<outlet x="50" y="-50"/>
+</layer></layers>
+</ppd>
+</document>

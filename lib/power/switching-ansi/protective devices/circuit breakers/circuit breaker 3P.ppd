@@ -1,0 +1,35 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="circuit breaker 3P" t="CB" v="" n="IEC:9.4.1" fG="1443f018-5a77-5a92-ae41-f0d30a9fcf6d" lG="fa74b607-335d-5869-aca8-b9029b6e292b">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,-60,-40,-30," op-lw="4"/>
+<polyline pts="-40,60,-40,30," op-lw="4"/>
+<polyline pts="-40,30,-31,-15," op-lw="4"/>
+<polyline pts="-48,-20,-48,-22,-47,-23,-46,-25,-45,-26,-43,-27,-42,-28,-40,-28,-38,-28,-37,-27,-35,-26,-34,-25,-33,-23,-32,-22,-32,-20," op-lw="4"/>
+<polyline pts="-56,-20,-40,-20," op-lw="4"/>
+<polyline pts="0,-60,0,-30," op-lw="4"/>
+<polyline pts="0,60,0,30," op-lw="4"/>
+<polyline pts="0,30,9,-15," op-lw="4"/>
+<polyline pts="-8,-20,-8,-22,-7,-23,-6,-25,-5,-26,-3,-27,-2,-28,0,-28,2,-28,3,-27,5,-26,6,-25,7,-23,8,-22,8,-20," op-lw="4"/>
+<polyline pts="-16,-20,0,-20," op-lw="4"/>
+<polyline pts="40,-60,40,-30," op-lw="4"/>
+<polyline pts="40,60,40,30," op-lw="4"/>
+<polyline pts="40,30,49,-15," op-lw="4"/>
+<polyline pts="32,-20,32,-22,33,-23,34,-25,35,-26,37,-27,38,-28,40,-28,42,-28,43,-27,45,-26,46,-25,47,-23,48,-22,48,-20," op-lw="4"/>
+<polyline pts="24,-20,40,-20," op-lw="4"/>
+<polyline pts="-40,0,-34,0," op-lw="2"/>
+<polyline pts="-30,0,-24,0," op-lw="2"/>
+<polyline pts="-20,0,-14,0," op-lw="2"/>
+<polyline pts="-10,0,-4,0," op-lw="2"/>
+<polyline pts="0,0,6,0," op-lw="2"/>
+<polyline pts="10,0,16,0," op-lw="2"/>
+<polyline pts="20,0,26,0," op-lw="2"/>
+<polyline pts="30,0,36,0," op-lw="2"/>
+<outlet x="-40" y="-60"/>
+<outlet x="-40" y="60"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+<outlet x="40" y="-60"/>
+<outlet x="40" y="60"/>
+</layer></layers>
+</ppd>
+</document>

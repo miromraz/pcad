@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="loop (frame) antenna" t="" v="" n="EN 60617: 10-05-01" fG="d8812b66-e96b-57ce-8a64-8b6819735482" lG="5fceb7de-b832-521a-b87c-1a9264f21a19">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-58" top="-64" right="58" bottom="52" op-lw="4"/>
+<polyline pts="-20,52,-20,80," op-lw="4"/>
+<polyline pts="20,52,20,80," op-lw="4"/>
+<outlet x="-20" y="80"/>
+<outlet x="20" y="80"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="diac" t="Diak" v="" n="EN 60617: 05-04-03" fG="8b50ca6f-b48c-5caf-8f21-dc8ca3522f24" lG="eeb766d5-9ff8-5aa5-980e-169a92f3d2d2">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-34,0,34," op-lw="6"/>
+<polygon pts="-16,-34,-16,-6,0,-20," op-lw="4"/>
+<polygon pts="16,6,16,34,0,20," op-lw="4"/>
+<polyline pts="-20,-20,0,-20," op-lw="4"/>
+<polyline pts="20,20,0,20," op-lw="4"/>
+<polyline pts="-20,-34,-20,34," op-lw="4"/>
+<polyline pts="20,-34,20,34," op-lw="4"/>
+<polyline pts="-20,0,-20,0," op-lw="4"/>
+<polyline pts="20,0,20,0," op-lw="4"/>
+<outlet x="-20" y="0"/>
+<outlet x="20" y="0"/>
+</layer></layers>
+</ppd>
+</document>

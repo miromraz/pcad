@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="elbow" t="" v="" n="EN 60617: 11-17-04" fG="cb3e945c-51d8-57b4-b47a-38cf1d16c54d" lG="6aa748a6-b45d-5b65-a5bb-e72b3cb2e88e">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-25,5,-25,-25,25,-25," op-lw="4"/>
+<polyline pts="-5,25,-5,-5,25,-5," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

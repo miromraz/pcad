@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="taper transition from circular to rectangular waveguide" t="" v="" n="EN 60617: 10-08-16" fG="fb17783a-9dcc-5a62-a50e-c23173e5f93e" lG="544e7bfc-36a4-597b-83f1-679537c1f310">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-50" top="-25" right="0" bottom="25" op-lw="4"/>
+<rect left="6" top="-55" right="50" bottom="55" op-lw="4"/>
+<polyline pts="0,-28,6,-55," op-lw="4"/>
+<polyline pts="0,28,6,55," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

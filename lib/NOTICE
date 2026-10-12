@@ -1,36 +1,49 @@
 Symbol library — attribution and licensing
 ==========================================
 
-Most symbols in this directory were derived from the QElectroTech elements
-collection, © The QElectroTech team, https://qelectrotech.org, licensed under
-the Creative Commons Attribution 3.0 License (CC-BY 3.0). They were converted
-to the ProfiCAD .ppd format and modified (rescaled, re-coordinated, outlets
-snapped to a 2 mm grid) by tools/qet2ppd.py.
+The symbols in this directory are an INDEPENDENT, CLEAN-ROOM drawing of the
+graphical symbols for diagrams defined by EN 60617 (= IEC 60617; Czech
+ČSN EN 60617). They are the original work of this project, © 2026 miromraz,
+and are released under the MIT License (see lib/LICENSE) — the same license as
+the code.
 
-CC-BY 3.0: http://creativecommons.org/licenses/by/3.0/
+Clean-room process
+------------------
+The drawings were produced without copying any other vendor's symbol drawings:
 
-The following clause from the QElectroTech ELEMENTS.LICENSE applies verbatim:
+  1. A facts-only specification was written for each symbol, recording ONLY
+     non-expressive facts drawn from the EN 60617 standard: the symbol's name,
+     the standard clause number, the ordered connection points (pin positions
+     and pin NUMBER order, so wiring matches the standard), the overall drawn
+     size, and any letters/markings the standard places inside the symbol
+     (e.g. "V", "M", "3~"). No drawing data — no primitives, polylines, arcs,
+     line widths, fills, fonts or text positions — was recorded or carried.
+  2. Separate drawing teams rendered those facts into ProfiCAD-format .ppd
+     files. The drawing teams had NO access to any third-party symbol library
+     and worked only from the facts specification.
 
-    Permission is not granted to use this software or any of the associated
-    files as sample data for the purposes of building machine learning models.
+Because the pin positions and pin-number order come from the EN 60617 facts,
+drawings made with this library carry the standard's connection numbering; the
+geometry (shapes, line widths, proportions, label placement) is this project's
+own and differs from any particular vendor's rendering.
 
-Our own drawings
-----------------
-The following symbols are original work, © 2026 miromraz, and are released
-under CC-BY 3.0 as well (so the whole lib/ tree is uniformly CC-BY 3.0):
+Own ICs and connection dot
+--------------------------
+The following are likewise original work, © 2026 miromraz, MIT-licensed, and
+were authored from public datasheet pinouts using generic IC geometry rules
+(see RE_NOTES.md §7):
 
-  lib/misc/junction dot.ppd
-  lib/misc/terminal.ppd
-  lib/misc/antenna.ppd
-  lib/meters/oscilloscope.ppd
-  lib/sources/AC voltage source.ppd
-  lib/sources/DC voltage source.ppd
-  lib/sources/generator adjustable AC.ppd
-  lib/sources/generator adjustable DC.ppd
+  lib/misc/junction dot.ppd          (filled connection dot)
   lib/ic/555.picd
   lib/ic/741 op-amp.picd
   lib/ic/LM358 dual op-amp.picd
   lib/ic/7400 quad NAND.picd
   lib/ic/7805 regulator.picd
 
-The .picd ICs were authored from public pinouts.
+Pin NAMES on the ICs use conventional datasheet labels.
+
+Trademark
+---------
+ProfiCAD is a trademark of its respective owner. This project is independent
+and unaffiliated; it only reads and writes the documented .sxe/.ppd/.picd file
+structures (file-format compatibility only).

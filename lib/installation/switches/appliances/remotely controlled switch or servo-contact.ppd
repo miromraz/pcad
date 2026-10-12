@@ -1,0 +1,20 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="remotely controlled switch or servo-contact" t="" v="" n="EN 60617: 211-07-13" fG="27a92456-4e53-5b0d-adfd-f73cb91909db" lG="3235b643-4f50-55e8-be96-e0b290f369a7">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-36,36,0,0," op-lw="4"/>
+<ellipse left="-4" top="-4" right="4" bottom="4" op-lw="2" op-fd="1"/>
+<polyline pts="0,0,29,-29," op-lw="4"/>
+<polyline pts="36,-36,29,-29," op-lw="4"/>
+<polyline pts="0,8,0,23," op-lw="4"/>
+<rect left="-10" top="25" right="10" bottom="37" op-lw="4"/>
+<polyline pts="-15,0,0,0," op-lw="4"/>
+<polyline pts="0,15,0,0," op-lw="4"/>
+<polyline pts="15,0,0,0," op-lw="4"/>
+<polyline pts="0,-15,0,0," op-lw="4"/>
+<outlet x="-15" y="0"/>
+<outlet x="0" y="15"/>
+<outlet x="15" y="0"/>
+<outlet x="0" y="-15"/>
+</layer></layers>
+</ppd>
+</document>

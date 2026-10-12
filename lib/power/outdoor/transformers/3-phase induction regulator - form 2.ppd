@@ -1,0 +1,30 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="3-phase induction regulator - form 2" t="" v="" n="EN 60617: 06-12-02" fG="ecb79248-e507-5351-b507-f8fbc0211daa" lG="23f48b09-7b90-5cb7-8394-15f68fc22214">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-140" top="-40" right="-100" bottom="0" op-lw="4"/>
+<ellipse left="-140" top="0" right="-100" bottom="40" op-lw="4"/>
+<ellipse left="-60" top="-40" right="-20" bottom="0" op-lw="4"/>
+<ellipse left="-60" top="0" right="-20" bottom="40" op-lw="4"/>
+<ellipse left="20" top="-40" right="60" bottom="0" op-lw="4"/>
+<ellipse left="20" top="0" right="60" bottom="40" op-lw="4"/>
+<ellipse left="80" top="-40" right="120" bottom="0" op-lw="4"/>
+<ellipse left="80" top="0" right="120" bottom="40" op-lw="4"/>
+<polyline pts="-120,-20,100,-20," op-lw="4"/>
+<polyline pts="-120,20,100,20," op-lw="4"/>
+<polyline pts="-120,40,-120,60," op-lw="4"/>
+<polyline pts="-40,40,-40,60," op-lw="4"/>
+<polyline pts="40,40,40,60," op-lw="4"/>
+<polyline pts="100,40,100,50," op-lw="4"/>
+<polyline pts="40,-40,40,-60," op-lw="4"/>
+<polyline pts="-40,-40,-40,-60," op-lw="4"/>
+<polyline pts="-120,-40,-120,-60," op-lw="4"/>
+<outlet x="-120" y="60"/>
+<outlet x="-40" y="60"/>
+<outlet x="40" y="60"/>
+<outlet x="100" y="50"/>
+<outlet x="40" y="-60"/>
+<outlet x="-40" y="-60"/>
+<outlet x="-120" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

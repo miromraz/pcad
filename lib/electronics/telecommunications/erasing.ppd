@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="erasing" t="" v="" n="EN 60617: 09-08-10" fG="ffac2613-c262-5ed1-a01c-b0bfe82d1cec" lG="c8beb861-1680-59df-a1a3-2ab6aae4e90e">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-10,-10,10,10," op-lw="4"/>
+<polyline pts="-10,10,10,-10," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="hydroelectric generating station - projected" t="" v="" n="EN 60617: 11-02-01" fG="a2c68b60-42c0-5ea6-a2fd-120501c99c25" lG="fe22fec3-807f-5e4e-9ff3-90781f392494">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="60,0,60,6,59,12,57,17,55,23," op-lw="4"/>
+<polyline pts="42,42,38,46,33,50,28,53,23,55," op-lw="4"/>
+<polyline pts="0,60,-6,60,-12,59,-17,57,-23,55," op-lw="4"/>
+<polyline pts="-42,42,-46,38,-50,33,-53,28,-55,23," op-lw="4"/>
+<polyline pts="-60,0,-60,-6,-59,-12,-57,-17,-55,-23," op-lw="4"/>
+<polyline pts="-42,-42,-38,-46,-33,-50,-28,-53,-23,-55," op-lw="4"/>
+<polyline pts="0,-60,6,-60,12,-59,17,-57,23,-55," op-lw="4"/>
+<polyline pts="42,-42,46,-38,50,-33,53,-28,55,-23," op-lw="4"/>
+<polyline pts="-35,10,-12,-10,12,10,35,-10," op-lw="2"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

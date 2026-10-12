@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="halogen headlight" t="" v="" n="EN 60617: 211-06-05" fG="c40b3f40-5ca7-5dc3-b0e5-576bc1515585" lG="78294ed8-f8ee-5fd0-8795-c69f23089a6b">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-34" top="-8" right="-18" bottom="8" op-lw="2" op-fd="1"/>
+<polyline pts="-29,-12,-29,12," op-lw="4"/>
+<polyline pts="-18,0,28,-26," op-lw="4"/>
+<polyline pts="-18,0,28,26," op-lw="4"/>
+<outlet x="0" y="30"/>
+<outlet x="0" y="-30"/>
+<outlet x="-30" y="0"/>
+</layer></layers>
+</ppd>
+</document>

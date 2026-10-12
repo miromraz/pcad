@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="thermistor" t="R" v="" n="EN 60617: 04-01-06" fG="18909522-713e-55a7-a2dd-bc35bc15f6a4" lG="4968659c-d837-559d-b8b4-8d6adc7201cc">
+<layers current="0"><layer name="0" v="1">
+<rect left="-9" top="-26" right="9" bottom="26" op-lw="4"/>
+<polyline pts="-19,24,19,-20," op-lw="4"/>
+<polyline pts="-19,24,-11,24," op-lw="4"/>
+<text x="0" y="-33" al="9" f="40,0,0,0,Arial,000000">θ</text>
+<outlet x="0" y="-25"/>
+<outlet x="0" y="25"/>
+</layer></layers>
+</ppd>
+</document>

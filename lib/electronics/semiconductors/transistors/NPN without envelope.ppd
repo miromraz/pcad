@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="NPN without envelope" t="T" v="" n="EN 60617: 05-04-01" fG="4800e384-b40e-5ba5-abd1-0ae87e137a01" lG="541687df-eb2f-5cb6-bc6e-2176a04a6666">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-6,-22,-6,22," op-lw="4"/>
+<polyline pts="-18,0,-6,0," op-lw="4"/>
+<polyline pts="-6,-12,20,-30," op-lw="4"/>
+<polyline pts="-6,12,20,30," op-lw="4"/>
+<polygon pts="20,30,5,27,12,17," op-lw="4" op-fd="1"/>
+<outlet x="-18" y="0"/>
+<outlet x="20" y="30"/>
+<outlet x="20" y="-30"/>
+</layer></layers>
+</ppd>
+</document>

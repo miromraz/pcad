@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="crossing of two systems without connection, for example two systems at different levels" t="" v="" n="EN 60617: 11-17-07" fG="0a2ddeaf-c00a-53aa-8e49-ce76c65872dc" lG="0edc0c9f-8016-52a3-8d83-9b7996f5daad">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-40,0,40," op-lw="4"/>
+<polyline pts="-40,0,-12,0," op-lw="4"/>
+<polyline pts="12,0,40,0," op-lw="4"/>
+<polyline pts="-12,0,-12,-3,-11,-5,-9,-7,-7,-9,-5,-11,-3,-12,0,-12,3,-12,5,-11,7,-9,9,-7,11,-5,12,-3,12,0," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

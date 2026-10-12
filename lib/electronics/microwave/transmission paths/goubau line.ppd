@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="goubau line" t="" v="" n="EN 60617: 10-07-08" fG="d884dcf1-b959-52ff-a189-d00d0274b3de" lG="44ce5cfa-7904-5905-9179-dad2c684a477">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-20,0,20,0," op-lw="4"/>
+<ellipse left="-18" top="-18" right="18" bottom="18" op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="AC power feeding on telecommunication lines" t="" v="" n="EN 60617: 11-03-11" fG="1471771e-5213-5ee5-a381-e4c5dbd7eb69" lG="9ffea3e1-4be8-5256-9e62-138d8fe3621c">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-14" top="-14" right="14" bottom="14" op-lw="4"/>
+<polyline pts="-9,0,-8,-2,-7,-4,-6,-5,-4,-5,-3,-5,-2,-4,-1,-2,0,0,1,2,2,4,3,5,4,5,6,5,7,4,8,2,9,0," op-lw="4"/>
+<polyline pts="0,-30,0,-14," op-lw="4"/>
+<polyline pts="0,14,0,30," op-lw="4"/>
+<polyline pts="-24,0,-14,0," op-lw="4"/>
+<polyline pts="14,0,24,0," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

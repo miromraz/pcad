@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="NC form 3" t="k" v="" n="IEC:9.2" fG="3320d3b9-5e86-5f51-bec2-bb8291f21c2c" lG="dbdce3cc-902a-5c07-85d7-2bc6adfb403c">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-46,0,-16,0," op-lw="4"/>
+<polyline pts="46,0,16,0," op-lw="4"/>
+<polyline pts="-16,0,16,0," op-lw="4"/>
+<polyline pts="2,-12,2,12," op-lw="4"/>
+<outlet x="-46" y="0"/>
+<outlet x="46" y="0"/>
+</layer></layers>
+</ppd>
+</document>

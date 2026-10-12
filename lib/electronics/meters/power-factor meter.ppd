@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="power-factor meter" t="MP" v="" n="EN 60617: 08-02-05" fG="71c24dea-0377-57e1-b445-bb1d766f6921" lG="0afbfdfc-bec5-5e85-8b4d-5148a5031781">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<text x="0" y="0" al="9" f="62,0,0,0,Arial,000000">cos φ</text>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

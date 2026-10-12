@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="AC voltage source" t="" v="" n="EN 60617: 08-12-15" fG="18f00779-4e4e-5cb0-bf3a-b6b5d3fe9aec" lG="2a58dbe4-7580-56a2-a5df-0012c1480145">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="-22,0,-19,-5,-16,-8,-14,-11,-11,-12,-8,-11,-6,-8,-3,-5,0,0,3,5,6,8,8,11,11,12,14,11,16,8,19,5,22,0," op-lw="4"/>
+<outlet x="0" y="-40"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

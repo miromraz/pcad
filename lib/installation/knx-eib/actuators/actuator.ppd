@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="actuator" t="" v="" n="EN 60617: 10-17-04" fG="09fecd29-9c04-54dc-89aa-65c32a15c5c8" lG="615fa2f0-cad9-51b4-880d-d3c777d91680">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<polygon pts="-16,-14,16,-14,0,14," op-lw="4" op-fd="1"/>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

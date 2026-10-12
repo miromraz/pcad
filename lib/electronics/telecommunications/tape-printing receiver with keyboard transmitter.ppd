@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="tape-printing receiver with keyboard transmitter" t="volic" v="" n="EN 60617: 09-06-03" fG="66e198f8-6ada-5887-b698-15f2b3a32a20" lG="5e65b2e8-872d-5577-ae21-963833c07f5a">
+<layers current="0"><layer name="0" v="1">
+<rect left="-50" top="-55" right="50" bottom="55" op-lw="4"/>
+<polyline pts="-36,39,36,39," op-lw="4"/>
+<ellipse left="-34" top="-1" right="-26" bottom="7" op-lw="2" op-fd="1"/>
+<ellipse left="-19" top="-1" right="-11" bottom="7" op-lw="2" op-fd="1"/>
+<ellipse left="-4" top="-1" right="4" bottom="7" op-lw="2" op-fd="1"/>
+<ellipse left="11" top="-1" right="19" bottom="7" op-lw="2" op-fd="1"/>
+<ellipse left="26" top="-1" right="34" bottom="7" op-lw="2" op-fd="1"/>
+<ellipse left="-34" top="13" right="-26" bottom="21" op-lw="2" op-fd="1"/>
+<ellipse left="-19" top="13" right="-11" bottom="21" op-lw="2" op-fd="1"/>
+<ellipse left="-4" top="13" right="4" bottom="21" op-lw="2" op-fd="1"/>
+<ellipse left="11" top="13" right="19" bottom="21" op-lw="2" op-fd="1"/>
+<ellipse left="26" top="13" right="34" bottom="21" op-lw="2" op-fd="1"/>
+
+</layer></layers>
+</ppd>
+</document>

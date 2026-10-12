@@ -1,0 +1,62 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="residual current device 1P block" t="" v="" n="EN 60617: 07-13-10" fG="9f2ad475-15d7-50fb-abcb-ead375ae8945" lG="23042525-2fa2-55fe-a526-7dd3f262eb9b">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,-60,-35,-60," op-lw="2"/>
+<polyline pts="-31,-60,-26,-60," op-lw="2"/>
+<polyline pts="-22,-60,-17,-60," op-lw="2"/>
+<polyline pts="-13,-60,-8,-60," op-lw="2"/>
+<polyline pts="-4,-60,1,-60," op-lw="2"/>
+<polyline pts="5,-60,10,-60," op-lw="2"/>
+<polyline pts="14,-60,19,-60," op-lw="2"/>
+<polyline pts="23,-60,28,-60," op-lw="2"/>
+<polyline pts="32,-60,37,-60," op-lw="2"/>
+<polyline pts="40,-60,40,-55," op-lw="2"/>
+<polyline pts="40,-51,40,-46," op-lw="2"/>
+<polyline pts="40,-42,40,-37," op-lw="2"/>
+<polyline pts="40,-33,40,-28," op-lw="2"/>
+<polyline pts="40,-24,40,-19," op-lw="2"/>
+<polyline pts="40,-15,40,-10," op-lw="2"/>
+<polyline pts="40,-6,40,-1," op-lw="2"/>
+<polyline pts="40,3,40,8," op-lw="2"/>
+<polyline pts="40,12,40,17," op-lw="2"/>
+<polyline pts="40,21,40,26," op-lw="2"/>
+<polyline pts="40,30,40,35," op-lw="2"/>
+<polyline pts="40,39,40,44," op-lw="2"/>
+<polyline pts="40,48,40,53," op-lw="2"/>
+<polyline pts="40,57,40,60," op-lw="2"/>
+<polyline pts="40,60,35,60," op-lw="2"/>
+<polyline pts="31,60,26,60," op-lw="2"/>
+<polyline pts="22,60,17,60," op-lw="2"/>
+<polyline pts="13,60,8,60," op-lw="2"/>
+<polyline pts="4,60,-1,60," op-lw="2"/>
+<polyline pts="-5,60,-10,60," op-lw="2"/>
+<polyline pts="-14,60,-19,60," op-lw="2"/>
+<polyline pts="-23,60,-28,60," op-lw="2"/>
+<polyline pts="-32,60,-37,60," op-lw="2"/>
+<polyline pts="-40,60,-40,55," op-lw="2"/>
+<polyline pts="-40,51,-40,46," op-lw="2"/>
+<polyline pts="-40,42,-40,37," op-lw="2"/>
+<polyline pts="-40,33,-40,28," op-lw="2"/>
+<polyline pts="-40,24,-40,19," op-lw="2"/>
+<polyline pts="-40,15,-40,10," op-lw="2"/>
+<polyline pts="-40,6,-40,1," op-lw="2"/>
+<polyline pts="-40,-3,-40,-8," op-lw="2"/>
+<polyline pts="-40,-12,-40,-17," op-lw="2"/>
+<polyline pts="-40,-21,-40,-26," op-lw="2"/>
+<polyline pts="-40,-30,-40,-35," op-lw="2"/>
+<polyline pts="-40,-39,-40,-44," op-lw="2"/>
+<polyline pts="-40,-48,-40,-53," op-lw="2"/>
+<polyline pts="-40,-57,-40,-60," op-lw="2"/>
+<polyline pts="-20,-60,-20,60," op-lw="4"/>
+<polyline pts="20,-60,20,60," op-lw="4"/>
+<ellipse left="-32" top="-14" right="32" bottom="14" op-lw="2"/>
+<text x="-20" y="-42" al="9" f="36,0,0,0,Arial,000000">1</text>
+<text x="-20" y="42" al="9" f="36,0,0,0,Arial,000000">N</text>
+<text x="20" y="-42" al="9" f="36,0,0,0,Arial,000000">2</text>
+<outlet x="-20" y="-60"/>
+<outlet x="-20" y="60"/>
+<outlet x="20" y="-60"/>
+<outlet x="20" y="60"/>
+</layer></layers>
+</ppd>
+</document>

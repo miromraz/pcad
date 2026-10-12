@@ -1,0 +1,8 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="for short circuit current up to 10kA" t="" v="" n="EN 60617: 07-13-10" fG="23bb5f14-31b3-52c0-b60a-fcc474f14dcc" lG="6b85225c-3933-5c41-98f2-4a411ddd9ffe">
+<layers current="0"><layer name="0" v="1">
+<rect left="-155" top="-22" right="155" bottom="22" op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

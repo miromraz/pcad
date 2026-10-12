@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="voltage transformer - form 2" t="" v="" n="EN 60617: 06-13-01B" fG="3f56f4ed-6516-5ced-adf9-e65a9811fcab" lG="c8ccb668-b29a-5ade-837a-02fece197cfa">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-20,0,20,0," op-lw="4"/>
+<ellipse left="-20" top="-10" right="0" bottom="10" op-lw="4"/>
+<ellipse left="0" top="-10" right="20" bottom="10" op-lw="4"/>
+<polyline pts="-20,0,-20,20," op-lw="4"/>
+<polyline pts="20,0,20,20," op-lw="4"/>
+<polyline pts="20,0,20,-20," op-lw="4"/>
+<polyline pts="-20,0,-20,-20," op-lw="4"/>
+<outlet x="-20" y="20"/>
+<outlet x="20" y="20"/>
+<outlet x="20" y="-20"/>
+<outlet x="-20" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

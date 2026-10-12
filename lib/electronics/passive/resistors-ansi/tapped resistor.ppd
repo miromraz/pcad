@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="tapped resistor" t="R" v="" n="IEC:2.1.2" fG="cfe3036b-4ecc-5663-b1ae-da189547ebe6" lG="4330e35a-c56d-53c8-bf8a-4d11a705b5ec">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-20,10,-17,-10,-10,10,-3,-10,3,10,10,-10,17,0,20," op-lw="4"/>
+<polyline pts="0,20,0,30," op-lw="4"/>
+<polyline pts="0,-20,0,-30," op-lw="4"/>
+<polyline pts="0,15,10,15," op-lw="4"/>
+<polyline pts="0,-5,10,-5," op-lw="4"/>
+<outlet x="0" y="30"/>
+<outlet x="0" y="-30"/>
+<outlet x="10" y="15"/>
+<outlet x="10" y="-5"/>
+</layer></layers>
+</ppd>
+</document>

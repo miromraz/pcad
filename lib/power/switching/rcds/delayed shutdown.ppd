@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="delayed shutdown" t="" v="" n="EN 60617: 07-13-10" fG="59d89f0c-8f74-51d0-9571-d1a23ca5bc41" lG="078d7d02-8dea-5b17-a792-5d6c20c5fa12">
+<layers current="0"><layer name="0" v="1">
+<rect left="-30" top="-30" right="30" bottom="30" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">G</text>
+
+</layer></layers>
+</ppd>
+</document>

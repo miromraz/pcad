@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="combined recording wattmeter and varmeter" t="" v="" n="EN 60617: 08-03-02" fG="9e61a113-a8d8-50b1-b9f8-e24d0a74b6ee" lG="510b98a3-e293-5bcf-a07d-545f61b67c34">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="-40,0,-80,0," op-lw="4"/>
+<polyline pts="40,0,80,0," op-lw="4"/>
+<text x="0" y="-16" al="9" f="69,0,0,0,Arial,000000">W</text>
+<text x="0" y="16" al="9" f="69,0,0,0,Arial,000000">var</text>
+<outlet x="-80" y="0"/>
+<outlet x="80" y="0"/>
+</layer></layers>
+</ppd>
+</document>

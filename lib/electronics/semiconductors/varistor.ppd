@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="varistor" t="trsl" v="" n="EN 60617: 04-01-04" fG="aec891c9-942f-5c32-ac7e-2079e6b5d52a" lG="9f7d5ddc-8d01-55de-8906-09bf64dcb144">
+<layers current="0"><layer name="0" v="1">
+<rect left="-9" top="-22" right="9" bottom="22" op-lw="4"/>
+<polyline pts="-21,22,21,-22," op-lw="4"/>
+<polyline pts="-21,22,-21,14," op-lw="4"/>
+<polyline pts="0,-22,0,-25," op-lw="4"/>
+<polyline pts="0,22,0,25," op-lw="4"/>
+<outlet x="0" y="-25"/>
+<outlet x="0" y="25"/>
+</layer></layers>
+</ppd>
+</document>

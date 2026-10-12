@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="watt-hour meter measuring energy transmitted in one direction only" t="" v="" n="EN 60617: 08-04-04" fG="82b0b33a-6bf0-53e2-b9d4-d8d8f9ce718c" lG="c9d4deda-ef1d-57f7-aac0-13e48603cff9">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-60" right="40" bottom="60" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">Wh</text>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

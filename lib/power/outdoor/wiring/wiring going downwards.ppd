@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="wiring going downwards" t="" v="" n="EN 60617: 11-12-02" fG="5ef2996b-6297-54c4-9896-255877b892f1" lG="c80480f4-f120-56cc-971f-df3c4e4a11e4">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-19" top="-19" right="19" bottom="19" op-lw="4"/>
+<polyline pts="0,-15,0,21," op-lw="4"/>
+<polygon pts="0,21,-6,7,6,7," op-lw="4" op-fd="1"/>
+
+</layer></layers>
+</ppd>
+</document>

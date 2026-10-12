@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="phototranzistor" t="T" v="" n="EN 60617: 05-06-03" fG="7cd0aa95-5026-51c1-a73a-436cb3587a1a" lG="fe7ab6b4-22d1-503c-aef0-9f0409e1657d">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-20" top="-34" right="48" bottom="34" op-lw="4"/>
+<polyline pts="-8,-22,-8,22," op-lw="4"/>
+<polyline pts="-8,-8,20,-30," op-lw="4"/>
+<polyline pts="-8,8,20,30," op-lw="4"/>
+<polygon pts="20,30,5,26,13,17," op-lw="4" op-fd="1"/>
+<polyline pts="-56,-22,-24,-6," op-lw="4"/>
+<polygon pts="-24,-6,-39,-7,-34,-18," op-lw="4" op-fd="1"/>
+<polyline pts="-44,-30,-12,-14," op-lw="4"/>
+<polygon pts="-12,-14,-27,-15,-22,-26," op-lw="4" op-fd="1"/>
+<outlet x="20" y="30"/>
+<outlet x="20" y="-30"/>
+</layer></layers>
+</ppd>
+</document>

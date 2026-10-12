@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="antenna with direction of radiation variable in azimuth" t="" v="" n="EN 60617: 10-04-03" fG="29cd73f9-7503-59fd-a298-e2242d5d5c59" lG="7bec929c-61dd-53e0-b945-8aab484d761a">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,28,0,-16," op-lw="4"/>
+<polyline pts="0,-16,-20,-52," op-lw="4"/>
+<polyline pts="0,-16,20,-52," op-lw="4"/>
+<arc left="-36" top="12" right="36" bottom="40" bX="-36" bY="0" eX="36" eY="0" op-lw="4"/>
+<polygon pts="36,26,31,16,41,16," op-lw="4" op-fd="1"/>
+<outlet x="0" y="28"/>
+</layer></layers>
+</ppd>
+</document>

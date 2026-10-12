@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="infloor duplex receptable outlet" t="" v="" n="EN 60617: 211-06-02" fG="d810a320-9cef-5a3c-835a-593878e67893" lG="fc407733-3a9d-5d0a-83cd-31b8d92d5c4e">
+<layers current="0"><layer name="0" v="1">
+<rect left="-27" top="-27" right="27" bottom="27" op-lw="4"/>
+<ellipse left="-21" top="-21" right="21" bottom="21" op-lw="4"/>
+<polyline pts="-21,0,21,0," op-lw="4"/>
+<polyline pts="-7,-9,-7,9," op-lw="4"/>
+<polyline pts="7,-9,7,9," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

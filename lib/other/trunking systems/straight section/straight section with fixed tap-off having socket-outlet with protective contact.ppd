@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="straight section with fixed tap-off having socket-outlet with protective contact" t="" v="" n="EN 60617: 11-17-31" fG="99d11555-8168-53ec-bb97-d0fa87ebd360" lG="ca13581e-412c-57ab-92eb-91582484a8f4">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-80,-50,80,-50," op-lw="4"/>
+<polyline pts="-80,-30,80,-30," op-lw="4"/>
+<polyline pts="0,-40,0,-22," op-lw="4"/>
+<ellipse left="-4" top="-44" right="4" bottom="-36" op-lw="2" op-fd="1"/>
+<polyline pts="0,-22,0,24," op-lw="4"/>
+<polyline pts="26,24,25,30,23,35,20,40,16,44,11,47,6,49,0,50,-6,49,-11,47,-16,44,-20,40,-23,35,-25,30,-26,24," op-lw="4"/>
+<polyline pts="-26,24,26,24," op-lw="4"/>
+<polyline pts="-34,24,-26,24," op-lw="4"/>
+<polyline pts="26,24,34,24," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="J FET N" t="T" v="" n="60617:05-05-09" fG="efe7ab09-f3c3-5680-891b-5d3c7ba71116" lG="5079e7bf-e8ca-5305-ac23-0248ff97bb9f">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-50" top="-50" right="50" bottom="50" op-lw="4"/>
+<polyline pts="0,-28,0,28," op-lw="6"/>
+<polyline pts="0,-21,46,-21," op-lw="4"/>
+<polyline pts="0,21,46,21," op-lw="4"/>
+<polyline pts="-46,21,-2,21," op-lw="4"/>
+<polygon pts="0,21,-12,27,-12,15," op-lw="4" op-fd="1"/>
+<outlet x="-46" y="21"/>
+<outlet x="46" y="21"/>
+<outlet x="46" y="-21"/>
+</layer></layers>
+</ppd>
+</document>

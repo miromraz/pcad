@@ -13,165 +13,142 @@
    "y": 60
   },
   {
-   "sym": "passive/resistor",
+   "sym": "electronics/passive/resistors/resistor",
    "ref": "R1",
    "val": "10k",
-   "x": 112,
-   "y": 46
+   "x": 118,
+   "y": 40
   },
   {
-   "sym": "passive/resistor",
+   "sym": "electronics/passive/resistors/resistor",
    "ref": "R2",
    "val": "47k",
-   "x": 112,
+   "x": 118,
+   "y": 74
+  },
+  {
+   "sym": "electronics/passive/capacitors/capacitor",
+   "ref": "C1",
+   "val": "10n",
+   "x": 94,
+   "y": 104
+  },
+  {
+   "sym": "electronics/passive/resistors/resistor",
+   "ref": "R3",
+   "val": "330R",
+   "x": 30,
    "y": 78
   },
   {
-   "sym": "passive/capacitor",
-   "ref": "C1",
-   "val": "10n",
-   "x": 70,
-   "y": 110
-  },
-  {
-   "sym": "passive/resistor",
-   "ref": "R3",
-   "val": "330R",
-   "x": 36,
-   "y": 62,
+   "sym": "electronics/semiconductors/diodes/LED",
+   "ref": "D1",
+   "val": "LED",
+   "x": 30,
+   "y": 100,
    "rot": 90
   },
   {
-   "sym": "semiconductors/LED",
-   "ref": "D1",
-   "val": "LED",
-   "x": 14,
-   "y": 62,
-   "rot": -90
-  },
-  {
-   "sym": "power/ground",
+   "sym": "electronics/mechanical/construction elements/earth, ground",
    "ref": "GNDp",
-   "x": 50,
-   "y": 80,
+   "x": 36,
+   "y": 88,
    "hide_ref": true
   },
   {
-   "sym": "power/ground",
+   "sym": "electronics/mechanical/construction elements/earth, ground",
    "ref": "GNDc",
-   "x": 70,
-   "y": 124,
+   "x": 94,
+   "y": 118,
    "hide_ref": true
   },
   {
-   "sym": "power/ground",
+   "sym": "electronics/mechanical/construction elements/earth, ground",
    "ref": "GNDd",
-   "x": 6,
-   "y": 78,
+   "x": 30,
+   "y": 118,
    "hide_ref": true
   }
  ],
  "wires": [
   [
-   [
-    46,
-    32
-   ],
-   [
-    112,
-    32
-   ]
-  ],
-  [
    "U1.8",
    [
     82,
-    32
-   ]
+    22
+   ],
+   [
+    118,
+    22
+   ],
+   "R1.1"
   ],
   [
    "U1.4",
    [
-    46,
+    52,
     66
    ],
    [
-    46,
-    32
+    52,
+    22
+   ],
+   [
+    82,
+    22
    ]
   ],
   [
    "R1.2",
-   [
-    112,
-    32
-   ]
-  ],
-  [
-   "U1.1",
-   [
-    50,
-    54
-   ],
-   "GNDp.1"
-  ],
-  [
-   "R1.1",
-   "R2.2"
+   "R2.1"
   ],
   [
    "U1.7",
    [
-    112,
+    118,
     58
+   ]
+  ],
+  [
+   "R2.2",
+   [
+    118,
+    92
+   ],
+   [
+    94,
+    92
+   ],
+   "C1.1"
+  ],
+  [
+   "U1.6",
+   [
+    106,
+    62
+   ],
+   [
+    106,
+    92
+   ],
+   [
+    94,
+    92
    ]
   ],
   [
    "U1.2",
    [
-    54,
+    40,
     58
    ],
    [
-    54,
-    98
+    40,
+    92
    ],
    [
-    70,
-    98
-   ]
-  ],
-  [
-   "U1.6",
-   [
-    92,
-    62
-   ],
-   [
-    92,
-    98
-   ],
-   [
-    70,
-    98
-   ]
-  ],
-  [
-   "R2.1",
-   [
-    112,
-    98
-   ],
-   [
-    70,
-    98
-   ]
-  ],
-  [
-   "C1.1",
-   [
-    70,
-    98
+    94,
+    92
    ]
   ],
   [
@@ -179,15 +156,31 @@
    "GNDc.1"
   ],
   [
+   "U1.1",
+   [
+    36,
+    54
+   ],
+   "GNDp.1"
+  ],
+  [
    "U1.3",
+   [
+    44,
+    62
+   ],
+   [
+    44,
+    75.5
+   ],
    "R3.1"
   ],
   [
    "R3.2",
-   "D1.1"
+   "D1.2"
   ],
   [
-   "D1.2",
+   "D1.1",
    "GNDd.1"
   ]
  ]

@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="audio intercommunication equipment (entry phone)" t="" v="" n="EN 60617: 11-16-05" fG="3b37b867-b1ef-5fd1-b042-3fd76a393715" lG="9730ec46-478b-5488-ad0d-5dca89b73736">
+<layers current="0"><layer name="0" v="1">
+<rect left="-50" top="-30" right="50" bottom="30" op-lw="4"/>
+<polyline pts="-10,6,-10,4,-9,2,-8,0,-7,-1,-6,-2,-4,-3,-2,-4,0,-4,2,-4,4,-3,6,-2,7,-1,8,0,9,2,10,4,10,6," op-lw="4"/>
+<polyline pts="-10,6,10,6," op-lw="4"/>
+<ellipse left="-2" top="8" right="2" bottom="12" op-lw="2" op-fd="1"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="-30"/>
+<outlet x="0" y="30"/>
+</layer></layers>
+</ppd>
+</document>

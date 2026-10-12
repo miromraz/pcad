@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="disc type" t="" v="" n="EN 60617: 09-08-05" fG="21bed3a3-deb1-5b95-806c-2d42dd940419" lG="a41f0f60-c138-5ba3-a594-35a29d23fb5a">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-26" top="-26" right="26" bottom="26" op-lw="4"/>
+<ellipse left="-5" top="-5" right="5" bottom="5" op-lw="4"/>
+<polyline pts="0,-5,0,-26," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

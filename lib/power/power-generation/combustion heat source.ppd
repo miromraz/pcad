@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="combustion heat source" t="" v="" n="EN 60617: 06-17-03" fG="56beb059-14ea-51d3-a521-eda5ce589a5c" lG="ebade655-5680-5701-8c90-859b48683672">
+<layers current="0"><layer name="0" v="1">
+<rect left="-80" top="-60" right="80" bottom="60" op-lw="4"/>
+<polyline pts="-12,18,0,-18,12,18," op-lw="4"/>
+<outlet x="-80" y="0"/>
+<outlet x="80" y="0"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

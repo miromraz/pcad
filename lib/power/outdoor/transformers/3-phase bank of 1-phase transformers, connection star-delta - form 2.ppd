@@ -1,0 +1,30 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="3-phase bank of 1-phase transformers, connection star-delta - form 2" t="" v="" n="EN 60617: 06-10-12" fG="df230156-c0e1-5550-868f-7223dc8be53f" lG="531133a6-cd23-5a9f-a0d6-06cbcfd7550f">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-120" top="-34" right="-100" bottom="-14" op-lw="4"/>
+<ellipse left="-120" top="14" right="-100" bottom="34" op-lw="4"/>
+<ellipse left="-40" top="-34" right="-20" bottom="-14" op-lw="4"/>
+<ellipse left="-40" top="14" right="-20" bottom="34" op-lw="4"/>
+<ellipse left="40" top="-34" right="60" bottom="-14" op-lw="4"/>
+<ellipse left="40" top="14" right="60" bottom="34" op-lw="4"/>
+<ellipse left="100" top="-34" right="120" bottom="-14" op-lw="4"/>
+<ellipse left="100" top="14" right="120" bottom="34" op-lw="4"/>
+<polyline pts="-110,-24,110,-24," op-lw="4"/>
+<polyline pts="-110,24,110,24," op-lw="4"/>
+<polyline pts="-110,34,-110,80," op-lw="4"/>
+<polyline pts="-30,34,-30,80," op-lw="4"/>
+<polyline pts="50,34,50,80," op-lw="4"/>
+<polyline pts="110,-34,110,-40," op-lw="4"/>
+<polyline pts="50,-34,50,-60," op-lw="4"/>
+<polyline pts="-30,-34,-30,-60," op-lw="4"/>
+<polyline pts="-110,-34,-110,-60," op-lw="4"/>
+<outlet x="-110" y="80"/>
+<outlet x="-30" y="80"/>
+<outlet x="50" y="80"/>
+<outlet x="110" y="-40"/>
+<outlet x="50" y="-60"/>
+<outlet x="-30" y="-60"/>
+<outlet x="-110" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

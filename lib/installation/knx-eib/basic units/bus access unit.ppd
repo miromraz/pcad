@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="bus access unit" t="" v="" n="EN 60617: 10-17-04" fG="be89c48e-eb33-5a5d-9572-d859426cdece" lG="656ae216-bc42-5c13-a039-4c4900338548">
+<layers current="0"><layer name="0" v="1">
+<rect left="-18" top="-72" right="18" bottom="72" op-lw="4"/>
+<ellipse left="-6" top="-6" right="6" bottom="6" op-lw="2" op-fd="1"/>
+<outlet x="-18" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="18" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

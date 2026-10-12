@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="current transformer with 2 sec. windings on the same core and 9 threaded primary conductors - form 1" t="" v="" n="EN 60617: 06-13-12" fG="7d6b35a3-a4e0-5a23-85b2-87132a20e4c9" lG="4bb501c3-af4f-53c8-957f-2a0545e74df7">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-30" top="-30" right="30" bottom="30" op-lw="4"/>
+<polyline pts="0,-80,0,80," op-lw="4"/>
+<polyline pts="28,-11,80,-30," op-lw="4"/>
+<polyline pts="28,11,80,30," op-lw="4"/>
+<text x="0" y="0" al="9" f="73,0,0,0,Arial,000000">9</text>
+<outlet x="0" y="-80"/>
+<outlet x="0" y="80"/>
+<outlet x="80" y="-30"/>
+<outlet x="80" y="30"/>
+</layer></layers>
+</ppd>
+</document>

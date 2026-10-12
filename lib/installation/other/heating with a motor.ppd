@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="heating with a motor" t="" v="" n="EN 60617: 211-10-03" fG="45c34df0-502e-5217-90ee-7580153988ce" lG="13cedd4b-7695-59c9-af66-8a1faa512f17">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-20" right="40" bottom="20" op-lw="4"/>
+<ellipse left="-12" top="-12" right="12" bottom="12" op-lw="4"/>
+<text x="0" y="0" al="9" f="62,0,0,0,Arial,000000">M</text>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="20"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="break c. delayed when containing device de-activated" t="" v="" n="EN 60617: 07-05-04" fG="5c685083-46e1-5241-9f44-41fbff93ca86" lG="95c8b795-7903-5bd6-bbac-bed702444182">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,59,-18," op-lw="4"/>
+<polyline pts="0,-18,59,-18," op-lw="4"/>
+<polyline pts="59,-25,59,-11," op-lw="4"/>
+<polyline pts="18,0,19,-2,20,-5,21,-7,23,-9,25,-10,27,-11,29,-11,32,-11,34,-10,36,-9,38,-7,39,-5,40,-2,40,0," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

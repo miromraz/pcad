@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="band-pass filter switched by gas discharge" t="" v="" n="EN 60617: 10-08-18" fG="a7fc777b-f248-5e88-a3c5-4b72b06e554f" lG="144b794b-44b2-5a33-9109-c1749641e816">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-60,0,60,0," op-lw="4"/>
+<rect left="-30" top="-52" right="30" bottom="10" op-lw="4"/>
+<ellipse left="-30" top="70" right="30" bottom="130" op-lw="4"/>
+<polyline pts="0,10,0,70," op-lw="4"/>
+<polyline pts="-40,80,-15,80," op-lw="4"/>
+<polyline pts="40,80,15,80," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+<outlet x="-40" y="80"/>
+<outlet x="40" y="80"/>
+</layer></layers>
+</ppd>
+</document>

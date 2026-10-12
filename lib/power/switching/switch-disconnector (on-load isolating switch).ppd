@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="switch-disconnector (on-load isolating switch)" t="k" v="" n="EN 60617: 07-13-08" fG="add8e402-76a9-51e2-bae0-3b0cb1f66cd8" lG="b098ba97-f078-5004-b5d3-7e44d4fd06af">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,23,-18," op-lw="4"/>
+<polyline pts="12,-18,34,-18," op-lw="4"/>
+<polyline pts="20,0,20,2,20,4,19,6,17,7,15,8,14,9,12,9,9,9,8,8,6,7,4,6,3,4,3,2,2,0," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

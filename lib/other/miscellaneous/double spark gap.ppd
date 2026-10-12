@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="double spark gap" t="" v="" n="EN 60617: 07-22-02" fG="62fb867e-4de2-57f8-a9dc-808c742c63f5" lG="8b8ad7c7-9af5-557a-93a0-9b2fa787c179">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-40,0,-22," op-lw="4"/>
+<polyline pts="0,40,0,22," op-lw="4"/>
+<polyline pts="-10,0,10,0," op-lw="4"/>
+<polyline pts="-20,0,-10,0," op-lw="4"/>
+<polygon pts="0,-22,-5,-32,5,-32," op-lw="4" op-fd="1"/>
+<polygon pts="0,-6,-5,4,5,4," op-lw="4" op-fd="1"/>
+<polygon pts="0,6,-5,-4,5,-4," op-lw="4" op-fd="1"/>
+<polygon pts="0,22,-5,32,5,32," op-lw="4" op-fd="1"/>
+<outlet x="0" y="-40"/>
+<outlet x="0" y="40"/>
+<outlet x="-20" y="0"/>
+</layer></layers>
+</ppd>
+</document>

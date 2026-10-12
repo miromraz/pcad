@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="NAND 4" t="" v="" n="EN 60617: 12-05-02" fG="6902c92b-3a4b-5488-a4db-36f0c332c410" lG="a39a0dc8-c9e1-5db9-a9b8-dab9f9e67786">
+<layers current="0"><layer name="0" v="1">
+<rect left="-50" top="-78" right="50" bottom="78" op-lw="4"/>
+<polyline pts="-50,60,-80,60," op-lw="4"/>
+<polyline pts="-50,20,-80,20," op-lw="4"/>
+<polyline pts="-50,-60,-80,-60," op-lw="4"/>
+<polyline pts="-50,-20,-80,-20," op-lw="4"/>
+<text x="0" y="0" al="9" f="60,0,0,0,Arial,000000">&amp;</text>
+<ellipse left="50" top="-8" right="66" bottom="8" op-lw="4"/>
+<polyline pts="66,0,80,0," op-lw="4"/>
+<outlet x="-80" y="60"/>
+<outlet x="-80" y="20"/>
+<outlet x="80" y="0"/>
+<outlet x="-80" y="-60"/>
+<outlet x="-80" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

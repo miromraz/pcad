@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="oscillograph" t="" v="" n="EN 60617: 08-03-03" fG="44f102f5-f4df-5dd0-aac9-989dd57f1a49" lG="20731ebe-4cd1-510b-9ffe-805d2db312bf">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="-24,-5,-21,-9,-18,-13,-15,-16,-12,-17,-9,-16,-6,-13,-3,-9,0,-5,3,0,6,4,9,6,12,7,15,6,18,4,21,0,24,-5," op-lw="4"/>
+<polyline pts="-22,22,22,22," op-lw="2"/>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

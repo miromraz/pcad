@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="starter for fluorescent lamp" t="" v="" n="EN 60617: 07-09-04" fG="425da577-b0a8-563d-8cdc-7e720cae9cbe" lG="1eede471-fa82-50b9-98ba-1efc6d7b28f8">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-46" top="-46" right="46" bottom="46" op-lw="4"/>
+<polyline pts="0,-50,0,-46," op-lw="4"/>
+<polyline pts="0,50,0,44," op-lw="4"/>
+<polyline pts="-12,-10,12,10," op-lw="4"/>
+<ellipse left="-16" top="-14" right="-8" bottom="-6" op-lw="2" op-fd="1"/>
+<ellipse left="8" top="6" right="16" bottom="14" op-lw="2" op-fd="1"/>
+<outlet x="0" y="-50"/>
+<outlet x="0" y="50"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,32 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="make contact of a contactor" t="k" v="" n="EN 60617: 07-13-02" fG="97ac0675-2661-5cbf-9367-bdf1712c06db" lG="c629a27e-dbd2-5ad8-9d59-24b225166fe5">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,-60,-40,-18," op-lw="4"/>
+<polyline pts="-40,60,-40,18," op-lw="4"/>
+<polyline pts="-40,18,-6,-18," op-lw="4"/>
+<polyline pts="-15,-11,-15,-13,-14,-15,-13,-17,-12,-18,-10,-19,-8,-20,-6,-20,-4,-20,-2,-19,0,-18,1,-17,2,-15,3,-13,3,-11," op-lw="4"/>
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,34,-18," op-lw="4"/>
+<polyline pts="25,-11,25,-13,26,-15,27,-17,28,-18,30,-19,32,-20,34,-20,36,-20,38,-19,40,-18,41,-17,42,-15,43,-13,43,-11," op-lw="4"/>
+<polyline pts="40,-60,40,-18," op-lw="4"/>
+<polyline pts="40,60,40,18," op-lw="4"/>
+<polyline pts="40,18,74,-18," op-lw="4"/>
+<polyline pts="65,-11,65,-13,66,-15,67,-17,68,-18,70,-19,72,-20,74,-20,76,-20,78,-19,80,-18,81,-17,82,-15,83,-13,83,-11," op-lw="4"/>
+<polyline pts="-6,-18,0,-18," op-lw="2"/>
+<polyline pts="4,-18,10,-18," op-lw="2"/>
+<polyline pts="14,-18,20,-18," op-lw="2"/>
+<polyline pts="24,-18,30,-18," op-lw="2"/>
+<polyline pts="34,-18,40,-18," op-lw="2"/>
+<polyline pts="44,-18,50,-18," op-lw="2"/>
+<polyline pts="54,-18,60,-18," op-lw="2"/>
+<polyline pts="64,-18,70,-18," op-lw="2"/>
+<outlet x="-40" y="60"/>
+<outlet x="0" y="60"/>
+<outlet x="40" y="60"/>
+<outlet x="40" y="-60"/>
+<outlet x="0" y="-60"/>
+<outlet x="-40" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

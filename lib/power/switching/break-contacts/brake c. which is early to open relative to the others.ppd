@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="brake c. which is early to open relative to the others" t="" v="" n="EN 60617: 07-04-04" fG="9578e452-7fb5-5a68-8c5b-a9a7381e3131" lG="ab0738a8-288d-5b8a-adce-61ba6b5086e6">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,33,-18," op-lw="4"/>
+<polyline pts="0,-18,33,-18," op-lw="4"/>
+<polyline pts="33,-25,33,-11," op-lw="4"/>
+<polyline pts="6,-4,26,-4," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

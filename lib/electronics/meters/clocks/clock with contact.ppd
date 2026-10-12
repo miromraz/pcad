@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="clock with contact" t="" v="" n="EN 60617: 08-08-03" fG="1e9fb8f7-aec1-59d6-b2af-5ae5dddce61b" lG="e8c5c211-1c1c-5385-a255-50eb2c547c12">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="0,0,0,-25," op-lw="4"/>
+<polyline pts="0,0,18,0," op-lw="4"/>
+<polyline pts="18,0,30,-12," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

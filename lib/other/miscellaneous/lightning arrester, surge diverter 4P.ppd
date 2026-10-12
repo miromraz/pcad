@@ -1,0 +1,34 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="lightning arrester, surge diverter 4P" t="" v="" n="EN 60617: 07-22-03" fG="4ff0f81e-6166-5e25-b37a-8bdddf9c4423" lG="fe6b2381-15e0-507c-94bc-3071ede54e83">
+<layers current="0"><layer name="0" v="1">
+<rect left="-66" top="-14" right="-54" bottom="14" op-lw="4"/>
+<polyline pts="-69,8,-51,-8," op-lw="4"/>
+<polygon pts="-51,-8,-57,6,-65,-3," op-lw="4" op-fd="1"/>
+<rect left="-26" top="-14" right="-14" bottom="14" op-lw="4"/>
+<polyline pts="-29,8,-11,-8," op-lw="4"/>
+<polygon pts="-11,-8,-17,6,-25,-3," op-lw="4" op-fd="1"/>
+<rect left="14" top="-14" right="26" bottom="14" op-lw="4"/>
+<polyline pts="11,8,29,-8," op-lw="4"/>
+<polygon pts="29,-8,23,6,15,-3," op-lw="4" op-fd="1"/>
+<rect left="54" top="-14" right="66" bottom="14" op-lw="4"/>
+<polyline pts="51,8,69,-8," op-lw="4"/>
+<polygon pts="69,-8,63,6,55,-3," op-lw="4" op-fd="1"/>
+<polyline pts="-60,-14,-60,-40," op-lw="4"/>
+<polyline pts="-60,14,-60,40," op-lw="4"/>
+<polyline pts="-20,-14,-20,-40," op-lw="4"/>
+<polyline pts="-20,14,-20,40," op-lw="4"/>
+<polyline pts="20,-14,20,-40," op-lw="4"/>
+<polyline pts="20,14,20,40," op-lw="4"/>
+<polyline pts="60,-14,60,-40," op-lw="4"/>
+<polyline pts="60,14,60,40," op-lw="4"/>
+<outlet x="-60" y="-40"/>
+<outlet x="-60" y="40"/>
+<outlet x="-20" y="-40"/>
+<outlet x="-20" y="40"/>
+<outlet x="20" y="-40"/>
+<outlet x="20" y="40"/>
+<outlet x="60" y="-40"/>
+<outlet x="60" y="40"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="NO safety interlock" t="k" v="" n="IEC:9.2" fG="c2aa5537-83ce-5136-97a9-ccc540af1e03" lG="94e06855-b322-5b8a-a158-ed773b425422">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-46,0,-16,0," op-lw="4"/>
+<polyline pts="46,0,16,0," op-lw="4"/>
+<polyline pts="16,30,-12,-30," op-lw="4"/>
+<rect left="-8" top="-30" right="8" bottom="-18" op-lw="4"/>
+<outlet x="-46" y="0"/>
+<outlet x="46" y="0"/>
+</layer></layers>
+</ppd>
+</document>

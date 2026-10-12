@@ -1,0 +1,23 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="diode bridge, + right" t="" v="" n="EN 60617: 05-03-01" fG="e9cb97ef-aea3-5cf1-a3a5-ce4dbff61316" lG="d297d16c-4b84-5645-b8aa-1f3c033e901e">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,60,0," op-lw="4"/>
+<polyline pts="60,0,0,60," op-lw="4"/>
+<polyline pts="0,60,-60,0," op-lw="4"/>
+<polyline pts="-60,0,0,-60," op-lw="4"/>
+<polygon pts="14,-30,30,-46,38,-22," op-lw="4"/>
+<polyline pts="30,-14,46,-30," op-lw="4"/>
+<polygon pts="30,46,14,30,38,22," op-lw="4"/>
+<polyline pts="46,30,30,14," op-lw="4"/>
+<polygon pts="-37,44,-44,23,-20,27," op-lw="4"/>
+<polyline pts="-16,37,-23,16," op-lw="4"/>
+<polygon pts="-44,-23,-37,-44,-20,-27," op-lw="4"/>
+<polyline pts="-23,-16,-16,-37," op-lw="4"/>
+<text x="37" y="0" al="9" f="34,0,0,0,Arial,000000">+</text>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+<outlet x="0" y="60"/>
+<outlet x="0" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

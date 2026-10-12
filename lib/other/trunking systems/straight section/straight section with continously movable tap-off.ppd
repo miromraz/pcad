@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="straight section with continously movable tap-off" t="" v="" n="EN 60617: 11-17-26" fG="41275b65-d3c3-5ae5-859d-e4184ba8ed8e" lG="e5295daa-5f4f-50f6-8fde-e88a45b45760">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-80,-10,80,-10," op-lw="4"/>
+<polyline pts="-80,10,80,10," op-lw="4"/>
+<polyline pts="0,-20,0,19," op-lw="4"/>
+<ellipse left="-4" top="-4" right="4" bottom="4" op-lw="2" op-fd="1"/>
+<polyline pts="-24,-26,24,-26," op-lw="4"/>
+<polygon pts="24,-26,10,-20,10,-32," op-lw="4" op-fd="1"/>
+<polyline pts="24,26,-24,26," op-lw="4"/>
+<polygon pts="-24,26,-10,20,-10,32," op-lw="4" op-fd="1"/>
+<outlet x="0" y="-20"/>
+<outlet x="0" y="19"/>
+</layer></layers>
+</ppd>
+</document>

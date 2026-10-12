@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="transil bidirectional" t="trsl" v="" n="EN 60617: 05-03-06" fG="8521cee6-003a-5885-a373-629572c70c06" lG="d4cf650f-dcac-5aa1-bc88-444270ccbe7f">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-24,0,24," op-lw="4"/>
+<polygon pts="-26,-24,-26,24,0,0," op-lw="4"/>
+<polygon pts="26,-24,26,24,0,0," op-lw="4"/>
+<polyline pts="0,-24,-8,-27," op-lw="4"/>
+<polyline pts="0,24,8,27," op-lw="4"/>
+<polyline pts="26,0,30,0," op-lw="4"/>
+<polyline pts="-26,0,-30,0," op-lw="4"/>
+<outlet x="30" y="0"/>
+<outlet x="-30" y="0"/>
+</layer></layers>
+</ppd>
+</document>

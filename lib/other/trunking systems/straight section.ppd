@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="straight section" t="" v="" n="EN 60617: 11-17-01" fG="8e757cb3-0764-5636-b81e-75034446be2c" lG="56fda14f-f949-59d1-b5ae-06c136745613">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,-10,40,-10," op-lw="4"/>
+<polyline pts="-40,10,40,10," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

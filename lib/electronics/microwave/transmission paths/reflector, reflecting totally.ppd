@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="reflector, reflecting totally" t="" v="" n="EN 60617: 10-07-17" fG="d9935365-060f-5fc3-96aa-345a797f13e7" lG="739acc8d-6fb5-59d8-be55-71aac25a092e">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-8,-50,-8,50," op-lw="4"/>
+<polyline pts="-8,-46,12,-54," op-lw="2"/>
+<polyline pts="-8,-34,12,-42," op-lw="2"/>
+<polyline pts="-8,-22,12,-30," op-lw="2"/>
+<polyline pts="-8,-10,12,-18," op-lw="2"/>
+<polyline pts="-8,2,12,-6," op-lw="2"/>
+<polyline pts="-8,14,12,6," op-lw="2"/>
+<polyline pts="-8,26,12,18," op-lw="2"/>
+<polyline pts="-8,38,12,30," op-lw="2"/>
+<polyline pts="-8,50,12,42," op-lw="2"/>
+
+</layer></layers>
+</ppd>
+</document>

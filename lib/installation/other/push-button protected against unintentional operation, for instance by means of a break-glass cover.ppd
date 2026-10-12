@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="push-button protected against unintentional operation, for instance by means of a break-glass cover" t="" v="" n="EN 60617: 11-14-12" fG="abff027c-b239-5fd4-bbc5-b26c4bb9a3a9" lG="64a1200e-ec3f-5d7d-a2c3-d743743e1aa5">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-20" top="-20" right="20" bottom="20" op-lw="4"/>
+<ellipse left="-5" top="-5" right="5" bottom="5" op-lw="2" op-fd="1"/>
+<rect left="-25" top="-50" right="25" bottom="50" op-lw="4"/>
+<outlet x="-20" y="0"/>
+<outlet x="0" y="20"/>
+<outlet x="20" y="0"/>
+<outlet x="0" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

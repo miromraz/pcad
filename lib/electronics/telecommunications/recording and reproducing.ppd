@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="recording and reproducing" t="" v="" n="EN 60617: 09-08-09" fG="b99ac69a-ad79-5ab2-b157-d96a6958ad42" lG="e26f9a51-a150-5030-9258-1c8178f30f9d">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-37,0,37,0," op-lw="4"/>
+<polygon pts="37,0,29,5,29,-5," op-lw="4" op-fd="1"/>
+<polygon pts="-37,0,-29,-5,-29,5," op-lw="4" op-fd="1"/>
+
+</layer></layers>
+</ppd>
+</document>

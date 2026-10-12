@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="straight section adjustable in length" t="" v="" n="EN 60617: 11-17-09" fG="05d6b85b-612f-55b1-8f30-2a469f1f2f82" lG="a377ae52-3a5e-52f5-8234-dd2b5e4e877a">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-80,-10,80,-10," op-lw="4"/>
+<polyline pts="-80,10,80,10," op-lw="4"/>
+<polyline pts="-20,0,-74,0," op-lw="4"/>
+<polygon pts="-74,0,-60,-6,-60,6," op-lw="4" op-fd="1"/>
+<polyline pts="20,0,74,0," op-lw="4"/>
+<polygon pts="74,0,60,6,60,-6," op-lw="4" op-fd="1"/>
+
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="thermocouple with insulated heating element" t="Z" v="" n="EN 60617: 08-06-05" fG="7bfd92f4-9b66-5771-85ec-34c0c5feb3bc" lG="e05ce097-5361-5c05-b569-9d6195bcf0f1">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,-80,0,0," op-lw="4"/>
+<polyline pts="40,-80,0,0," op-lw="4"/>
+<ellipse left="-4" top="-4" right="4" bottom="4" op-lw="2" op-fd="1"/>
+<polyline pts="-41,80,41,80," op-lw="4"/>
+<outlet x="-40" y="80"/>
+<outlet x="-40" y="-80"/>
+<outlet x="40" y="-80"/>
+<outlet x="40" y="80"/>
+</layer></layers>
+</ppd>
+</document>

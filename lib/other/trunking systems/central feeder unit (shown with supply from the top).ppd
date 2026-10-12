@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="central feeder unit (shown with supply from the top)" t="" v="" n="EN 60617: 11-17-21" fG="f6da8b4d-5de4-58b5-84cc-fd33a63e4504" lG="a95baac3-6b65-549a-af07-4416edb11fac">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,35,40,35," op-lw="4"/>
+<polyline pts="-40,55,40,55," op-lw="4"/>
+<rect left="-16" top="11" right="16" bottom="39" op-lw="4"/>
+<polyline pts="0,39,0,45," op-lw="4"/>
+<polyline pts="0,-55,0,11," op-lw="4"/>
+<polygon pts="0,11,-7,-1,7,-1," op-lw="4" op-fd="1"/>
+
+</layer></layers>
+</ppd>
+</document>

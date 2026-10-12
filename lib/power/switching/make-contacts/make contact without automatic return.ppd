@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="make contact without automatic return" t="Re" v="" n="EN 60617: 07-06-02" fG="da881bf6-15ab-57b2-b4fa-b01f67b40edd" lG="d0effc2b-250e-5747-bc80-cc7d545e07db">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,34,-18," op-lw="4"/>
+<polyline pts="9,-12,25,-12," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

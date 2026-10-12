@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="amplifying point in a weather-proof enclosure" t="" v="" n="EN 60617: 11-04-02" fG="16d681ca-fd80-5c24-8b26-ce7d1ac2b701" lG="8d60818e-d4d8-5e82-8240-ded8316ab8f3">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polygon pts="-30,-30,-30,30,35,0," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

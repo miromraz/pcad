@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="diode" t="D" v="" n="EN 60617: 05-03-01" fG="3bdb5de6-8215-53b9-b36a-8b27fc6fda96" lG="d20b4ae1-a58e-5efb-988e-02a4efba7243">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-14,-18,-14,18,14,0," op-lw="4"/>
+<polyline pts="14,-18,14,18," op-lw="4"/>
+<polyline pts="-20,0,-14,0," op-lw="4"/>
+<polyline pts="14,0,20,0," op-lw="4"/>
+<outlet x="-20" y="0"/>
+<outlet x="20" y="0"/>
+</layer></layers>
+</ppd>
+</document>

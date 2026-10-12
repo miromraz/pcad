@@ -1,0 +1,21 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="switch with indicator light 1P" t="" v="" n="EN 60617: 211-07-07" fG="535111e9-2ce4-5c76-9602-785cd7956862" lG="60792484-f797-5a9d-bca2-21937b74829d">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,31,0,0," op-lw="4"/>
+<ellipse left="-4" top="-4" right="4" bottom="4" op-lw="2" op-fd="1"/>
+<polyline pts="0,0,32,-26," op-lw="4"/>
+<polyline pts="40,-31,32,-25," op-lw="4"/>
+<ellipse left="-27" top="-23" right="-11" bottom="-7" op-lw="4"/>
+<polyline pts="-25,-21,-13,-9," op-lw="4"/>
+<polyline pts="-25,-9,-13,-21," op-lw="4"/>
+<polyline pts="-15,0,0,0," op-lw="4"/>
+<polyline pts="0,15,0,0," op-lw="4"/>
+<polyline pts="15,0,0,0," op-lw="4"/>
+<polyline pts="0,-15,0,0," op-lw="4"/>
+<outlet x="-15" y="0"/>
+<outlet x="0" y="15"/>
+<outlet x="15" y="0"/>
+<outlet x="0" y="-15"/>
+</layer></layers>
+</ppd>
+</document>

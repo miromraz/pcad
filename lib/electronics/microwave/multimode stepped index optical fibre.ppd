@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="multimode stepped index optical fibre" t="" v="" n="EN 60617: 10-23-02" fG="86aebc3c-1536-5f08-84b1-1856a27277a9" lG="31dd9fbf-fc3d-50bd-b504-cc4b1a9cfed5">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-65,0,65,0," op-lw="4"/>
+<polyline pts="-57,-28,-57,28," op-lw="4"/>
+<polyline pts="-57,28,-35,28," op-lw="4"/>
+<polyline pts="-57,28,-57,-17,-42,-17,-42,28," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

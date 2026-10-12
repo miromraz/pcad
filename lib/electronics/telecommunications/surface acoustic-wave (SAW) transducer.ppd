@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="surface acoustic-wave (SAW) transducer" t="pistala" v="" n="EN 60617: 09-09-22" fG="f7cb24bd-d93c-5f30-a1dc-e6d530a24678" lG="4823df5a-f4a6-51e1-a408-7c33c11acc70">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-20,-12,-20,12," op-lw="4"/>
+<polyline pts="20,-12,20,12," op-lw="4"/>
+<polyline pts="-20,-6,-6,-6," op-lw="4"/>
+<polyline pts="20,2,6,2," op-lw="4"/>
+<polyline pts="-20,8,-6,8," op-lw="4"/>
+<polyline pts="-20,0,-40,-4," op-lw="4"/>
+<polyline pts="20,0,40,4," op-lw="4"/>
+<outlet x="-40" y="-4"/>
+<outlet x="40" y="4"/>
+</layer></layers>
+</ppd>
+</document>

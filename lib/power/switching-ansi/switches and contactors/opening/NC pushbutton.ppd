@@ -1,0 +1,18 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="NC pushbutton" t="k" v="" n="IEC:9.2" fG="c1c3f57c-1152-515a-9ea3-1c786b2edaba" lG="84edc1b0-ac34-5f5a-8148-babd03f00412">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-46,0,-16,0," op-lw="4"/>
+<polyline pts="46,0,16,0," op-lw="4"/>
+<polyline pts="-16,0,16,0," op-lw="4"/>
+<polyline pts="2,-20,2,20," op-lw="4"/>
+<polyline pts="-36,-10,-36,0," op-lw="4"/>
+<polyline pts="36,-10,36,0," op-lw="4"/>
+<polyline pts="0,0,0,-20," op-lw="4"/>
+<polyline pts="-10,-20,10,-20," op-lw="4"/>
+<outlet x="-46" y="0"/>
+<outlet x="46" y="0"/>
+<outlet x="-36" y="-10"/>
+<outlet x="36" y="-10"/>
+</layer></layers>
+</ppd>
+</document>

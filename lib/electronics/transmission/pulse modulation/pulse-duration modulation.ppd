@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pulse-duration modulation" t="" v="" n="EN 60617: 10-12-05" fG="9e990173-67c6-5280-a827-4d2a780e26c6" lG="3f4b6b27-3acf-5eb8-86a8-9ab803bdf044">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,20,40,20," op-lw="4"/>
+<polyline pts="-34,20,-34,-20,-22,-20,-22,20," op-lw="4"/>
+<polyline pts="-10,20,-10,-20,8,-20,8,20," op-lw="4"/>
+<polyline pts="20,20,20,-20,34,-20,34,20," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

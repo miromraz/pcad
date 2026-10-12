@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="heat source, general symbol" t="" v="" n="EN 60617: 06-17-01" fG="72b1d7a7-8301-565d-922f-82ce82720b73" lG="cc999e68-6723-55b4-84ad-8e94d7f36e42">
+<layers current="0"><layer name="0" v="1">
+<rect left="-80" top="-60" right="80" bottom="60" op-lw="4"/>
+<outlet x="-80" y="0"/>
+<outlet x="80" y="0"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

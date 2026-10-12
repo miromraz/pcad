@@ -1,0 +1,20 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="key-operated switch (watchman's system device)" t="" v="" n="EN 60617: 11-14-15" fG="387439dc-b950-579d-8614-f393a3896a5d" lG="ece312e1-03b9-5cf1-b165-043489b5f03a">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-15" top="-15" right="15" bottom="15" op-lw="4"/>
+<polyline pts="-15,0,-30,0," op-lw="4"/>
+<polyline pts="0,15,0,40," op-lw="4"/>
+<polyline pts="15,0,30,0," op-lw="4"/>
+<polyline pts="0,-15,0,-40," op-lw="4"/>
+<polyline pts="-30,40,30,-40," op-lw="4"/>
+<polyline pts="20,-39,32,-31," op-lw="4"/>
+<ellipse left="-24" top="-6" right="-12" bottom="6" op-lw="4"/>
+<polyline pts="-12,0,-2,0," op-lw="4"/>
+<polyline pts="-5,0,-5,5," op-lw="4"/>
+<outlet x="-30" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="30" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

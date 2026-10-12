@@ -1,0 +1,18 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="synchronous rotary converter, 3 phase, shunt excited" t="" v="" n="EN 60617: 06-07-05" fG="96236a82-49ef-552d-b5c0-6cd7b768430f" lG="92520177-eedc-5f8f-a8c6-33a42c79092e">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polyline pts="-42,42,-80,80," op-lw="4"/>
+<polyline pts="42,42,80,80," op-lw="4"/>
+<text x="0" y="-18" al="9" f="78,0,0,0,Arial,000000">C</text>
+<text x="0" y="18" al="9" f="78,0,0,0,Arial,000000">3~</text>
+<outlet x="-40" y="-45"/>
+<outlet x="-20" y="-57"/>
+<outlet x="0" y="-60"/>
+<outlet x="20" y="-57"/>
+<outlet x="40" y="-44"/>
+<outlet x="-80" y="80"/>
+<outlet x="80" y="80"/>
+</layer></layers>
+</ppd>
+</document>

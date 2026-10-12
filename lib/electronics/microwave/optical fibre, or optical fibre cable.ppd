@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="optical fibre, or optical fibre cable" t="" v="" n="EN 60617: 10-23-01" fG="16745be7-0340-5b19-a100-ad2da2545a8d" lG="bc9dfd13-5bf4-5815-b5e0-aee3cf18d72b">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-30,0,30,0," op-lw="4"/>
+<polyline pts="-22,-28,-22,28," op-lw="4"/>
+<polyline pts="-22,28,0,28," op-lw="4"/>
+<ellipse left="-28" top="-28" right="28" bottom="28" op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

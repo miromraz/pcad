@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="hydroelectric generating station - in operation" t="" v="" n="EN 60617: 11-02-02" fG="68f49867-c0a3-54d1-8fed-fddf8bb00e06" lG="af149510-f37b-5fdd-8121-2dd6ac122645">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polyline pts="-35,10,-12,-10,12,10,35,-10," op-lw="2"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

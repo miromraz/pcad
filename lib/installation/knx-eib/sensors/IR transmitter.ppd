@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="IR transmitter" t="" v="" n="EN 60617: 10-17-04" fG="f7a0e13b-7909-55ff-99c7-9a38aa369964" lG="4cc4c3c9-a885-54db-b444-e316590a546c">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<polyline pts="100,-4,168,-32," op-lw="4"/>
+<polygon pts="168,-32,157,-21,153,-32," op-lw="4" op-fd="1"/>
+<polyline pts="100,20,170,-8," op-lw="4"/>
+<polygon pts="170,-8,159,3,155,-8," op-lw="4" op-fd="1"/>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

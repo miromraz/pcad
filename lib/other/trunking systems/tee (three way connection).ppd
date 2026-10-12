@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="tee (three way connection)" t="" v="" n="EN 60617: 11-17-04" fG="4f18eb2f-0a5d-5bca-bb8f-0f26bf513d52" lG="746941ec-6906-5ef2-afc9-0ab49ad37ff7">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,-25,40,-25," op-lw="4"/>
+<polyline pts="-40,-5,40,-5," op-lw="4"/>
+<polyline pts="-10,-15,-10,25," op-lw="4"/>
+<polyline pts="10,-15,10,25," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

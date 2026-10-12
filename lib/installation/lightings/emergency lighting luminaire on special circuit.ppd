@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="emergency lighting luminaire on special circuit" t="" v="" n="EN 60617: 11-15-11" fG="809d113a-fc7d-5954-ab6f-44a673d7fb55" lG="10f72ec2-56b6-5e83-86cd-213ae71291e3">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-14" top="-14" right="14" bottom="14" op-lw="4"/>
+<polyline pts="-10,-10,10,10," op-lw="4"/>
+<polyline pts="-10,10,10,-10," op-lw="4"/>
+<polygon pts="0,0,14,0,14,4,12,7,10,10,7,12,4,14,0,14," op-lw="2" op-fd="1"/>
+<polygon pts="0,0,-14,0,-14,-4,-12,-7,-10,-10,-7,-12,-4,-14,0,-14," op-lw="2" op-fd="1"/>
+<outlet x="0" y="0"/>
+</layer></layers>
+</ppd>
+</document>

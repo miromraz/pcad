@@ -1,0 +1,18 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="depletion P" t="T" v="" n="60617:05-05-16" fG="8d88e3a6-ddaf-5dec-8cba-7b0f7dcd7bd7" lG="002220cb-672a-5642-beac-b0dbd88bd39a">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-50" top="-50" right="50" bottom="50" op-lw="4"/>
+<polyline pts="-22,-20,-22,20," op-lw="4"/>
+<polyline pts="-8,-20,-8,20," op-lw="6"/>
+<polyline pts="-8,-18,46,-21," op-lw="4"/>
+<polyline pts="-8,18,46,21," op-lw="4"/>
+<polyline pts="-8,0,50,0," op-lw="4"/>
+<polygon pts="6,0,-6,6,-6,-6," op-lw="4" op-fd="1"/>
+<polyline pts="-44,25,-22,18," op-lw="4"/>
+<outlet x="-44" y="25"/>
+<outlet x="46" y="21"/>
+<outlet x="50" y="0"/>
+<outlet x="46" y="-21"/>
+</layer></layers>
+</ppd>
+</document>

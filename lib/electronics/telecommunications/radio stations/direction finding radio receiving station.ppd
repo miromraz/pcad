@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="direction finding radio receiving station" t="" v="" n="EN 60617: 10-06-03" fG="3a2d292b-8d19-5bd6-b841-eda66bb604ae" lG="bd33abe7-b748-5805-9608-1cc43cc1b7cc">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-32,0,60," op-lw="4"/>
+<polyline pts="0,-32,-30,-80," op-lw="4"/>
+<polyline pts="0,-32,30,-80," op-lw="4"/>
+<polyline pts="0,60,0,80," op-lw="4"/>
+<polyline pts="0,60,30,60," op-lw="4"/>
+<polyline pts="0,60,-30,60," op-lw="4"/>
+<polyline pts="-33,-2,-15,24," op-lw="4"/>
+<polygon pts="-15,24,-28,16,-18,9," op-lw="4" op-fd="1"/>
+<outlet x="0" y="80"/>
+<outlet x="30" y="60"/>
+<outlet x="-30" y="60"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="push button" t="" v="" n="EN 60617: 211-06-02" fG="43ea50b3-aa3b-5d4c-a117-e12fb81ea920" lG="6e4efe57-fd5d-50a9-9dc9-a4a2821ec7d9">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-25" top="-25" right="25" bottom="25" op-lw="4"/>
+<ellipse left="-5" top="-5" right="5" bottom="5" op-lw="2" op-fd="1"/>
+<outlet x="-25" y="0"/>
+<outlet x="25" y="0"/>
+<outlet x="0" y="25"/>
+<outlet x="0" y="-25"/>
+</layer></layers>
+</ppd>
+</document>

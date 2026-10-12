@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="protective gap" t="k" v="" n="IEC:9.2" fG="d2357ccc-f7ea-5411-b128-9b498a12a54f" lG="1ec0b2ef-3fef-5293-9cd0-bcc32e49ff24">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-14," op-lw="4"/>
+<polyline pts="0,14,0,60," op-lw="4"/>
+<polygon pts="-10,-26,10,-26,0,-12," op-lw="4" op-fd="1"/>
+<polygon pts="-10,26,10,26,0,12," op-lw="4" op-fd="1"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

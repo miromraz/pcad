@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pressure-tight bulkhead cable gland, shown with three cables" t="" v="" n="EN 60617: 03-04-07" fG="e07d4cd3-f2b9-52fa-902d-aee2865c0b2f" lG="43119a39-1dc4-50a7-8e81-3e7600e4b58a">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-80,0,80," op-lw="4"/>
+<polyline pts="-20,-44,20,-44," op-lw="4"/>
+<rect left="-7" top="-51" right="7" bottom="-37" op-lw="4"/>
+<polyline pts="-20,0,20,0," op-lw="4"/>
+<rect left="-7" top="-7" right="7" bottom="7" op-lw="4"/>
+<polyline pts="-20,44,20,44," op-lw="4"/>
+<rect left="-7" top="37" right="7" bottom="51" op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

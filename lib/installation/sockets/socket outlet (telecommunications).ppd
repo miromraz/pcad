@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="socket outlet (telecommunications)" t="" v="" n="EN 60617: 11-13-09" fG="a8d229de-01b0-5ba6-a28b-040a07c5b92f" lG="aedccc83-1aa9-5df8-908a-9f42676d4343">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="15,0,15,3,14,6,12,8,11,11,8,12,6,14,3,15,0,15,-3,15,-6,14,-8,12,-11,11,-12,8,-14,6,-15,3,-15,0," op-lw="4"/>
+<polyline pts="-15,0,15,0," op-lw="4"/>
+<polyline pts="0,0,0,-20," op-lw="4"/>
+<polygon pts="0,15,-8,4,8,4," op-lw="4" op-fd="1"/>
+<outlet x="0" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

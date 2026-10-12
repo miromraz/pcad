@@ -1,0 +1,21 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="push-button control with two buttons and two built-in indicator lights" t="" v="" n="EN 60617: 211-07-48" fG="92e45083-8660-5bbc-9192-1bb470b4d65e" lG="9f1c86da-b2be-5003-ab4a-1dcab62b4da2">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-37,37,0,0," op-lw="4"/>
+<ellipse left="-4" top="-4" right="4" bottom="4" op-lw="2" op-fd="1"/>
+<polyline pts="0,0,30,-30," op-lw="4"/>
+<polyline pts="37,-37,29,-29," op-lw="4"/>
+<ellipse left="-27" top="-27" right="-8" bottom="-8" op-lw="4"/>
+<polyline pts="-24,-24,-11,-11," op-lw="4"/>
+<polyline pts="-24,-11,-11,-24," op-lw="4"/>
+<polyline pts="-40,0,0,0," op-lw="4"/>
+<polyline pts="0,40,0,0," op-lw="4"/>
+<polyline pts="40,0,0,0," op-lw="4"/>
+<polyline pts="0,-40,0,0," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

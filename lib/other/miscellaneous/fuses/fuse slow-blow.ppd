@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="fuse slow-blow" t="" v="" n="EN 60617: 07-21-01" fG="74ba9f06-d034-5863-a09f-83d2f811730a" lG="4a2e8a6b-2605-552e-a8cc-106b211c7c53">
+<layers current="0"><layer name="0" v="1">
+<rect left="-7" top="-22" right="7" bottom="22" op-lw="4"/>
+<polyline pts="0,-22,0,22," op-lw="4"/>
+<rect left="-7" top="-22" right="7" bottom="-16" op-lw="4" op-fd="1"/>
+<rect left="-7" top="16" right="7" bottom="22" op-lw="4" op-fd="1"/>
+<outlet x="0" y="-24"/>
+<outlet x="0" y="24"/>
+</layer></layers>
+</ppd>
+</document>

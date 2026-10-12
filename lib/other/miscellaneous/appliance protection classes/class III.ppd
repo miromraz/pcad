@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="class III" t="zem" v="" n="EN 60617: 02-15-03" fG="41abc2c4-1a37-5948-a62c-6d824af3ff7f" lG="4e1c66ea-92d8-5c5a-9d21-c1e27508a6e1">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="0,-38,38,0,0,38,-38,0," op-lw="4"/>
+<polyline pts="-9,-11,-9,11," op-lw="4"/>
+<polyline pts="0,-11,0,11," op-lw="4"/>
+<polyline pts="9,-11,9,11," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

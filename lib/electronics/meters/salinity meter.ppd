@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="salinity meter" t="" v="" n="EN 60617: 08-02-13" fG="2d35066b-915e-5fca-a64e-ea1689097bc5" lG="47b102e7-93d0-565b-98d3-b9f81cea01b8">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<text x="0" y="0" al="9" f="73,0,0,0,Arial,000000">NaCl</text>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

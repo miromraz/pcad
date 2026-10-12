@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="head for magnetic writing, monophonic - simplified form" t="pistala" v="" n="EN 60617: 09-09-16" fG="05f29f38-a8cb-5338-ac34-cc6ded7decc3" lG="dde6d7d5-3efe-52af-a43a-05c1252364a9">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-25" top="-13" right="1" bottom="13" op-lw="4"/>
+<polyline pts="-25,-4,-31,-4," op-lw="4"/>
+<polyline pts="-25,4,-31,4," op-lw="4"/>
+<polyline pts="1,0,15,0," op-lw="4"/>
+<outlet x="15" y="0"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="indicator lamp energized by a built-in transformer" t="" v="" n="EN 60617: 08-10-13" fG="b3c4f355-f830-58b7-bb0a-ef8099e45cdb" lG="f6aea5d9-cb62-51ff-857e-229689573710">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-25" top="-25" right="25" bottom="25" op-lw="4"/>
+<polyline pts="-18,-18,18,18," op-lw="4"/>
+<polyline pts="-18,18,18,-18," op-lw="4"/>
+<polyline pts="-47,0,-46,-3,-44,-6,-43,-7,-42,-8,-40,-7,-39,-6,-37,-3,-36,0,-35,3,-33,6,-32,7,-30,8,-29,7,-28,6,-26,3,-25,0," op-lw="4"/>
+<polyline pts="25,0,26,-3,28,-6,29,-7,30,-8,32,-7,33,-6,35,-3,36,0,37,3,39,6,40,7,42,8,43,7,44,6,46,3,47,0," op-lw="4"/>
+<outlet x="0" y="-25"/>
+<outlet x="0" y="25"/>
+</layer></layers>
+</ppd>
+</document>

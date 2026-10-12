@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="transfer form 1" t="k" v="" n="IEC:9.2" fG="358b837a-0b6d-5ec5-b79a-bcffd513f01c" lG="bded5c72-6a53-5678-a3c5-38a3b3a556dd">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-50,0,-16,0," op-lw="4"/>
+<polyline pts="20,40,16,50," op-lw="4"/>
+<polyline pts="20,-60,16,-50," op-lw="4"/>
+<polyline pts="-16,0,16,-50," op-lw="4"/>
+<outlet x="-50" y="0"/>
+<outlet x="20" y="40"/>
+<outlet x="20" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="modulator, demodulator or discriminator" t="" v="" n="EN 60617: 10-19-01" fG="43559565-2791-5582-91bc-81c140241250" lG="83b5decb-aea3-592b-9b8f-74f230d7b576">
+<layers current="0"><layer name="0" v="1">
+<rect left="-120" top="-30" right="120" bottom="90" op-lw="4"/>
+<polyline pts="-26,4,26,56," op-lw="4"/>
+<polyline pts="-26,56,26,4," op-lw="4"/>
+<polyline pts="-26,-6,-23,-11,-20,-15,-16,-18,-13,-19,-10,-18,-7,-15,-3,-11,0,-6,3,-1,7,3,10,6,13,7,16,6,20,3,23,-1,26,-6," op-lw="4"/>
+<outlet x="-120" y="0"/>
+<outlet x="0" y="60"/>
+<outlet x="120" y="0"/>
+</layer></layers>
+</ppd>
+</document>

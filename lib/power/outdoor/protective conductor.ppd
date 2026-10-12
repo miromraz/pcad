@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="protective conductor" t="" v="" n="EN 60617: 11-11-02" fG="354165fa-3c60-5a56-82c4-63347f48766f" lG="38bfa591-738d-588e-a27f-e5736fd156c0">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-12,8,12,8," op-lw="4"/>
+<polyline pts="-12,-2,-4,-10," op-lw="4"/>
+<polyline pts="-4,-2,4,-10," op-lw="4"/>
+<polyline pts="4,-2,12,-10," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

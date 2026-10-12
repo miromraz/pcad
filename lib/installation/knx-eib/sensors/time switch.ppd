@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="time switch" t="" v="" n="EN 60617: 10-17-04" fG="1b1385f8-cdaa-5939-9bab-d10b92167c8f" lG="af62044c-ae3b-5106-8f57-378e74753273">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">t</text>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+<outlet x="90" y="50"/>
+<outlet x="90" y="-50"/>
+</layer></layers>
+</ppd>
+</document>

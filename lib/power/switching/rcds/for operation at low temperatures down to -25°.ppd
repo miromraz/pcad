@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="for operation at low temperatures down to -25°" t="" v="" n="EN 60617: 07-13-10" fG="43e81316-13b7-57c0-a282-6b1fb259412a" lG="456dea36-1f4c-5d1c-b247-9e83458a587f">
+<layers current="0"><layer name="0" v="1">
+<rect left="-54" top="-54" right="54" bottom="54" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">-25</text>
+
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="twisted connection" t="" v="" n="EN 60617: 03-01-08" fG="0e3b144a-39d4-5b03-b5ad-35e76180cc95" lG="3cc9946a-ae82-594c-a0b0-a6c13ecbdeff">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-50,-30,-12,-30,12,30,50,30," op-lw="4"/>
+<polyline pts="-50,30,-12,30,12,-30,50,-30," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

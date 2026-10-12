@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="network protector" t="k" v="" n="IEC:9.4.3" fG="05b3ce62-1852-52d1-954a-b8192a0a6910" lG="a3045d46-a998-5cf9-a097-8459bcc001a8">
+<layers current="0"><layer name="0" v="1">
+<rect left="-14" top="-40" right="14" bottom="40" op-lw="4"/>
+<polyline pts="0,-60,0,-40," op-lw="4"/>
+<polyline pts="0,40,0,60," op-lw="4"/>
+<polyline pts="-7,-7,7,7," op-lw="4"/>
+<polyline pts="-7,7,7,-7," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

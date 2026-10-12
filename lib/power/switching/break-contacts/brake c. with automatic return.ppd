@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="brake c. with automatic return" t="Re" v="" n="EN 60617: 07-06-03" fG="a97649e7-de97-580c-802f-506a4f594f2f" lG="0dc0bc92-fa87-58cb-976d-40687768e2ec">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,26,-18," op-lw="4"/>
+<polyline pts="0,-18,26,-18," op-lw="4"/>
+<polyline pts="26,-25,26,-11," op-lw="4"/>
+<polyline pts="6,-2,13,-16,20,-2," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

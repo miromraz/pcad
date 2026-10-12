@@ -4,3 +4,7 @@ re_probe/
 out/
 __pycache__/
 /*.png
+cleanroom/private/
+cleanroom/out/
+cleanroom/spec/
+cleanroom/lib/

@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="directional antenna fixed in azimuth,vertically polarized, with horizontal polar diagram" t="" v="" n="EN 60617: 10-04-07" fG="4c0ed24b-6ef4-5850-97ae-076f93cdf1b4" lG="85df5bd3-5135-53bc-9797-1a25ce2d9d34">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,28,0,-27," op-lw="4"/>
+<polyline pts="0,-27,-20,-72," op-lw="4"/>
+<polyline pts="0,-27,20,-72," op-lw="4"/>
+<polyline pts="0,-27,0,-9," op-lw="6"/>
+<polyline pts="-46,22,46,22," op-lw="4"/>
+<text x="34" y="0" al="9" f="80,0,0,0,Arial,000000">H</text>
+<outlet x="0" y="28"/>
+</layer></layers>
+</ppd>
+</document>

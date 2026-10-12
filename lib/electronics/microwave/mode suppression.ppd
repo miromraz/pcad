@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="mode suppression" t="" v="" n="EN 60617: 10-07-12" fG="389ef36d-e34e-5e91-af81-6089ea8f6224" lG="10a0e073-7efc-512e-87ea-cd2ff2763199">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polyline pts="-40,-40,40,40," op-lw="2"/>
+<polyline pts="-40,0,0,40," op-lw="2"/>
+<polyline pts="0,-40,40,0," op-lw="2"/>
+
+</layer></layers>
+</ppd>
+</document>

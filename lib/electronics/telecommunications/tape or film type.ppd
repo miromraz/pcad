@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="tape or film type" t="" v="" n="EN 60617: 09-08-06" fG="fb0f1e57-77cf-5794-913b-cc7a6825e114" lG="c259745b-352f-534e-9194-4f51c17701e3">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-54" top="-22" right="-10" bottom="22" op-lw="4"/>
+<ellipse left="-37" top="-5" right="-27" bottom="5" op-lw="4"/>
+<ellipse left="10" top="-22" right="54" bottom="22" op-lw="4"/>
+<ellipse left="27" top="-5" right="37" bottom="5" op-lw="4"/>
+<polyline pts="-32,-22,32,-22," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

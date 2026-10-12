@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="thermionic diode generator with radio-isotope heat source" t="" v="" n="EN 60617: 06-18-05" fG="4eb6ca4a-e6cf-59cf-b34d-80f8c32d3fc2" lG="d6fcf7b2-6384-5f34-bef2-314e545ac4c0">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="0" right="60" bottom="120" op-lw="4"/>
+<text x="0" y="60" al="9" f="95,0,0,0,Arial,000000">G</text>
+<rect left="-50" top="-140" right="50" bottom="-40" op-lw="4"/>
+<text x="0" y="-90" al="9" f="45,0,0,0,Arial,000000">Ra</text>
+<polyline pts="0,-40,0,0," op-lw="4"/>
+<outlet x="-80" y="-20"/>
+<outlet x="80" y="-20"/>
+<outlet x="0" y="-160"/>
+<outlet x="0" y="120"/>
+</layer></layers>
+</ppd>
+</document>

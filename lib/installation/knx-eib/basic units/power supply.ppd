@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="power supply" t="" v="" n="EN 60617: 06-14-03" fG="0d9ba6aa-90e1-59fe-b8a1-1e0604a12f57" lG="9459ce8f-d2ea-5f1e-aa83-ea53ff8eee3d">
+<layers current="0"><layer name="0" v="1">
+<rect left="-72" top="-78" right="72" bottom="78" op-lw="4"/>
+<polyline pts="-30,-6,30,-6," op-lw="4"/>
+<polyline pts="-20,6,20,6," op-lw="4"/>
+<outlet x="-72" y="0"/>
+<outlet x="72" y="0"/>
+<outlet x="0" y="-72"/>
+<outlet x="0" y="72"/>
+</layer></layers>
+</ppd>
+</document>

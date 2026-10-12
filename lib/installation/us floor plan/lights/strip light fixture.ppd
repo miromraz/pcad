@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="strip light fixture" t="" v="" n="EN 60617: 211-06-02" fG="dcbeaf6d-89d0-5a82-9784-dcf7c1544372" lG="f87aa386-4a0a-5eac-9dd0-bd1430c07816">
+<layers current="0"><layer name="0" v="1">
+<rect left="-100" top="-25" right="100" bottom="25" op-lw="4"/>
+<polyline pts="-60,-25,-60,25," op-lw="4"/>
+<polyline pts="-20,-25,-20,25," op-lw="4"/>
+<polyline pts="20,-25,20,25," op-lw="4"/>
+<polyline pts="60,-25,60,25," op-lw="4"/>
+<outlet x="-100" y="0"/>
+<outlet x="100" y="0"/>
+<outlet x="0" y="25"/>
+<outlet x="0" y="-25"/>
+</layer></layers>
+</ppd>
+</document>

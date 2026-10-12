@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="battery" t="B" v="" n="EN 60617: 06-15-02" fG="71b6bb70-d386-5662-b276-e6998e1e811b" lG="bc49f0b4-3877-5886-9e90-ba2807b8c381">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-18,0,-10,0," op-lw="4"/>
+<polyline pts="-10,-28,-10,28," op-lw="4"/>
+<polyline pts="-4,-12,-4,12," op-lw="6"/>
+<polyline pts="4,-28,4,28," op-lw="4"/>
+<polyline pts="10,-12,10,12," op-lw="6"/>
+<polyline pts="10,0,18,0," op-lw="4"/>
+<outlet x="-18" y="0"/>
+<outlet x="18" y="0"/>
+</layer></layers>
+</ppd>
+</document>

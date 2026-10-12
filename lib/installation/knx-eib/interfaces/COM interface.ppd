@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="COM interface" t="" v="" n="EN 60617: 10-17-04" fG="df4f933c-dc78-5a7b-b5c6-78ae6f75b44e" lG="e6083594-ddae-5508-84c6-079baf364b15">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">com</text>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+<outlet x="90" y="50"/>
+<outlet x="90" y="-50"/>
+</layer></layers>
+</ppd>
+</document>

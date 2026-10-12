@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="actuator with AC feeding" t="" v="" n="EN 60617: 10-17-04" fG="8bffb86a-45c1-5a94-9dc1-a64a2be5d5b9" lG="96e5e75c-3179-5fe1-bbd0-91738d889b76">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">AC</text>
+<rect left="90" top="-115" right="170" bottom="-40" op-lw="4"/>
+<polyline pts="108,-77,111,-80,114,-83,116,-84,119,-85,122,-84,124,-83,127,-80,130,-77,133,-74,136,-71,138,-70,141,-69,144,-70,146,-71,149,-74,152,-77," op-lw="4"/>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

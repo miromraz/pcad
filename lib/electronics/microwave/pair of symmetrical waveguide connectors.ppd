@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pair of symmetrical waveguide connectors" t="" v="" n="EN 60617: 10-07-12" fG="4b35b192-b284-53f7-a188-b9eb430cced1" lG="21d76f78-3b03-5ae2-a286-d6a8369c0f0d">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-6,-20,-6,20," op-lw="4"/>
+<polyline pts="6,-20,6,20," op-lw="4"/>
+<polyline pts="-10,0,-6,0," op-lw="4"/>
+<polyline pts="6,0,10,0," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

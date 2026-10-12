@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="position switch, brake contact" t="Re" v="" n="EN 60617: 07-08-02" fG="6140e12d-cd3d-5de9-9ddd-65fa5f91c922" lG="e4fc9860-e35b-5056-aa9e-9e79b28f93f4">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,22,-18," op-lw="4"/>
+<polyline pts="0,-18,22,-18," op-lw="4"/>
+<polyline pts="22,-25,22,-11," op-lw="4"/>
+<polyline pts="0,0,5,0," op-lw="2"/>
+<ellipse left="-2" top="-24" right="12" bottom="-10" op-lw="4"/>
+<polyline pts="5,-10,5,2," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

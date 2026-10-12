@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="selective" t="" v="" n="EN 60617: 07-13-10" fG="f5786a3b-6706-5963-9500-e4c5b90af035" lG="3f0055bc-c6bf-5874-8449-954e25d52e25">
+<layers current="0"><layer name="0" v="1">
+<rect left="-30" top="-30" right="30" bottom="30" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">S</text>
+
+</layer></layers>
+</ppd>
+</document>

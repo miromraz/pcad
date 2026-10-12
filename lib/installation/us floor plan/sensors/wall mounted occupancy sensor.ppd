@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="wall mounted occupancy sensor" t="" v="" n="EN 60617: 211-06-02" fG="eafa8d08-2973-5aa6-bf5b-ed660f163379" lG="2ed66432-0955-581b-9531-5ec347c99e32">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-36" top="-25" right="36" bottom="25" op-lw="4"/>
+<polyline pts="-36,25,36,25," op-lw="4"/>
+<text x="0" y="0" al="9" f="86,0,0,0,Arial,000000">OS</text>
+
+</layer></layers>
+</ppd>
+</document>

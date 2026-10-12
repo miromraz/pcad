@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="unijunction with P" t="T" v="" n="60617:05-05-04" fG="17441c70-2ac1-5365-bfff-3a0a3fc3ae5c" lG="f09113c8-5f7c-5598-b791-6283ea03b7aa">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-50" top="-50" right="50" bottom="50" op-lw="4"/>
+<polyline pts="16,-30,16,30," op-lw="6"/>
+<polyline pts="16,-21,45,-21," op-lw="4"/>
+<polyline pts="16,21,45,21," op-lw="4"/>
+<polyline pts="-35,35,16,12," op-lw="4"/>
+<polygon pts="16,12,24,2,29,13," op-lw="4" op-fd="1"/>
+<outlet x="-35" y="35"/>
+<outlet x="45" y="21"/>
+<outlet x="45" y="-21"/>
+</layer></layers>
+</ppd>
+</document>

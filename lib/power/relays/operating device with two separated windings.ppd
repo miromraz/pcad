@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="operating device with two separated windings" t="" v="" n="EN 60617: 07-15-04" fG="22d8dc43-ea95-516b-b994-16b439f5c0c5" lG="39a1acc9-e940-581b-a3f4-eb51e8344a80">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-20" right="40" bottom="20" op-lw="4"/>
+<polyline pts="0,-20,0,20," op-lw="4"/>
+<outlet x="-20" y="20"/>
+<outlet x="20" y="20"/>
+<outlet x="20" y="-20"/>
+<outlet x="-20" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

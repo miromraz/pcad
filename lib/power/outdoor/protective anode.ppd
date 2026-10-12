@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="protective anode" t="" v="" n="EN 60617: 11-04-08" fG="11be8786-72e5-5b0a-9bc3-eb6df60e8bea" lG="f5ea664e-9072-5d85-8952-213f96cbd950">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-40,0,0," op-lw="4"/>
+<rect left="-40" top="0" right="40" bottom="34" op-lw="4"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

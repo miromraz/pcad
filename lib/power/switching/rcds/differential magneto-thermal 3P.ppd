@@ -1,0 +1,104 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="differential magneto-thermal 3P" t="" v="" n="EN 60617: 07-13-10" fG="3bd518dc-6fb5-55dd-8990-33303586ccb6" lG="5eb5ac00-bfaf-5fbd-b70b-d0a480e87d95">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-68,-72,-62,-72," op-lw="2"/>
+<polyline pts="-58,-72,-53,-72," op-lw="2"/>
+<polyline pts="-50,-72,-44,-72," op-lw="2"/>
+<polyline pts="-40,-72,-35,-72," op-lw="2"/>
+<polyline pts="-32,-72,-26,-72," op-lw="2"/>
+<polyline pts="-22,-72,-17,-72," op-lw="2"/>
+<polyline pts="-14,-72,-8,-72," op-lw="2"/>
+<polyline pts="-4,-72,1,-72," op-lw="2"/>
+<polyline pts="4,-72,10,-72," op-lw="2"/>
+<polyline pts="14,-72,19,-72," op-lw="2"/>
+<polyline pts="22,-72,28,-72," op-lw="2"/>
+<polyline pts="32,-72,37,-72," op-lw="2"/>
+<polyline pts="40,-72,46,-72," op-lw="2"/>
+<polyline pts="50,-72,55,-72," op-lw="2"/>
+<polyline pts="58,-72,64,-72," op-lw="2"/>
+<polyline pts="68,-72,73,-72," op-lw="2"/>
+<polyline pts="76,-72,82,-72," op-lw="2"/>
+<polyline pts="86,-72,91,-72," op-lw="2"/>
+<polyline pts="94,-72,100,-72," op-lw="2"/>
+<polyline pts="104,-72,109,-72," op-lw="2"/>
+<polyline pts="112,-72,118,-72," op-lw="2"/>
+<polyline pts="122,-72,127,-72," op-lw="2"/>
+<polyline pts="130,-72,136,-72," op-lw="2"/>
+<polyline pts="140,-72,145,-72," op-lw="2"/>
+<polyline pts="148,-72,148,-67," op-lw="2"/>
+<polyline pts="148,-63,148,-58," op-lw="2"/>
+<polyline pts="148,-54,148,-49," op-lw="2"/>
+<polyline pts="148,-45,148,-40," op-lw="2"/>
+<polyline pts="148,-36,148,-31," op-lw="2"/>
+<polyline pts="148,-27,148,-22," op-lw="2"/>
+<polyline pts="148,-18,148,-13," op-lw="2"/>
+<polyline pts="148,-9,148,-4," op-lw="2"/>
+<polyline pts="148,0,148,5," op-lw="2"/>
+<polyline pts="148,9,148,14," op-lw="2"/>
+<polyline pts="148,18,148,23," op-lw="2"/>
+<polyline pts="148,27,148,32," op-lw="2"/>
+<polyline pts="148,36,148,41," op-lw="2"/>
+<polyline pts="148,45,148,50," op-lw="2"/>
+<polyline pts="148,54,148,59," op-lw="2"/>
+<polyline pts="148,63,148,68," op-lw="2"/>
+<polyline pts="148,72,148,73," op-lw="2"/>
+<polyline pts="148,73,142,73," op-lw="2"/>
+<polyline pts="138,73,133,73," op-lw="2"/>
+<polyline pts="130,73,124,73," op-lw="2"/>
+<polyline pts="120,73,115,73," op-lw="2"/>
+<polyline pts="112,73,106,73," op-lw="2"/>
+<polyline pts="102,73,97,73," op-lw="2"/>
+<polyline pts="94,73,88,73," op-lw="2"/>
+<polyline pts="84,73,79,73," op-lw="2"/>
+<polyline pts="76,73,70,73," op-lw="2"/>
+<polyline pts="66,73,61,73," op-lw="2"/>
+<polyline pts="58,73,52,73," op-lw="2"/>
+<polyline pts="48,73,43,73," op-lw="2"/>
+<polyline pts="40,73,34,73," op-lw="2"/>
+<polyline pts="30,73,25,73," op-lw="2"/>
+<polyline pts="22,73,16,73," op-lw="2"/>
+<polyline pts="12,73,7,73," op-lw="2"/>
+<polyline pts="4,73,-2,73," op-lw="2"/>
+<polyline pts="-6,73,-11,73," op-lw="2"/>
+<polyline pts="-14,73,-20,73," op-lw="2"/>
+<polyline pts="-24,73,-29,73," op-lw="2"/>
+<polyline pts="-32,73,-38,73," op-lw="2"/>
+<polyline pts="-42,73,-47,73," op-lw="2"/>
+<polyline pts="-50,73,-56,73," op-lw="2"/>
+<polyline pts="-60,73,-65,73," op-lw="2"/>
+<polyline pts="-68,73,-68,68," op-lw="2"/>
+<polyline pts="-68,64,-68,59," op-lw="2"/>
+<polyline pts="-68,55,-68,50," op-lw="2"/>
+<polyline pts="-68,46,-68,41," op-lw="2"/>
+<polyline pts="-68,37,-68,32," op-lw="2"/>
+<polyline pts="-68,28,-68,23," op-lw="2"/>
+<polyline pts="-68,19,-68,14," op-lw="2"/>
+<polyline pts="-68,10,-68,5," op-lw="2"/>
+<polyline pts="-68,1,-68,-4," op-lw="2"/>
+<polyline pts="-68,-8,-68,-13," op-lw="2"/>
+<polyline pts="-68,-17,-68,-22," op-lw="2"/>
+<polyline pts="-68,-26,-68,-31," op-lw="2"/>
+<polyline pts="-68,-35,-68,-40," op-lw="2"/>
+<polyline pts="-68,-44,-68,-49," op-lw="2"/>
+<polyline pts="-68,-53,-68,-58," op-lw="2"/>
+<polyline pts="-68,-62,-68,-67," op-lw="2"/>
+<polyline pts="-68,-71,-68,-72," op-lw="2"/>
+<polyline pts="0,-72,0,73," op-lw="4"/>
+<rect left="-9" top="-26" right="9" bottom="-6" op-lw="4"/>
+<polyline pts="11,20,11,22,10,25,9,27,7,29,5,30,2,31,0,31,-2,31,-5,30,-7,29,-9,27,-10,25,-11,22,-11,20," op-lw="4"/>
+<polyline pts="40,-72,40,73," op-lw="4"/>
+<rect left="31" top="-26" right="49" bottom="-6" op-lw="4"/>
+<polyline pts="51,20,51,22,50,25,49,27,47,29,45,30,42,31,40,31,38,31,35,30,33,29,31,27,30,25,29,22,29,20," op-lw="4"/>
+<polyline pts="80,-72,80,73," op-lw="4"/>
+<rect left="71" top="-26" right="89" bottom="-6" op-lw="4"/>
+<polyline pts="91,20,91,22,90,25,89,27,87,29,85,30,82,31,80,31,78,31,75,30,73,29,71,27,70,25,69,22,69,20," op-lw="4"/>
+<ellipse left="-12" top="-14" right="92" bottom="14" op-lw="2"/>
+<outlet x="0" y="-72"/>
+<outlet x="0" y="73"/>
+<outlet x="40" y="-72"/>
+<outlet x="40" y="73"/>
+<outlet x="80" y="-72"/>
+<outlet x="80" y="73"/>
+</layer></layers>
+</ppd>
+</document>

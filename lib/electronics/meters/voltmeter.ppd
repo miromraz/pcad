@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="voltmeter" t="MP" v="" n="EN 60617: 08-02-01" fG="f6f621df-dd85-5e1a-b5df-38d03f183d30" lG="be1f1b04-a6a0-5c06-99c3-2e9665760faf">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">V</text>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

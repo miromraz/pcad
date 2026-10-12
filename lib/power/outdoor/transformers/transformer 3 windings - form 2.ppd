@@ -1,0 +1,23 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="transformer 3 windings - form 2" t="" v="" n="EN 60617: 06-09-05" fG="652f0253-d5ca-5087-8093-6aa76ae60767" lG="55403de2-1ad1-5aaf-8526-01c543c90d18">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-100,0,100,0," op-lw="4"/>
+<ellipse left="-100" top="-20" right="-60" bottom="20" op-lw="4"/>
+<ellipse left="-47" top="-20" right="-7" bottom="20" op-lw="4"/>
+<ellipse left="7" top="-20" right="47" bottom="20" op-lw="4"/>
+<ellipse left="60" top="-20" right="100" bottom="20" op-lw="4"/>
+<polyline pts="-100,0,-100,20," op-lw="4"/>
+<polyline pts="-20,0,-20,20," op-lw="4"/>
+<polyline pts="20,0,20,20," op-lw="4"/>
+<polyline pts="100,0,100,20," op-lw="4"/>
+<polyline pts="40,0,40,-20," op-lw="4"/>
+<polyline pts="-40,0,-40,-20," op-lw="4"/>
+<outlet x="-100" y="20"/>
+<outlet x="-20" y="20"/>
+<outlet x="20" y="20"/>
+<outlet x="100" y="20"/>
+<outlet x="40" y="-20"/>
+<outlet x="-40" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

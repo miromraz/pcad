@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="rotary switch - 1 pole" t="" v="" n="EN 60617: 07-02-01" fG="bc98d56c-d3d4-5c33-bf9d-c283289aeb69" lG="14bd8bf6-2a68-511a-8f44-7648570511c5">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-3" top="-3" right="3" bottom="3" op-lw="2" op-fd="1"/>
+<polyline pts="-25,-35,-20,-28," op-lw="4"/>
+<polyline pts="0,0,-20,-28," op-lw="4"/>
+<polygon pts="-20,-28,-7,-21,-17,-14," op-lw="4" op-fd="1"/>
+<polyline pts="0,0,9,4," op-lw="2"/>
+<outlet x="-25" y="-35"/>
+<outlet x="0" y="0"/>
+</layer></layers>
+</ppd>
+</document>

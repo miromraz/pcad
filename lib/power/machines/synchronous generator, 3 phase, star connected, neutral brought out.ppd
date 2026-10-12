@@ -1,0 +1,18 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="synchronous generator, 3 phase, star connected, neutral brought out" t="" v="" n="EN 60617: 06-07-03" fG="75d2fa1d-07e7-5f45-903b-b7aa5f96fa38" lG="d7e6eb70-cfbe-5d2c-8da7-4bbc77badfce">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polyline pts="0,-90,0,-60," op-lw="4"/>
+<polyline pts="0,60,0,90," op-lw="4"/>
+<text x="0" y="-18" al="9" f="78,0,0,0,Arial,000000">GS</text>
+<text x="0" y="18" al="9" f="78,0,0,0,Arial,000000">3~</text>
+<outlet x="-60" y="0"/>
+<outlet x="-40" y="-45"/>
+<outlet x="-20" y="-57"/>
+<outlet x="0" y="-60"/>
+<outlet x="20" y="-57"/>
+<outlet x="40" y="-44"/>
+<outlet x="60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

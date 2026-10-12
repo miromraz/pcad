@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="operating device of an electronic relay" t="" v="" n="EN 60617: 07-15-22" fG="5eb4d8d8-f9e5-5060-80ad-b03d64349314" lG="fd89d897-a510-5def-9bb6-a6baa16996fb">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-20" right="40" bottom="20" op-lw="4"/>
+<outlet x="0" y="20"/>
+<outlet x="0" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

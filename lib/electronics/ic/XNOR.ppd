@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="XNOR" t="" v="" n="EN 60617: 12-07-02" fG="2813415a-a700-592c-9e09-a6b266cc2d72" lG="03221b64-66a9-50c2-8d1d-e841de67ccfc">
+<layers current="0"><layer name="0" v="1">
+<rect left="-50" top="-68" right="50" bottom="68" op-lw="4"/>
+<polyline pts="-50,50,-80,50," op-lw="4"/>
+<polyline pts="-50,-50,-80,-50," op-lw="4"/>
+<text x="0" y="0" al="9" f="60,0,0,0,Arial,000000">=1</text>
+<ellipse left="50" top="-8" right="66" bottom="8" op-lw="4"/>
+<polyline pts="66,0,90,0," op-lw="4"/>
+<outlet x="-80" y="50"/>
+<outlet x="-80" y="-50"/>
+<outlet x="90" y="0"/>
+</layer></layers>
+</ppd>
+</document>

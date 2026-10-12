@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="straight section with tap-off adjustable in steps (shown with 1m steps)" t="" v="" n="EN 60617: 11-17-27" fG="9ec34e21-7548-503e-991b-f9201024912c" lG="79664fea-2bbb-54aa-b06c-84e97f8f9aac">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-80,-10,80,-10," op-lw="4"/>
+<polyline pts="-80,10,80,10," op-lw="4"/>
+<polyline pts="0,-20,0,19," op-lw="4"/>
+<ellipse left="-4" top="-4" right="4" bottom="4" op-lw="2" op-fd="1"/>
+<polyline pts="-52,-31,-52,31," op-lw="2"/>
+<polyline pts="-58,-28,-46,-28," op-lw="2"/>
+<polyline pts="-58,-14,-46,-14," op-lw="2"/>
+<polyline pts="-58,0,-46,0," op-lw="2"/>
+<polyline pts="-58,14,-46,14," op-lw="2"/>
+<polyline pts="-58,28,-46,28," op-lw="2"/>
+<text x="40" y="23" al="9" f="31,0,0,0,Arial,000000">1m</text>
+<outlet x="0" y="-20"/>
+<outlet x="0" y="19"/>
+</layer></layers>
+</ppd>
+</document>

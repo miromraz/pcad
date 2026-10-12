@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="three-way switch" t="" v="" n="EN 60617: 211-06-02" fG="d5add2eb-61d6-5f1b-92f7-ac96e80d0b2c" lG="0ae85e55-7e88-5f42-ba0f-ee08cc38d1a1">
+<layers current="0"><layer name="0" v="1">
+<text x="0" y="0" al="9" f="69,0,0,0,Arial,000000">S₃</text>
+<outlet x="0" y="20"/>
+<outlet x="20" y="0"/>
+<outlet x="0" y="-20"/>
+<outlet x="-20" y="0"/>
+</layer></layers>
+</ppd>
+</document>

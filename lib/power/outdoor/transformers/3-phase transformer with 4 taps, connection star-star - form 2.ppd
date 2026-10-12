@@ -1,0 +1,50 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="3-phase transformer with 4 taps, connection star-star - form 2" t="" v="" n="EN 60617: 06-10-10" fG="ec37f152-7935-5c9f-a4cd-fd178ee2c44f" lG="b0414974-7bb2-5a85-92a3-2b6e451e4a7a">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-90" top="-54" right="-70" bottom="-34" op-lw="4"/>
+<ellipse left="-90" top="34" right="-70" bottom="54" op-lw="4"/>
+<ellipse left="-10" top="-54" right="10" bottom="-34" op-lw="4"/>
+<ellipse left="-10" top="34" right="10" bottom="54" op-lw="4"/>
+<ellipse left="70" top="-54" right="90" bottom="-34" op-lw="4"/>
+<ellipse left="70" top="34" right="90" bottom="54" op-lw="4"/>
+<polyline pts="-80,-44,80,-44," op-lw="4"/>
+<polyline pts="-80,44,80,44," op-lw="4"/>
+<polyline pts="-80,54,-80,120," op-lw="4"/>
+<polyline pts="0,54,0,120," op-lw="4"/>
+<polyline pts="80,54,80,120," op-lw="4"/>
+<polyline pts="80,-54,80,-140," op-lw="4"/>
+<polyline pts="0,-54,0,-140," op-lw="4"/>
+<polyline pts="-80,-54,-80,-140," op-lw="4"/>
+<polyline pts="0,-54,0,-120," op-lw="4"/>
+<polyline pts="0,-54,0,-100," op-lw="4"/>
+<polyline pts="0,-54,0,-80," op-lw="4"/>
+<polyline pts="0,-54,0,-60," op-lw="4"/>
+<polyline pts="-80,-54,-80,-120," op-lw="4"/>
+<polyline pts="-80,-54,-80,-100," op-lw="4"/>
+<polyline pts="-80,-54,-80,-80," op-lw="4"/>
+<polyline pts="-80,-54,-80,-60," op-lw="4"/>
+<polyline pts="80,-54,80,-120," op-lw="4"/>
+<polyline pts="80,-54,80,-100," op-lw="4"/>
+<polyline pts="80,-54,80,-80," op-lw="4"/>
+<polyline pts="80,-54,80,-60," op-lw="4"/>
+<outlet x="-80" y="120"/>
+<outlet x="0" y="120"/>
+<outlet x="80" y="120"/>
+<outlet x="80" y="-140"/>
+<outlet x="0" y="-140"/>
+<outlet x="-80" y="-140"/>
+<outlet x="0" y="-120"/>
+<outlet x="0" y="-100"/>
+<outlet x="0" y="-80"/>
+<outlet x="0" y="-60"/>
+<outlet x="-80" y="-120"/>
+<outlet x="-80" y="-100"/>
+<outlet x="-80" y="-80"/>
+<outlet x="-80" y="-60"/>
+<outlet x="80" y="-120"/>
+<outlet x="80" y="-100"/>
+<outlet x="80" y="-80"/>
+<outlet x="80" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

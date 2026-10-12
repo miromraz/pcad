@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="fire extinguisher" t="" v="" n="EN 60617: 211-06-02" fG="66992838-8c31-53b6-957d-c97fefb45366" lG="ee68a3ae-8514-5a7e-8424-ee60001e2870">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-25" top="-25" right="25" bottom="25" op-lw="4"/>
+<text x="0" y="0" al="9" f="86,0,0,0,Arial,000000">F</text>
+<outlet x="-25" y="0"/>
+<outlet x="25" y="0"/>
+<outlet x="0" y="25"/>
+<outlet x="0" y="-25"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="actuator with time delay" t="" v="" n="EN 60617: 10-17-04" fG="d0c0df7e-ae3a-5b72-b953-e9af9f5a5cdf" lG="cf6b0f2e-5081-5cd1-9446-4f2bca3fe2e3">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">Δt</text>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

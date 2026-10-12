@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="straight section consisting of two wiring systems (shown as A and B)" t="" v="" n="EN 60617: 11-17-32" fG="a1ed29e0-f4f7-5f1b-954b-88cfdde45c83" lG="1bc3378f-4cea-5545-ae4f-97c0d9b64565">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-80,-40,80,-40," op-lw="4"/>
+<polyline pts="-80,-24,80,-24," op-lw="4"/>
+<polyline pts="-80,24,80,24," op-lw="4"/>
+<polyline pts="-80,40,80,40," op-lw="4"/>
+<text x="-64" y="-32" al="9" f="27,0,0,0,Arial,000000">A</text>
+<text x="-64" y="32" al="9" f="27,0,0,0,Arial,000000">B</text>
+
+</layer></layers>
+</ppd>
+</document>

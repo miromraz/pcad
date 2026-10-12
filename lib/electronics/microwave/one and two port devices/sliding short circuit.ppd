@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="sliding short circuit" t="" v="" n="EN 60617: 10-08-24" fG="1f463959-5445-5422-87d8-66dd84532e76" lG="d29c9697-0291-5be3-899f-63b6378e2acd">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,0,10,0," op-lw="4"/>
+<rect left="10" top="-45" right="50" bottom="45" op-lw="4"/>
+<polyline pts="0,-52,55,-52," op-lw="4"/>
+<polygon pts="55,-52,41,-46,41,-58," op-lw="4" op-fd="1"/>
+<outlet x="-40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

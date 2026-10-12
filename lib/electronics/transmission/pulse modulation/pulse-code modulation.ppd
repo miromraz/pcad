@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pulse-code modulation" t="" v="" n="EN 60617: 10-12-06" fG="43c65cf5-8669-5c07-9636-bf24454367aa" lG="523bb019-bc65-578d-b38c-f8276538b2d6">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-45,35,45,35," op-lw="4"/>
+<polyline pts="-45,4,-32,4,-32,-35,-19,-35,-19,4,-6,4,-6,-35,6,-35,6,-35,19,-35,19,4,32,4,32,-35,45,-35," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

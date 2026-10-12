@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="pulse-code modulation - x-out-of-y code" t="" v="" n="EN 60617: 10-12-07" fG="1c883599-3ad0-5638-97a4-282283dc795a" lG="2bdd7e87-8e0a-58a7-85d2-e2bf4fdd5103">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-45,35,45,35," op-lw="4"/>
+<polyline pts="-45,4,-32,4,-32,-35,-19,-35,-19,4,-6,4,-6,-35,6,-35,6,-35,19,-35,19,4,32,4,32,-35,45,-35," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

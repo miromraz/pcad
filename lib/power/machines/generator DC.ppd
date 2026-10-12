@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="generator DC" t="" v="" n="EN 60617: 06-04-01" fG="781848b0-7bd4-54f1-916b-4273035bdc9a" lG="abe0dd5e-f297-5dc4-9d2a-207afe353057">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<text x="0" y="-18" al="9" f="70,0,0,0,Arial,000000">G</text>
+<polyline pts="-16,20,16,20," op-lw="4"/>
+<polyline pts="-16,28,16,28," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

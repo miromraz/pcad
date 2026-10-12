@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="reed switch" t="" v="" n="EN 60617: 07-05-01" fG="02b48e7c-91cc-5ed8-b845-afc326d6d29c" lG="ad3ef306-6c08-5567-b367-0633d24b9779">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-99,0,-28," op-lw="4"/>
+<polyline pts="0,99,0,28," op-lw="4"/>
+<polyline pts="0,28,11,-28," op-lw="4"/>
+<ellipse left="-20" top="-42" right="20" bottom="42" op-lw="4"/>
+<outlet x="0" y="-99"/>
+<outlet x="0" y="99"/>
+</layer></layers>
+</ppd>
+</document>

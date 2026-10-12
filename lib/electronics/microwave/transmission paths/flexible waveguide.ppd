@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="flexible waveguide" t="" v="" n="EN 60617: 10-07-10" fG="781b20b4-fd43-57fd-8b53-64f26a2a6aa3" lG="fc0b9f55-86ff-55a8-8c72-a30ae2ac442e">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-30,0,-25,18,-15,-18,-5,18,5,-18,15,18,25,-18,30,0," op-lw="4"/>
+<outlet x="-30" y="0"/>
+<outlet x="30" y="0"/>
+</layer></layers>
+</ppd>
+</document>

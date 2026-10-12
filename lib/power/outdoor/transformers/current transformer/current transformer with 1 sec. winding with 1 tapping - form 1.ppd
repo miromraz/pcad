@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="current transformer with 1 sec. winding with 1 tapping - form 1" t="" v="" n="EN 60617: 06-13-06" fG="6a8d8ed0-e54f-5e24-ba6c-45ecfee4b8fe" lG="5afca053-dfac-5c48-ae63-2d0b9c2acc1a">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-30" top="-30" right="30" bottom="30" op-lw="4"/>
+<polyline pts="0,-40,0,40," op-lw="4"/>
+<outlet x="0" y="-40"/>
+<outlet x="0" y="40"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="IR receiver" t="" v="" n="EN 60617: 10-17-04" fG="cc5e50eb-69d2-5585-8d29-bbba20208fa5" lG="94958ab6-7a11-5143-b5f4-b7b84ec43101">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">IR</text>
+<polyline pts="168,-32,100,-4," op-lw="4"/>
+<polygon pts="100,-4,111,-15,115,-4," op-lw="4" op-fd="1"/>
+<polyline pts="170,-8,100,20," op-lw="4"/>
+<polygon pts="100,20,111,9,115,20," op-lw="4" op-fd="1"/>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

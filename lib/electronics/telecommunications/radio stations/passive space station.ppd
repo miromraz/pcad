@@ -1,0 +1,21 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="passive space station" t="" v="" n="EN 60617: 10-06-11" fG="27882e65-d746-5a7e-a83b-9ca968efce06" lG="813dd3c7-80bd-5783-9b56-5c2257adeb0a">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-18" top="-18" right="18" bottom="18" op-lw="4"/>
+<polyline pts="-18,0,-40,0," op-lw="4"/>
+<polyline pts="0,18,0,40," op-lw="4"/>
+<polyline pts="18,0,40,0," op-lw="4"/>
+<polyline pts="0,-18,0,-40," op-lw="4"/>
+<rect left="-16" top="-44" right="16" bottom="-92" op-lw="4"/>
+<polyline pts="0,-44,0,-92," op-lw="4"/>
+<rect left="-16" top="44" right="16" bottom="92" op-lw="4"/>
+<polyline pts="0,44,0,92," op-lw="4"/>
+<rect left="-44" top="-16" right="-65" bottom="16" op-lw="4"/>
+<rect left="44" top="-16" right="65" bottom="16" op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="40" y="0"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

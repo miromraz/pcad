@@ -6,35 +6,35 @@
  },
  "parts": [
   {
-   "sym": "switches/switch SPST",
+   "sym": "power/switching/make-contacts/make contact",
    "ref": "Q1",
    "x": 32,
    "y": 40,
    "hide_ref": true
   },
   {
-   "sym": "passive/fuse",
+   "sym": "other/miscellaneous/fuses/fuse, general symbol",
    "ref": "F1",
    "x": 32,
    "y": 58,
    "hide_ref": true
   },
   {
-   "sym": "switches/switch SPST",
+   "sym": "power/switching/make-contacts/make contact",
    "ref": "Q2",
    "x": 40,
    "y": 40,
    "hide_ref": true
   },
   {
-   "sym": "passive/fuse",
+   "sym": "other/miscellaneous/fuses/fuse, general symbol",
    "ref": "F2",
    "x": 40,
    "y": 58,
    "hide_ref": true
   },
   {
-   "sym": "switches/switch SPST",
+   "sym": "power/switching/make-contacts/make contact",
    "ref": "Q3",
    "x": 48,
    "y": 40,
@@ -42,14 +42,14 @@
    "val": ""
   },
   {
-   "sym": "passive/fuse",
+   "sym": "other/miscellaneous/fuses/fuse, general symbol",
    "ref": "F3",
    "x": 48,
    "y": 58,
    "hide_ref": false
   },
   {
-   "sym": "power/motor 3-phase",
+   "sym": "power/machines/motors/induction motor, 3 phase, squirrel cage",
    "ref": "M1",
    "val": "M 3~",
    "x": 40,
@@ -109,7 +109,15 @@
   ],
   [
    "F1.2",
-   "M1.2"
+   [
+    32,
+    68
+   ],
+   [
+    38,
+    68
+   ],
+   "M1.3"
   ],
   [
    [
@@ -139,7 +147,15 @@
   ],
   [
    "F3.2",
-   "M1.1"
+   [
+    48,
+    68
+   ],
+   [
+    42,
+    68
+   ],
+   "M1.5"
   ]
  ]
 }

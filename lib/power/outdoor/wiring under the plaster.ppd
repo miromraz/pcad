@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="wiring under the plaster" t="" v="" n="EN 60617: 211-01-06, 211-01-04 211-01-05" fG="db4a7d7f-5e4d-5b3b-a728-6bf5b8137cd2" lG="625294bf-b9dd-55d8-a648-22396abf0764">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-28,0,28,0," op-lw="4"/>
+<polyline pts="-21,12,-11,-12," op-lw="4"/>
+<polyline pts="-5,12,5,-12," op-lw="4"/>
+<polyline pts="11,12,21,-12," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

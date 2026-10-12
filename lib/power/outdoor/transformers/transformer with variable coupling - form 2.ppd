@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="transformer with variable coupling - form 2" t="" v="" n="EN 60617: 06-10-06" fG="8e90655c-21d5-534d-bb8c-66770b880a27" lG="2a7ec4e7-e386-55ae-8639-f9585c9f7dcb">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,0,40,0," op-lw="4"/>
+<ellipse left="-40" top="-20" right="0" bottom="20" op-lw="4"/>
+<ellipse left="0" top="-20" right="40" bottom="20" op-lw="4"/>
+<polyline pts="-40,0,-40,20," op-lw="4"/>
+<polyline pts="40,0,40,20," op-lw="4"/>
+<polyline pts="40,0,40,-20," op-lw="4"/>
+<polyline pts="-40,0,-40,-20," op-lw="4"/>
+<polyline pts="-32,48,32,-48," op-lw="4"/>
+<polygon pts="32,-48,29,-33,19,-40," op-lw="4" op-fd="1"/>
+<outlet x="-40" y="20"/>
+<outlet x="40" y="20"/>
+<outlet x="40" y="-20"/>
+<outlet x="-40" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,8 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="equipotentionality" t="" v="" n="EN 60617: 02-15-05" fG="eb44cc1e-5f74-51e8-a2fd-2d8f34352d07" lG="6fdb3609-2a5e-5f11-af30-e4954a4ff3c6">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="0,-20,-20,25,20,25," op-lw="4"/>
+<outlet x="0" y="-20"/>
+</layer></layers>
+</ppd>
+</document>

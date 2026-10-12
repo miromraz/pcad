@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="symmetric protective gas discharge tube" t="" v="" n="EN 60617: 07-22-05" fG="fa3db313-6cdf-555a-9546-82b807d94b5d" lG="fd0a7989-698e-56ba-9443-47c07bd0dd91">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-34" top="-34" right="34" bottom="34" op-lw="4"/>
+<polyline pts="0,-40,0,-12," op-lw="4"/>
+<polyline pts="0,40,0,12," op-lw="4"/>
+<polyline pts="-14,-12,14,-12," op-lw="4"/>
+<polyline pts="-14,12,14,12," op-lw="4"/>
+<polyline pts="-34,0,-40,0," op-lw="4"/>
+<polyline pts="-10,0,10,0," op-lw="4"/>
+<outlet x="-40" y="0"/>
+<outlet x="0" y="40"/>
+<outlet x="0" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

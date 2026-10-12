@@ -1,0 +1,20 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="photovoltaic generator" t="" v="" n="EN 60617: 06-18-06" fG="11720049-8889-5ec4-84bc-54acaa53d0de" lG="a581af13-a658-5c1d-84c4-90bff5168eb4">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">G</text>
+<polyline pts="0,-60,0,-80," op-lw="4"/>
+<polyline pts="0,60,0,80," op-lw="4"/>
+<polyline pts="-60,0,-80,0," op-lw="4"/>
+<polyline pts="60,0,80,0," op-lw="4"/>
+<polyline pts="-107,-66,-50,-9," op-lw="4"/>
+<polygon pts="-50,-9,-64,-15,-56,-23," op-lw="4" op-fd="1"/>
+<polyline pts="-107,-22,-50,35," op-lw="4"/>
+<polygon pts="-50,35,-64,29,-56,21," op-lw="4" op-fd="1"/>
+<outlet x="0" y="-80"/>
+<outlet x="0" y="80"/>
+<outlet x="-80" y="0"/>
+<outlet x="80" y="0"/>
+</layer></layers>
+</ppd>
+</document>

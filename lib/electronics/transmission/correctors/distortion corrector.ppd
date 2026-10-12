@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="distortion corrector" t="" v="" n="EN 60617: 10-16-14" fG="1bd2001b-2b52-5e40-ba76-172a3c76076d" lG="7f24d53e-12d0-5d40-ae56-f24cce28f4eb">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polyline pts="-38,0,38,0," op-lw="2"/>
+<polyline pts="0,-31,0,31," op-lw="2"/>
+<polyline pts="-38,19,8,9,38,-31," op-lw="4"/>
+<outlet x="0" y="60"/>
+<outlet x="0" y="-60"/>
+<outlet x="60" y="0"/>
+<outlet x="-60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

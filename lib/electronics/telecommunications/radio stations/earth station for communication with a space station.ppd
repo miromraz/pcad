@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="earth station for communication with a space station" t="" v="" n="EN 60617: 10-06-13" fG="716a58b9-de37-561e-8ad9-a0449ae1b44b" lG="42009b7b-ed09-5abb-8ae6-5b0470ae3488">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-32,0,60," op-lw="4"/>
+<polyline pts="0,-32,-30,-80," op-lw="4"/>
+<polyline pts="0,-32,30,-80," op-lw="4"/>
+<polyline pts="0,60,-30,60," op-lw="4"/>
+<polyline pts="0,60,30,60," op-lw="4"/>
+<polyline pts="0,60,0,80," op-lw="4"/>
+<polyline pts="15,24,33,-2," op-lw="4"/>
+<polygon pts="33,-2,30,13,20,6," op-lw="4" op-fd="1"/>
+<polyline pts="-33,-2,-15,24," op-lw="4"/>
+<polygon pts="-15,24,-28,16,-18,9," op-lw="4" op-fd="1"/>
+<outlet x="-30" y="60"/>
+<outlet x="30" y="60"/>
+<outlet x="0" y="80"/>
+</layer></layers>
+</ppd>
+</document>

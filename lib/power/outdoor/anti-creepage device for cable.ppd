@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="anti-creepage device for cable" t="" v="" n="EN 60617: 11-04-06" fG="608cb99c-112e-5003-9492-889054ecfffe" lG="94f2d97a-93be-56ce-bf1b-153f1e000f09">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-22,0,22,0," op-lw="4"/>
+<polyline pts="-15,14,-8,-14,-1,14," op-lw="4"/>
+<polyline pts="1,14,8,-14,15,14," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

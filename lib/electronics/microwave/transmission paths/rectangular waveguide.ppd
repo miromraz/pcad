@@ -1,0 +1,8 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="rectangular waveguide" t="" v="" n="EN 60617: 10-07-01" fG="778bc9b8-e75e-5009-bc02-e7ccaee40a60" lG="f6ac43a2-0e4f-573c-a39b-8c64b79936fb">
+<layers current="0"><layer name="0" v="1">
+<rect left="-10" top="-20" right="10" bottom="20" op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

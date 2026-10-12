@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="expansion unit for enclosure and conductors" t="" v="" n="EN 60617: 11-17-13" fG="1fc55300-7643-5d7e-97d2-9bb25bef9bca" lG="8b0482bc-20ed-57f8-948b-cc35925a8d7b">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-80,-36,80,-36," op-lw="4"/>
+<polyline pts="-80,36,80,36," op-lw="4"/>
+<polyline pts="-80,0,-22,0," op-lw="4"/>
+<polyline pts="22,0,80,0," op-lw="4"/>
+<polyline pts="-20,0,-19,-4,-18,-9,-16,-12,-12,-16,-9,-18,-4,-19,0,-20,4,-19,9,-18,12,-16,16,-12,18,-9,19,-4,20,0," op-lw="4"/>
+<polyline pts="-22,0,-20,0," op-lw="4"/>
+<polyline pts="20,0,22,0," op-lw="4"/>
+<polyline pts="-6,36,-6,-36," op-lw="2"/>
+<polyline pts="6,36,6,-36," op-lw="2"/>
+
+</layer></layers>
+</ppd>
+</document>

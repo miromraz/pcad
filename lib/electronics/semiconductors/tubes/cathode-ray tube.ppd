@@ -1,0 +1,33 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="cathode-ray tube" t="E" v="" n="EN 60617: 05-11-01" fG="3334021a-f210-57bc-8efb-c8266d452347" lG="f2a50a8e-7198-5361-ba46-b0d9a7e69707">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-180,-30,-260,-30,-260,30,-180,30," op-lw="4"/>
+<polyline pts="-260,-30,-260,30," op-lw="4"/>
+<polyline pts="-180,-30,210,-140,210,140,-180,30,-180,-30," op-lw="4"/>
+<polyline pts="210,-140,210,140," op-lw="4"/>
+<polyline pts="-240,0,-180,0," op-lw="4"/>
+<polyline pts="-150,-18,-150,18," op-lw="2"/>
+<polyline pts="-120,-18,-120,18," op-lw="2"/>
+<polyline pts="-90,-18,-90,18," op-lw="2"/>
+<polyline pts="-40,-40,40,-40," op-lw="4"/>
+<polyline pts="-40,40,40,40," op-lw="4"/>
+<polyline pts="-10,-70,-10,-24," op-lw="4"/>
+<polyline pts="80,-24,80,24," op-lw="4"/>
+<outlet x="-280" y="-30"/>
+<outlet x="-280" y="-20"/>
+<outlet x="-280" y="20"/>
+<outlet x="-100" y="40"/>
+<outlet x="-80" y="40"/>
+<outlet x="-60" y="40"/>
+<outlet x="-40" y="40"/>
+<outlet x="0" y="20"/>
+<outlet x="60" y="20"/>
+<outlet x="60" y="-20"/>
+<outlet x="0" y="-20"/>
+<outlet x="-40" y="-40"/>
+<outlet x="-60" y="-40"/>
+<outlet x="-80" y="-40"/>
+<outlet x="-100" y="-40"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="transil unidirectional" t="trsl" v="" n="EN 60617: 05-03-06" fG="a7e84fcb-976b-52a6-9a07-26b14a0ec39c" lG="3f05cb42-0801-5c3f-a04b-2a8078f01a38">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-14,-20,-14,20,14,0," op-lw="4"/>
+<polyline pts="14,-20,14,20," op-lw="4"/>
+<polyline pts="14,-20,22,-25," op-lw="4"/>
+<polyline pts="-14,0,-20,0," op-lw="4"/>
+<polyline pts="14,0,20,0," op-lw="4"/>
+<outlet x="-20" y="0"/>
+<outlet x="20" y="0"/>
+</layer></layers>
+</ppd>
+</document>

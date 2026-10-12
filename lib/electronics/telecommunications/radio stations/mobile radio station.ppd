@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="mobile radio station" t="" v="" n="EN 60617: 10-06-07" fG="b1d0c730-bec8-5001-ad3b-7addc701f3e2" lG="7158351c-5d94-5084-abc1-941cd41dfef0">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-42,0,60," op-lw="4"/>
+<polyline pts="0,-42,-30,-95," op-lw="4"/>
+<polyline pts="0,-42,30,-95," op-lw="4"/>
+<polyline pts="0,60,0,80," op-lw="4"/>
+<polyline pts="0,60,30,60," op-lw="4"/>
+<polyline pts="0,60,-30,60," op-lw="4"/>
+<polyline pts="15,19,33,-7," op-lw="4"/>
+<polygon pts="33,-7,30,8,20,1," op-lw="4" op-fd="1"/>
+<polyline pts="-33,-7,-15,19," op-lw="4"/>
+<polygon pts="-15,19,-28,11,-18,4," op-lw="4" op-fd="1"/>
+<outlet x="0" y="80"/>
+<outlet x="30" y="60"/>
+<outlet x="-30" y="60"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="page-printing receiver" t="volic" v="" n="EN 60617: 09-06-04" fG="38fae5a6-e95f-561f-8082-fcb437eac8d8" lG="dc3b8ca9-d9ae-5cdb-a9d3-a7e548ca578c">
+<layers current="0"><layer name="0" v="1">
+<rect left="-50" top="-55" right="50" bottom="55" op-lw="4"/>
+<polyline pts="-34,-35,34,-35," op-lw="4"/>
+<polyline pts="-34,-21,26,-21," op-lw="4"/>
+<polyline pts="-34,-7,18,-7," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="positive peak clipper" t="" v="" n="EN 60617: 10-17-04" fG="a338fb34-f387-50a4-8a2d-e356d56c2c37" lG="5dc80976-0dd2-5710-9949-151a9fbbe8f3">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polyline pts="-38,0,38,0," op-lw="2"/>
+<polyline pts="0,-26,0,26," op-lw="2"/>
+<polyline pts="-38,26,8,-26,38,-26," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

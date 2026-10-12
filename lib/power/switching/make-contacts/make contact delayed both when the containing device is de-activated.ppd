@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="make contact delayed both when the containing device is de-activated" t="" v="" n="EN 60617: 07-05-02" fG="e3013176-072d-5b1c-8be3-9e681ea98be6" lG="18a42035-4e4d-5b31-a733-db22fff14561">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,51,-18," op-lw="4"/>
+<polyline pts="14,0,15,-2,16,-5,17,-7,19,-9,21,-10,23,-11,25,-11,28,-11,30,-10,32,-9,34,-7,35,-5,36,-2,36,0," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

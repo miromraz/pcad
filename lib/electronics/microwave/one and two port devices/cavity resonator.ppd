@@ -1,0 +1,8 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="cavity resonator" t="" v="" n="EN 60617: 10-08-17" fG="b7c00635-0b80-557f-bdb8-f5e72fc94507" lG="139f1617-b9c2-5acc-9d78-3ff9022dd1ae">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

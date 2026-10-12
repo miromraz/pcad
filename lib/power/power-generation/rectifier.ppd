@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="rectifier" t="" v="" n="EN 60617: 06-14-03" fG="e15be6cb-3164-5fff-97e1-39fa538f3f00" lG="afc7c963-fc41-5aee-b755-cbc1166b201e">
+<layers current="0"><layer name="0" v="1">
+<rect left="-60" top="-65" right="60" bottom="65" op-lw="4"/>
+<polyline pts="-60,65,60,-65," op-lw="4"/>
+<polyline pts="-46,35,-45,32,-43,30,-41,29,-39,28,-38,29,-36,30,-34,32,-32,35,-31,38,-29,40,-27,42,-25,42,-24,42,-22,40,-20,38,-18,35," op-lw="4"/>
+<polyline pts="18,-40,46,-40," op-lw="4"/>
+<polyline pts="18,-30,46,-30," op-lw="4"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+</layer></layers>
+</ppd>
+</document>

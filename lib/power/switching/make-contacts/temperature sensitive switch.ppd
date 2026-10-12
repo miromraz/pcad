@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="temperature sensitive switch" t="" v="" n="EN 60617: 07-09-01" fG="cf6ac5db-492f-5e42-a0a5-5740fd0d7c2b" lG="fc483a89-d02a-51dc-9cbc-3c78cc04ebea">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,50,-18," op-lw="4"/>
+<text x="25" y="0" al="9" f="69,0,0,0,Arial,000000">θ</text>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="shielded" t="stinkon" v="" n="EN 60617: 03-01-05" fG="c62c1176-33ab-5202-9283-578122a14ee7" lG="7bf5597e-77f0-5cf9-b8cc-ed420185a725">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-4" top="1" right="4" bottom="9" op-lw="2" op-fd="1"/>
+<polyline pts="-20,5,-19,1,-18,-4,-16,-7,-12,-11,-9,-13,-4,-14,0,-15,4,-14,9,-13,12,-11,16,-7,18,-4,19,1,20,5," op-lw="4"/>
+<polyline pts="-20,5,20,5," op-lw="4"/>
+<outlet x="0" y="0"/>
+<outlet x="0" y="10"/>
+</layer></layers>
+</ppd>
+</document>

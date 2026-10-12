@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="ideal gyrator" t="" v="" n="EN 60617: 02-16-03" fG="19646b0c-fd4e-5a82-90bb-653787b08fbf" lG="e847a0b7-9a0b-5c9a-a8c6-d53b9713dd42">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-20" right="40" bottom="20" op-lw="4"/>
+<ellipse left="-11" top="-11" right="11" bottom="11" op-lw="4"/>
+<polyline pts="-22,0,22,0," op-lw="4"/>
+<polygon pts="22,0,8,6,8,-6," op-lw="4" op-fd="1"/>
+<outlet x="-40" y="-20"/>
+<outlet x="-40" y="20"/>
+<outlet x="40" y="-20"/>
+<outlet x="40" y="20"/>
+</layer></layers>
+</ppd>
+</document>

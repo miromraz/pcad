@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="cross (four way connection)" t="" v="" n="EN 60617: 11-17-06" fG="de0cf62a-4c26-5798-a479-66359112f974" lG="4176db9b-15c6-5f78-8c61-b70f22c87e29">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,-10,40,-10," op-lw="4"/>
+<polyline pts="-40,10,40,10," op-lw="4"/>
+<polyline pts="-10,-40,-10,40," op-lw="4"/>
+<polyline pts="10,-40,10,40," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

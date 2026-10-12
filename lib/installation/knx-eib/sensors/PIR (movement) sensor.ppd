@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="PIR (movement) sensor" t="" v="" n="EN 60617: 10-17-04" fG="ab23eb95-987b-524b-af5a-15649b8355fd" lG="d657f49f-fc13-547c-a0b8-27f25af001c5">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">PIR</text>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+<outlet x="90" y="50"/>
+<outlet x="90" y="-50"/>
+</layer></layers>
+</ppd>
+</document>

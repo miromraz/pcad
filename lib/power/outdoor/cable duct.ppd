@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="cable duct" t="" v="" n="EN 60617: 03-04-01" fG="d8c74325-d1ef-54d8-ae5e-d4ef0a26b09e" lG="157887ef-aafc-562e-a8b9-57f2bc19cf51">
+<layers current="0"><layer name="0" v="1">
+<rect left="-15" top="-15" right="15" bottom="15" op-lw="4"/>
+<polyline pts="-15,0,15,0," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

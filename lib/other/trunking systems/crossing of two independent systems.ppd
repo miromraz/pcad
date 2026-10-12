@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="crossing of two independent systems" t="" v="" n="EN 60617: 11-17-08" fG="dd102899-5294-5a12-aead-f8c8977ed7df" lG="102af2e6-8238-5c18-9b19-0e0e1da52fd2">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,-6,40,-6," op-lw="4"/>
+<polyline pts="-40,6,40,6," op-lw="4"/>
+<polyline pts="-6,-40,-6,40," op-lw="4"/>
+<polyline pts="6,-40,6,40," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

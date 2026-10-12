@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="attenuator (map symbol)" t="" v="" n="EN 60617: 11-09-03" fG="c8569cdf-9c57-5580-a5e8-c2fe64bf89c7" lG="bae9ebae-5ed5-50e3-b86b-7b4ef33d1f5d">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-40" right="40" bottom="40" op-lw="4"/>
+<polygon pts="-26,-22,-26,22,-2,0," op-lw="4" op-fd="1"/>
+<polygon pts="26,-22,26,22,2,0," op-lw="4" op-fd="1"/>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

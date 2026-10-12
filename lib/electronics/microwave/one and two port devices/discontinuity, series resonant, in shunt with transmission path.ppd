@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="discontinuity, series resonant, in shunt with transmission path" t="" v="" n="EN 60617: 10-08-09" fG="0b5767b9-0715-5e10-89a5-947f415e0bb3" lG="630a90c0-2a72-5641-8bad-14b63501365a">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-60,0,60,0," op-lw="4"/>
+<rect left="-33" top="-50" right="33" bottom="50" op-lw="4"/>
+<ellipse left="-12" top="-26" right="12" bottom="-2" op-lw="4"/>
+<polyline pts="-14,16,14,16," op-lw="4"/>
+<polyline pts="-14,26,14,26," op-lw="4"/>
+<outlet x="-36" y="0"/>
+<outlet x="36" y="0"/>
+</layer></layers>
+</ppd>
+</document>

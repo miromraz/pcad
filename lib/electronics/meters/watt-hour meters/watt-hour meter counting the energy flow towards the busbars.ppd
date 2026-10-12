@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="watt-hour meter counting the energy flow towards the busbars" t="" v="" n="EN 60617: 08-04-06" fG="ed18c334-aafe-5efa-be32-865bb1589d68" lG="5b4f2926-8ddf-59d7-b4a7-37d55bbcee41">
+<layers current="0"><layer name="0" v="1">
+<rect left="-40" top="-60" right="40" bottom="60" op-lw="4"/>
+<text x="0" y="0" al="9" f="95,0,0,0,Arial,000000">Wh</text>
+<outlet x="-40" y="0"/>
+<outlet x="40" y="0"/>
+</layer></layers>
+</ppd>
+</document>

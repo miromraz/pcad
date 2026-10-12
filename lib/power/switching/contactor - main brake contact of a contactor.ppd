@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="contactor - main brake contact of a contactor" t="k" v="" n="EN 60617: 07-13-04" fG="1752afb9-99c1-5256-a15c-1d14f5d6fc0f" lG="fdbab622-6c53-54a1-88b0-ec704e840c0c">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-60,0,-18," op-lw="4"/>
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="0,18,21,-18," op-lw="4"/>
+<polyline pts="0,-18,21,-18," op-lw="4"/>
+<polyline pts="21,-25,21,-11," op-lw="4"/>
+<polyline pts="30,-25,30,-23,29,-21,28,-19,27,-18,25,-17,23,-16,21,-16,19,-16,17,-17,15,-18,14,-19,13,-21,12,-23,12,-25," op-lw="4"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

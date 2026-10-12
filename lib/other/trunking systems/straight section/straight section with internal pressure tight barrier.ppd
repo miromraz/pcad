@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="straight section with internal pressure tight barrier" t="" v="" n="EN 60617: 11-17-16" fG="d638fabd-4aca-5ae7-880b-b9f10ceaaf10" lG="e2a80a87-bb35-5a61-86e1-5569cf4e35d3">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-80,-10,80,-10," op-lw="4"/>
+<polyline pts="-80,10,80,10," op-lw="4"/>
+<rect left="-7" top="-60" right="7" bottom="60" op-lw="4" op-fd="1"/>
+
+</layer></layers>
+</ppd>
+</document>

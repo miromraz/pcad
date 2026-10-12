@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="solar generating station - in operation" t="" v="" n="EN 60617: 11-02-10" fG="d4546318-d7b6-5797-b186-d729b206430c" lG="cf17f88f-d820-53a7-af4a-8af358d45913">
+<layers current="0"><layer name="0" v="1">
+<ellipse left="-60" top="-60" right="60" bottom="60" op-lw="4"/>
+<polyline pts="22,0,40,0," op-lw="2"/>
+<polyline pts="16,16,28,28," op-lw="2"/>
+<polyline pts="0,22,0,40," op-lw="2"/>
+<polyline pts="-16,16,-28,28," op-lw="2"/>
+<polyline pts="-22,0,-40,0," op-lw="2"/>
+<polyline pts="-16,-16,-28,-28," op-lw="2"/>
+<polyline pts="0,-22,0,-40," op-lw="2"/>
+<polyline pts="16,-16,28,-28," op-lw="2"/>
+<outlet x="-60" y="0"/>
+<outlet x="60" y="0"/>
+<outlet x="0" y="-60"/>
+<outlet x="0" y="60"/>
+</layer></layers>
+</ppd>
+</document>

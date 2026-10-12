@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="change-over c. with off-position in the centre" t="" v="" n="EN 60617: 07-02-05" fG="34fdb072-3cd2-5091-b717-8e8a6df2047f" lG="30d94452-6e69-544b-a3da-12f98a9d2f85">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,60,0,18," op-lw="4"/>
+<polyline pts="-20,-60,-20,-18," op-lw="4"/>
+<polyline pts="20,-60,20,-18," op-lw="4"/>
+<ellipse left="-4" top="14" right="4" bottom="22" op-lw="2" op-fd="1"/>
+<polyline pts="0,18,0,-10," op-lw="4"/>
+<polyline pts="-20,-18,-7,-10," op-lw="4"/>
+<polyline pts="20,-18,7,-10," op-lw="4"/>
+<outlet x="-20" y="-60"/>
+<outlet x="0" y="60"/>
+<outlet x="20" y="-60"/>
+</layer></layers>
+</ppd>
+</document>

@@ -1,0 +1,9 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="line passing through an access chamber" t="" v="" n="EN 60617: 11-03-06" fG="4ab7fd70-d764-5294-944c-1976080f094f" lG="59b3f95e-4100-590a-8683-3f6203327669">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="-40,0,40,0," op-lw="4"/>
+<ellipse left="-29" top="-38" right="29" bottom="38" op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

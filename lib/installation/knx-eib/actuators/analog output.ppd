@@ -1,0 +1,13 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="analog output" t="" v="" n="EN 60617: 10-17-04" fG="f8b53e5e-a4e1-50c8-9bc6-3db36bb642f5" lG="0fcc0af9-0db1-5924-8aa9-ab814da42cd5">
+<layers current="0"><layer name="0" v="1">
+<rect left="-90" top="-72" right="90" bottom="72" op-lw="4"/>
+<polyline pts="-26,16,18,16,18,-16," op-lw="4"/>
+<polyline pts="-26,16,18,-16," op-lw="4"/>
+<outlet x="-90" y="0"/>
+<outlet x="0" y="72"/>
+<outlet x="90" y="0"/>
+<outlet x="0" y="-72"/>
+</layer></layers>
+</ppd>
+</document>

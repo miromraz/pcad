@@ -1,0 +1,10 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="type A - for residual alternating and pulsating direct currents" t="" v="" n="EN 60617: 07-13-10" fG="f7a831ca-ed48-5c89-99a6-b4a7c89f3b17" lG="7addb6d6-17e7-554f-aa04-ef44f124345a">
+<layers current="0"><layer name="0" v="1">
+<rect left="-44" top="-42" right="44" bottom="42" op-lw="4"/>
+<polyline pts="-29,-16,-25,-20,-22,-23,-18,-25,-15,-26,-11,-25,-7,-23,-4,-20,0,-16,4,-12,7,-9,11,-7,15,-6,18,-7,22,-9,25,-12,29,-16," op-lw="4"/>
+<polyline pts="-29,16,-27,10,-24,6,-22,5,-19,6,-17,10,-15,16,-12,10,-10,6,-7,5,-5,6,-2,10,0,16,2,11,5,6,7,5,10,6,12,11,15,16,17,11,19,6,22,5,24,6,27,10,29,16," op-lw="4"/>
+
+</layer></layers>
+</ppd>
+</document>

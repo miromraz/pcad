@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="LED" t="D" v="" n="EN 60617: 05-03-02" fG="0294f826-9216-53b2-8b2e-c3607a90d021" lG="81906ee6-04a9-56dd-ab85-5921b0b86861">
+<layers current="0"><layer name="0" v="1">
+<polygon pts="-10,-16,-10,16,10,0," op-lw="4"/>
+<polyline pts="10,-16,10,16," op-lw="4"/>
+<polyline pts="-20,0,-10,0," op-lw="4"/>
+<polyline pts="10,0,20,0," op-lw="4"/>
+<polyline pts="-4,-16,16,-44," op-lw="4"/>
+<polygon pts="16,-44,13,-29,3,-36," op-lw="4" op-fd="1"/>
+<polyline pts="8,-16,28,-44," op-lw="4"/>
+<polygon pts="28,-44,25,-29,15,-36," op-lw="4" op-fd="1"/>
+<outlet x="-20" y="0"/>
+<outlet x="20" y="0"/>
+</layer></layers>
+</ppd>
+</document>

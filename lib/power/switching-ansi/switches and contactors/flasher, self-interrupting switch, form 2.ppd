@@ -1,0 +1,12 @@
+<document type="ProfiCAD ppd" version="9.0">
+<ppd name="flasher, self-interrupting switch, form 2" t="Re" v="" n="EN 60617: 07-05-05" fG="5b49da6a-50c9-5189-9cd5-444020655509" lG="4a6a4e5e-0044-5101-8744-db1cc500b509">
+<layers current="0"><layer name="0" v="1">
+<polyline pts="0,-50,0,-18," op-lw="4"/>
+<polyline pts="0,50,0,18," op-lw="4"/>
+<polyline pts="0,18,30,-18," op-lw="4"/>
+<polyline pts="26,0,26,2,25,5,24,7,22,9,20,10,17,11,15,11,13,11,10,10,8,9,6,7,5,5,4,2,4,0," op-lw="4"/>
+<outlet x="0" y="-50"/>
+<outlet x="0" y="50"/>
+</layer></layers>
+</ppd>
+</document>
