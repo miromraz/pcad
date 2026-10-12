@@ -8,3 +8,5 @@ cleanroom/private/
 cleanroom/out/
 cleanroom/spec/
 cleanroom/lib/
+private/
+CLAUDE.local.md
