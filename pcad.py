@@ -10,6 +10,9 @@ Subcommands:
                            wiring check (ERC) on the drawing's geometry
   render <in.sxe|.ppd|.picd> <out.png|.svg> [--page N] [--scale PX_PER_MM]
                            draw it like ProfiCAD's export (PNG needs Pillow)
+  import-lib [SRC] [DEST]  copy the stock symbol library from YOUR OWN ProfiCAD
+                           install (default SRC: its "ProfiCAD Library" folder,
+                           DEST: ~/.pcad/proficad-lib), then use it via PCAD_LIB
   selftest                 run internal asserts
 
 A <symbol> is a library-relative path WITHOUT extension, e.g.
@@ -867,6 +870,45 @@ def cmd_selftest():
     print("selftest ok")
 
 
+# Where ProfiCAD installs its symbol library (Windows, then Wine prefixes).
+PROFICAD_LIB_DIRS = [
+    r"C:\Users\Public\Documents\ProfiCAD Library",
+    "~/.wine/drive_c/users/Public/Documents/ProfiCAD Library",
+    "~/.wine/drive_c/users/Public/Documents/ProfiCAD library",
+]
+
+
+def cmd_import_lib(args):
+    """Copy .ppd/.picd symbols from a local ProfiCAD install. The stock library
+    is ProfiCAD's property: it is copied for your own use, never bundled here."""
+    import shutil
+    if len(args) > 2:
+        sys.exit("usage: pcad.py import-lib [SRC] [DEST]")
+    if args:
+        src = os.path.expanduser(args[0])
+    else:
+        src = next((os.path.expanduser(d) for d in PROFICAD_LIB_DIRS
+                    if os.path.isdir(os.path.expanduser(d))), None)
+        if not src:
+            sys.exit("ProfiCAD library not found; pass its folder as SRC "
+                     "(normally C:\\Users\\Public\\Documents\\ProfiCAD Library)")
+    if not os.path.isdir(src):
+        sys.exit(f"not a directory: {src}")
+    dest = os.path.expanduser(args[1] if len(args) > 1 else "~/.pcad/proficad-lib")
+    n = 0
+    for d, _, fs in os.walk(src):
+        for f in fs:
+            if f.endswith((".ppd", ".picd")):
+                out = os.path.join(dest, os.path.relpath(d, src))
+                os.makedirs(out, exist_ok=True)
+                shutil.copy2(os.path.join(d, f), out)
+                n += 1
+    if not n:
+        sys.exit(f"no .ppd/.picd symbols under {src}")
+    print(f"copied {n} symbols from {src} to {dest}")
+    print(f"use them with:  PCAD_LIB=\"{dest}\" python3 pcad.py search ...")
+
+
 def main():
     if len(sys.argv) < 2:
         sys.exit(__doc__)
@@ -891,6 +933,8 @@ def main():
         cmd_render(sys.argv[2:])
     elif cmd == "verify":
         cmd_verify(sys.argv[2:])
+    elif cmd == "import-lib":
+        cmd_import_lib(sys.argv[2:])
     elif cmd == "selftest":
         cmd_selftest()
     else:

@@ -31,6 +31,7 @@ python3 pcad.py build <spec.json> <out.sxe>  generate a drawing
 python3 pcad.py render <in> <out.png|.svg>   render (.sxe/.ppd/.picd; PNG needs Pillow)
 python3 pcad.py verify <out.sxe>             ERC on the drawing geometry (nets + checks)
 python3 pcad.py inspect <file.sxe>           summarise an existing drawing
+python3 pcad.py import-lib [SRC] [DEST]      copy ProfiCAD's stock symbols from your own install
 python3 pcad.py selftest                     run internal asserts
 ```
 
@@ -38,14 +39,25 @@ A `<symbol>` is a library-relative path without extension, e.g.
 `electronics/passive/resistors/resistor`, `electronics/meters/ammeter`,
 `ic/555`. Use `search` to find the exact path.
 
-### Using a different library
+### Using ProfiCAD's stock symbols
 
-Set `PCAD_LIB` to point `pcad.py` at any ProfiCAD-format library directory
-(of `.ppd`/`.picd` files); it defaults to the bundled `lib/`.
+This repo ships **only** its own clean-room symbols. If you have ProfiCAD
+installed and want drawings that look exactly like ProfiCAD's, copy the stock
+library from your own install and point `PCAD_LIB` at the copy:
 
 ```
-PCAD_LIB=/path/to/other/library python3 pcad.py search resistor
+python3 pcad.py import-lib                   # finds C:\Users\Public\Documents\ProfiCAD Library (or the Wine equivalent)
+python3 pcad.py import-lib "/path/to/ProfiCAD Library" ~/.pcad/proficad-lib
+PCAD_LIB=~/.pcad/proficad-lib python3 pcad.py search ammeter
 ```
+
+The stock library belongs to ProfiCAD's author and stays on your machine; do not
+redistribute it. Stock symbol paths differ from the bundled ones, so `search`
+again after switching. A built `.sxe` embeds the symbols it uses, so it renders
+and opens in ProfiCAD without `PCAD_LIB`.
+
+`PCAD_LIB` accepts any ProfiCAD-format library directory (of `.ppd`/`.picd`
+files); it defaults to the bundled `lib/`.
 
 ## JSON spec format (coords in mm)
 
@@ -77,6 +89,18 @@ PCAD_LIB=/path/to/other/library python3 pcad.py search resistor
 
 Workflow: `search` → `pins` → write spec → `build` → `verify` (fix until PASS) →
 `render` → look at the PNG → iterate.
+
+## Claude Code skill
+
+`skills/proficad-schematic/SKILL.md` teaches a Claude Code agent the whole
+workflow (search, pins, spec, build, verify, render). Install it once:
+
+```
+ln -s "$(pwd)/skills/proficad-schematic" ~/.claude/skills/proficad-schematic
+```
+
+Every new Claude Code session then picks it up automatically, and other skills
+(e.g. a lab-report skill) can tell the agent to draw schematics with it.
 
 ## Credits
 
