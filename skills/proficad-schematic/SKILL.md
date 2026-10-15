@@ -1,6 +1,6 @@
 ---
 name: proficad-schematic
-description: Draw electrical/electronics schematics as real ProfiCAD .sxe files plus PNG/SVG from a JSON spec, using a bundled clean-room EN 60617 symbol library (~960 standard symbols drawn to EN 60617, plus generic ICs). Pure Python; ProfiCAD itself is not needed. Use when asked to draw, generate, render or check a circuit/schematic (resistors, LEDs, transistors, ICs, switches, power, relays, meters, etc.), including schematics for elaborát protocols.
+description: Draw electrical/electronics schematics as real ProfiCAD .sxe files plus PNG/SVG from a JSON spec, using either the bundled clean-room EN 60617 symbols or a locally extracted ProfiCAD stock library. Pure Python; ProfiCAD itself is not needed. Use when asked to draw, generate, render or check a circuit/schematic (resistors, LEDs, transistors, ICs, switches, power, relays, meters, etc.), including schematics for elaborát protocols.
 ---
 
 # ProfiCAD-format schematic generator
@@ -28,13 +28,23 @@ see `lib/NOTICE` for the clean-room process.
 (`.picd` multi-pin ICs). Paths are long — ALWAYS `search`/`pins` first, never
 guess. Point at a different ProfiCAD-format library with `PCAD_LIB=…`.
 
-**ProfiCAD's stock symbols** are NOT bundled (they belong to ProfiCAD's author).
-If the user has ProfiCAD installed and wants the exact ProfiCAD look, copy them
-from their own install: `python3 <pcad>/pcad.py import-lib [SRC] [DEST]` (default
-SRC `C:\Users\Public\Documents\ProfiCAD Library` or the Wine equivalent, DEST
-`~/.pcad/proficad-lib`), then prefix commands with `PCAD_LIB=~/.pcad/proficad-lib`.
-Stock paths differ (e.g. `electronics/measuring devices/ammeter`): `search` again.
-Never commit or publish the stock library.
+**ProfiCAD's stock symbols** are NOT bundled. For requests for the stock
+ProfiCAD look, read [`../../docs/stock-library.md`](../../docs/stock-library.md)
+and use the user's locally extracted stock library. The tutorial covers the
+official portable ZIP (no ProfiCAD/Wine runtime needed) and installed copies.
+Resolve the checkout path through the skill symlink before resolving this link.
+Keep downloads and extracted symbols outside the checkout; never commit or
+publish the stock library or generated drawings embedding its symbols as
+repository examples.
+
+Set `PCAD_LIB` to the absolute local library directory for **every** `search`,
+`pins`, and `build` invocation; environment settings from a separate shell call
+may not persist. Do not silently substitute the bundled symbols when the user
+requests the stock look. If the stock library is unavailable, report that and
+follow the tutorial to obtain it within the user's authorization.
+Stock paths and pin layouts differ, so run `search` and `pins` again rather than
+reusing bundled-library paths. The renderer uses the stock geometry but fonts
+and unsupported features can differ from native ProfiCAD output.
 
 ## Workflow
 
@@ -79,10 +89,11 @@ Never commit or publish the stock library.
 4. **build**: `python3 <pcad>/pcad.py build spec.json out.sxe`
 5. **render** (pure Python, no Wine, instant):
    `python3 <pcad>/pcad.py render out.sxe out.png`
-   Also renders `.sxe`/`.ppd`/`.picd` inputs and `.svg` output. Output matches
-   ProfiCAD's PNG export (used part of the document, no frame, 10 px/mm, white
-   background). Options: `--page N` (multi-page files), `--scale PX_PER_MM`
-   (default 10).
+   Also renders `.sxe`/`.ppd`/`.picd` inputs and `.svg` output. Output crops to the
+   used part of the document, with no frame,
+   10 px/mm and a white background by default; it is not guaranteed to be
+   pixel-identical to native ProfiCAD output. Options: `--page N` (multi-page
+   files), `--scale PX_PER_MM` (default 10).
 6. **verify** (required before delivering): `python3 <pcad>/pcad.py verify out.sxe` (spec arg
    also accepted). Runs a pure-Python **ERC on the .sxe geometry** (no Wine) and
    prints the nets. Exits non-zero and FAILs on:

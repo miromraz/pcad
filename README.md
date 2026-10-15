@@ -41,23 +41,23 @@ A `<symbol>` is a library-relative path without extension, e.g.
 
 ### Using ProfiCAD's stock symbols
 
-This repo ships **only** its own clean-room symbols. If you have ProfiCAD
-installed and want drawings that look exactly like ProfiCAD's, copy the stock
-library from your own install and point `PCAD_LIB` at the copy:
+For the stock ProfiCAD symbol shapes, follow the
+[stock-library extraction tutorial](docs/stock-library.md). It covers extracting
+ProfiCAD's official portable ZIP (no installation or Wine needed), importing
+from an existing Windows/Wine installation, selecting the library, and giving
+an agent a working setup.
 
-```
-python3 pcad.py import-lib                   # finds C:\Users\Public\Documents\ProfiCAD Library (or the Wine equivalent)
-python3 pcad.py import-lib "/path/to/ProfiCAD Library" ~/.pcad/proficad-lib
-PCAD_LIB=~/.pcad/proficad-lib python3 pcad.py search ammeter
-```
+The stock library is **not included in this repository**. Each user obtains it
+from ProfiCAD and keeps it outside their checkout, normally at
+`~/.pcad/proficad-lib`. The bundled `lib/` remains this project's independent
+library. Stock symbol paths and pin layouts can differ: run `search` and `pins`
+after switching. The renderer uses the selected symbol geometry; fonts and
+unsupported drawing features can differ from ProfiCAD's own export.
 
-The stock library belongs to ProfiCAD's author and stays on your machine; do not
-redistribute it. Stock symbol paths differ from the bundled ones, so `search`
-again after switching. A built `.sxe` embeds the symbols it uses, so it renders
-and opens in ProfiCAD without `PCAD_LIB`.
-
-`PCAD_LIB` accepts any ProfiCAD-format library directory (of `.ppd`/`.picd`
-files); it defaults to the bundled `lib/`.
+`PCAD_LIB` accepts a directory containing ProfiCAD-format `.ppd`/`.picd` files;
+it defaults to the bundled `lib/`. Set it for every `search`, `pins`, and `build`
+command that should use the stock library. Built `.sxe` files embed the symbols
+they use, so rendering an existing drawing does not require that library.
 
 ## JSON spec format (coords in mm)
 
@@ -90,17 +90,32 @@ files); it defaults to the bundled `lib/`.
 Workflow: `search` → `pins` → write spec → `build` → `verify` (fix until PASS) →
 `render` → look at the PNG → iterate.
 
-## Claude Code skill
+## Agent skill (Codex and Claude Code)
 
-`skills/proficad-schematic/SKILL.md` teaches a Claude Code agent the whole
-workflow (search, pins, spec, build, verify, render). Install it once:
+Clone the repository and install the skill by symlinking it, so its tools and
+references remain available. These commands are for Linux/macOS or WSL:
 
+```bash
+git clone https://github.com/miromraz/pcad.git "$HOME/pcad"
+cd "$HOME/pcad"
+# Codex:
+mkdir -p "$HOME/.agents/skills"
+ln -s "$PWD/skills/proficad-schematic" "$HOME/.agents/skills/proficad-schematic"
+# Claude Code (optional):
+mkdir -p "$HOME/.claude/skills"
+ln -s "$PWD/skills/proficad-schematic" "$HOME/.claude/skills/proficad-schematic"
 ```
-ln -s "$(pwd)/skills/proficad-schematic" ~/.claude/skills/proficad-schematic
-```
 
-Every new Claude Code session then picks it up automatically, and other skills
-(e.g. a lab-report skill) can tell the agent to draw schematics with it.
+If a skill already exists at the destination, inspect it before replacing it.
+Start a new agent session after installation. On Windows, an agent can read
+[`skills/proficad-schematic/SKILL.md`](skills/proficad-schematic/SKILL.md)
+directly from the checkout; keep that checkout available to it.
+
+The skill covers `search` → `pins` → spec → `build` → `verify` → `render` and
+visual inspection. For the stock look, complete the
+[library tutorial](docs/stock-library.md) first, then tell the agent the absolute
+checkout and library paths. Do not copy only `SKILL.md`: it needs the tools in
+this repository.
 
 ## Credits
 
